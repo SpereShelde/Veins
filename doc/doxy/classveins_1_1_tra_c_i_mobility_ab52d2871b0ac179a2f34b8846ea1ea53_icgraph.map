@@ -1,0 +1,4 @@
+<map id="veins::TraCIMobility::getRoadId" name="veins::TraCIMobility::getRoadId">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_demo11p.html#aae2d2ce4ddead5bf4fdacf8fe00ba7e8" title="this function is called every time the vehicle receives a position update signal " alt="" coords="192,5,349,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_demo11p.html#a3014dadc6ab101fa734eeb151df3567f" title="this function is called upon receiving a BaseFrame1609_4 " alt="" coords="195,71,346,112"/>
+</map>

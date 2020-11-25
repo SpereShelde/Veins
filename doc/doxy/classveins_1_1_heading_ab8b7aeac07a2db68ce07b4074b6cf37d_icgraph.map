@@ -1,0 +1,14 @@
+<map id="veins::Heading::toCoord" name="veins::Heading::toCoord">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#a0a85e6eecb5f12e6f027d5fa4c46700e" title="Calculates where the OMNeT++ module position of this car should be, given its front bumper position..." alt="" coords="216,107,373,148"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="451,5,589,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_mobility.html#a678634249e120d1e2614a628d20006f6" title="veins::TraCIMobility\l::preInitialize" alt="" coords="451,77,589,119"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="451,157,589,199"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="675,173,814,215"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#adb6dcf56295ceb53b34e83eb409a40a2" title="Filter the passed AirFrame&#39;s Signal by every registered AnalogueModel. " alt="" coords="221,325,368,367"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them. " alt="" coords="667,253,823,295"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive. " alt="" coords="421,327,619,368"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="671,329,818,371"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="1077,292,1224,333"/>
+<area shape="rect" id="node11" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="871,416,1029,457"/>
+<area shape="rect" id="node12" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="877,351,1023,392"/>
+</map>

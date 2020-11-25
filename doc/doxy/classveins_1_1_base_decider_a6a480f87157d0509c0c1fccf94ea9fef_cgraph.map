@@ -1,0 +1,6 @@
+<map id="veins::BaseDecider::processNewSignal" name="veins::BaseDecider::processNewSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#a23e6d424de9fcb0841a95cce50d4f0c7" title="Return the maximum power level of any frequency. " alt="" coords="221,5,369,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#ade8a1576fbeea65ad1a7eff31618c3b9" title="Get the point in time at which the signal reception ends. " alt="" coords="192,56,397,83"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_decider.html#ae535b44e34061014fe282c36c27b0193" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="217,107,372,149"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a82ce6ba105e0e32a1e01a09ac669ef28" title="veins::Signal::getMaxInRange" alt="" coords="445,5,643,32"/>
+</map>

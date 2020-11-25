@@ -1,0 +1,10 @@
+<map id="anonymous_namespace{BBoxLookup::cc}::intersects" name="anonymous_namespace{BBoxLookup::cc}::intersects">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_info.html#a86eb4a8cae1a123e9125cd0e8977c548" title="Asserts that every inactive AirFrame is still intersecting with at least one active airframe or with ..." alt="" coords="250,5,409,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_obstacle.html#a3c29c3bd90ea0e05d70090a121d9df9f" title="veins::Obstacle::contains\lPoint" alt="" coords="244,71,415,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_b_box_lookup.html#aafb4c0c12fd2d7623a9fa41010cddb01" title="Return all obstacles which have their bounding box touched by the transmission from sender to receive..." alt="" coords="258,136,401,177"/>
+<area shape="rect" id="node8" href="$namespaceanonymous__namespace_02_mobile_host_obstacle_8cc_03.html#a4905f71256d96d9b1781ab9b31ec2a9e" title="anonymous_namespace\l\{MobileHostObstacle\l::cc\}::isPointInObstacle" alt="" coords="248,202,411,258"/>
+<area shape="rect" id="node5" href="$classveins_1_1_obstacle_control.html#a7bb694941ec27d078605e730c78644af" title="get hit obstacles (along with a list of points (in [0, 1]) along the line between sender and receiver..." alt="" coords="475,136,629,177"/>
+<area shape="rect" id="node6" href="$classveins_1_1_obstacle_control.html#a2605967770f04849d9319757e66305bf" title="calculate additional attenuation by obstacles, return multiplicative factor " alt="" coords="689,136,844,177"/>
+<area shape="rect" id="node7" href="$classveins_1_1_simple_obstacle_shadowing.html#a232c35993ba999b86d6e700d2152c98a" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="892,136,1109,177"/>
+<area shape="rect" id="node9" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps..." alt="" coords="463,209,641,251"/>
+</map>

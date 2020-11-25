@@ -1,0 +1,10 @@
+<map id="veins::TraCITrafficLightInterface::initialize" name="veins::TraCITrafficLightInterface::initialize">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a9f9be2433847af1116b9a282eb2e2659" title="veins::TraCICommandInterface\l::Trafficlight::getAssumedNextSwitchTime" alt="" coords="212,5,481,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a118d918705f50d855a1625dd2ec06cba" title="veins::TraCITrafficLight\lInterface::getControlledLinks" alt="" coords="252,71,441,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a7f67ace6e2a4be1861233172c0f844c2" title="veins::TraCICommandInterface\l::Trafficlight::getCurrentPhaseIndex" alt="" coords="232,136,461,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a2be8360f3674d1da474bbb3d2f510e78" title="veins::TraCICommandInterface\l::Trafficlight::getCurrentProgramID" alt="" coords="235,201,458,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a68d154971923ce65475f505d11194572" title="veins::TraCICommandInterface\l::Trafficlight::getCurrentState" alt="" coords="244,267,449,308"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a9847258e132057e8ded600dd076c8daa" title="veins::TraCITrafficLight\lInterface::getTlCommandInterface" alt="" coords="236,332,457,373"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a4c8228ed99c41d09dc2649d796b04874" title="veins::TraCITrafficLight\lInterface::setControlledLinks" alt="" coords="252,397,441,439"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a10132851c827649749cece8aec7263d6" title="veins::TraCITrafficLight\lInterface::setProgramDefinition" alt="" coords="245,463,448,504"/>
+</map>

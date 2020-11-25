@@ -1,0 +1,110 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Msg File <i>src/veins/base/messages/AirFrame.msg</i></h2>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="src-veins-base-messages-AirFrame.html">AirFrame</a>
+   </td>
+   <td>
+<i>packet</i>
+   </td>
+   <td>
+
+<p>Format of the packets that are sent to the channel</p>
+
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Source code:</h3>
+<pre class="src"><span style="color: #808080; font-style: italic; ">//
+// Copyright (C) 2007 Technische Universitaet Berlin (TUB), Germany, Telecommunication Networks Group
+// Copyright (C) 2007 Technische Universiteit Delft (TUD), Netherlands
+// Copyright (C) 2007 Universitaet Paderborn (UPB), Germany
+//
+// Documentation for these modules is at http://veins.car2x.org/
+//
+// SPDX-License-Identifier: GPL-2.0-or-later
+//
+// This program is free software; you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation; either version 2 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program; if not, write to the Free Software
+// Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+//
+</span><span style="color: #000000; ">
+</span><span style="color: #800000; font-weight: bold; ">cplusplus</span><span style="color: #000000; "> {{
+#</span><span style="color: #000000; ">include</span><span style="color: #000000; "> </span><span style="color: #008000; ">&quot;veins/base/toolbox/Signal.h&quot;</span><span style="color: #000000; ">
+#</span><span style="color: #000000; ">include</span><span style="color: #000000; "> </span><span style="color: #008000; ">&quot;veins/base/utils/POA.h&quot;</span><span style="color: #000000; ">
+}}
+
+</span><span style="color: #800000; font-weight: bold; ">namespace</span><span style="color: #000000; "> </span><span style="color: #000000; ">veins</span><span style="color: #000000; ">;
+
+</span><span style="color: #800000; font-weight: bold; ">class</span><span style="color: #000000; "> </span><span style="color: #800000; font-weight: bold; ">noncobject</span><span style="color: #000000; "> </span><span style="color: #000000; ">Signal</span><span style="color: #000000; ">;
+</span><span style="color: #800000; font-weight: bold; ">class</span><span style="color: #000000; "> </span><span style="color: #800000; font-weight: bold; ">noncobject</span><span style="color: #000000; "> </span><span style="color: #000000; ">POA</span><span style="color: #000000; ">;
+
+</span><span style="color: #808080; font-style: italic; ">//
+// Format of the packets that are sent to the channel
+//
+// subclass if you want to create your own AirFrame packet class
+// (see Omnet manual, chapter Messages - Inheritance among packet
+// classes).
+//
+// This packet format is used to send a packet from the physical
+// layer to the channel. All other physical layers that can 'hear'
+// this packet can evaluate noise, interference etc. from the
+// information contained in this packet (especially the signal):
+//
+// Note: BasePhy layer creates AirFrames with a slightly higher
+// priority than normal to ensure channel consistency. This means that before anything else happens
+// at a time point t every AirFrame which ended at t has been removed and
+// every AirFrame started at t has been added to the channel.
+//
+// If you need more fields for whatever reason, please do NOT create
+// your own packet! Just extend (subclass) this packet format
+//
+</span><span style="color: #800000; font-weight: bold; ">packet</span><span style="color: #000000; "> </span><span style="color: #000000; ">AirFrame</span><span style="color: #000000; ">
+{
+    </span><span style="color: #000000; ">Signal</span><span style="color: #000000; "> </span><span style="color: #000000; ">signal</span><span style="color: #000000; ">;        </span><span style="color: #808080; font-style: italic; ">// Contains the physical data of this AirFrame
+</span><span style="color: #000000; ">
+    </span><span style="color: #000000; ">POA</span><span style="color: #000000; "> </span><span style="color: #000000; ">poa</span><span style="color: #000000; ">;            </span><span style="color: #808080; font-style: italic; ">// contains a POA object with the position, orientation and antenna (pointer)
+</span><span style="color: #000000; ">                            </span><span style="color: #808080; font-style: italic; ">// of the sender
+</span><span style="color: #000000; ">
+    </span><span style="color: #000000; ">simtime_t</span><span style="color: #000000; "> </span><span style="color: #000000; ">duration</span><span style="color: #000000; ">;    </span><span style="color: #808080; font-style: italic; ">// time the AirFrames takes to be transmited (without propagation delay)
+</span><span style="color: #000000; ">
+    </span><span style="color: #000080; font-weight: bold; ">int</span><span style="color: #000000; "> </span><span style="color: #000000; ">state</span><span style="color: #000000; "> = </span><span style="color: #008000; ">1</span><span style="color: #000000; ">;         </span><span style="color: #808080; font-style: italic; ">// state of the AirFrames, used by the physical layer
+</span><span style="color: #000000; ">                            </span><span style="color: #808080; font-style: italic; ">// as state machine for delay and transmission duration
+</span><span style="color: #000000; ">                            </span><span style="color: #808080; font-style: italic; ">// simulation
+</span><span style="color: #000000; ">
+    </span><span style="color: #000080; font-weight: bold; ">int</span><span style="color: #000000; "> </span><span style="color: #000000; ">type</span><span style="color: #000000; "> = </span><span style="color: #008000; ">0</span><span style="color: #000000; ">;        </span><span style="color: #808080; font-style: italic; ">// If type isn't null then this is a control-AirFrame
+</span><span style="color: #000000; ">                            </span><span style="color: #808080; font-style: italic; ">// and type specifies the control type.
+</span><span style="color: #000000; ">
+    </span><span style="color: #000080; font-weight: bold; ">long</span><span style="color: #000000; "> </span><span style="color: #000000; ">id</span><span style="color: #000000; ">;            </span><span style="color: #808080; font-style: italic; ">// Unique ID of the AirFrame used as identifier for
+</span><span style="color: #000000; ">                            </span><span style="color: #808080; font-style: italic; ">// related control-AirFrames
+</span><span style="color: #000000; ">
+    </span><span style="color: #000080; font-weight: bold; ">int</span><span style="color: #000000; "> </span><span style="color: #000000; ">protocolId</span><span style="color: #000000; ">;        </span><span style="color: #808080; font-style: italic; ">//the id of the phy protocol of this airframe
+</span><span style="color: #000000; ">
+    </span><span style="color: #000080; font-weight: bold; ">int</span><span style="color: #000000; "> </span><span style="color: #000000; ">channel</span><span style="color: #000000; ">;        </span><span style="color: #808080; font-style: italic; ">//the channel of the radio used for this transmission
+</span><span style="color: #000000; ">    </span><span style="color: #000080; font-weight: bold; ">int</span><span style="color: #000000; "> </span><span style="color: #000000; ">mcs</span><span style="color: #000000; ">; </span><span style="color: #808080; font-style: italic; ">// Modulation and conding scheme of the packet
+</span><span style="color: #000000; ">}
+</span></pre>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

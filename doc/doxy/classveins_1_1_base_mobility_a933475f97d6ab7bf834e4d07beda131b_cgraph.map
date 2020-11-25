@@ -1,0 +1,4 @@
+<map id="veins::BaseMobility::placeRandomlyIfOutside" name="veins::BaseMobility::placeRandomlyIfOutside">
+<area shape="rect" id="node2" href="$classveins_1_1_base_world_utility.html#a3c574ecd7a055ba2407f638ce548bc24" title="Random position somewhere in the playground. " alt="" coords="227,5,385,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_world_utility.html#aabcceb57843568c213b0772b08971827" title="Initializes all members accessible by other modules. " alt="" coords="433,5,592,47"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="veins::TraCIScenarioManagerForker::initialize" name="veins::TraCIScenarioManagerForker::initialize">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a6060adf2e942f6e7343ee26091193341" title="veins::TraCIScenarioManager\l::initialize" alt="" coords="248,224,443,265"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a1283a00830ff63144a1c9551495b086e" title="veins::TraCIScenarioManager\lForker::killServer" alt="" coords="248,308,443,349"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a40b91fb5a4d7f828f456ac9d48c9ef6b" title="veins::TraCIScenarioManager\lForker::startServer" alt="" coords="248,409,443,451"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_region_of_interest.html#ab117030ff1f84dc9739c084aca782c91" title="Add rectangles to constraints. " alt="" coords="493,5,686,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_region_of_interest.html#ae2bf4df47c7a3674ee200b26ecd39846" title="Add roads to contraints. " alt="" coords="493,71,686,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_region_of_interest.html#a80b878563f3c841063e1fffdba95f185" title="Remove all constraints. " alt="" coords="493,136,686,177"/>
+<area shape="rect" id="node6" href="$classveins_1_1_find_module.html#a5235f90b10b3a297c25baeaa8a4194cf" title="Returns a pointer to the module with the type of this template. " alt="" coords="765,224,901,265"/>
+<area shape="rect" id="node7" href="$classveins_1_1_annotation_manager_access.html#a078a458514be3927ea589e843a9bef72" title="veins::AnnotationManager\lAccess::getIfExists" alt="" coords="503,253,676,295"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_scenario_manager.html#a59880f7110ff80a99c4549a04426df76" title="veins::TraCIScenarioManager\l::getPortNumber" alt="" coords="492,319,687,360"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_scenario_manager.html#a45673008abaef567b3c5c0241ff4392f" title="parses the vector of module types in ini file " alt="" coords="492,384,687,425"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_scenario_manager.html#a2078c66faf6fa4efd7cf245f4b4ca88e" title="transforms a list of mappings of an omnetpp.ini parameter in a list " alt="" coords="736,384,931,425"/>
+<area shape="rect" id="node11" href="$namespaceanonymous__namespace_02_tra_c_i_scenario_manager_8cc_03.html#aee10972a597261c51d4978b2e596294a" title="anonymous_namespace\l\{TraCIScenarioManager\l::cc\}::getMapping" alt="" coords="979,377,1141,433"/>
+<area shape="rect" id="node14" href="$namespaceanonymous__namespace_02_tra_c_i_scenario_manager_forker_8cc_03.html#ab1f88e93928abbf9d1734e6c330da1e9" title="anonymous_namespace\l\{TraCIScenarioManagerForker\l::cc\}::replace" alt="" coords="491,450,688,506"/>
+</map>

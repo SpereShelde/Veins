@@ -1,0 +1,8 @@
+<map id="veins::getMCS" name="veins::getMCS">
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title="veins::NistErrorRate\l::getChunkSuccessRate" alt="" coords="191,5,356,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mac1609__4.html#a30fbd72a0e286f24dd07bbd14b5c043b" title="veins::Mac1609_4::setParameters\lForBitrate" alt="" coords="163,71,384,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors " alt="" coords="449,5,597,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="663,5,811,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="859,5,1007,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_mac1609__4.html#a8d43b34c9fb0b918e447343e5fc344d4" title="States of the channel selecting operation. " alt="" coords="432,78,615,105"/>
+</map>

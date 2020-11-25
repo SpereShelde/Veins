@@ -1,0 +1,6 @@
+<map id="veins::BaseLayer" name="veins::BaseLayer">
+<area shape="rect" id="node2" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="107,247,254,273"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="53,81,186,108"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="141,157,274,184"/>
+<area shape="rect" id="node7" href="$classveins_1_1_passed_message.html" title="veins::PassedMessage" alt="" coords="279,247,437,273"/>
+</map>

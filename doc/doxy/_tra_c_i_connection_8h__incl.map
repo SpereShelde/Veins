@@ -1,0 +1,11 @@
+<map id="TraCIConnection.h" name="TraCIConnection.h">
+<area shape="rect" id="node4" href="$_tra_c_i_buffer_8h.html" title="veins/modules/mobility\l/traci/TraCIBuffer.h" alt="" coords="795,80,950,121"/>
+<area shape="rect" id="node11" href="$_tra_c_i_coord_8h.html" title="veins/modules/mobility\l/traci/TraCICoord.h" alt="" coords="511,169,666,211"/>
+<area shape="rect" id="node12" href="$_tra_c_i_coordinate_transformation_8h.html" title="veins/modules/mobility\l/traci/TraCICoordinateTransformation.h" alt="" coords="219,80,468,121"/>
+<area shape="rect" id="node13" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="389,259,551,285"/>
+<area shape="rect" id="node18" href="$_heading_8h.html" title="veins/base/utils/Heading.h" alt="" coords="146,177,322,203"/>
+<area shape="rect" id="node20" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="630,80,771,121"/>
+<area shape="rect" id="node7" href="$veins_8h.html" title="veins/veins.h" alt="" coords="421,408,519,435"/>
+<area shape="rect" id="node10" href="$_tra_c_i_constants_8h.html" title="veins/modules/mobility\l/traci/TraCIConstants.h" alt="" coords="872,169,1031,211"/>
+<area shape="rect" id="node14" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="170,333,349,360"/>
+</map>

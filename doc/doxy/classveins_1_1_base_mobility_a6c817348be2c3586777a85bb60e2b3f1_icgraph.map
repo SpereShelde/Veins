@@ -1,0 +1,9 @@
+<map id="veins::BaseMobility::reflectCoordinate" name="veins::BaseMobility::reflectCoordinate">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#ab9e4cd0caa3fc245ba934f5f5bd9fc49" title="Utility function to reflect the node if it goes outside the playground. " alt="" coords="189,39,325,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#aae36006995d117a723134cbe1fee5e90" title="Main border handling function. " alt="" coords="373,39,509,80"/>
+<area shape="rect" id="node4" href="$classveins_1_1_linear_mobility.html#a506fdc3882892c0fc4427df73736010e" title="Should be redefined in subclasses. " alt="" coords="557,5,711,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_mobility.html#a4fa20054882e4a7fb5b03a13576311c3" title="called after each read to check for (and handle) invalid positions " alt="" coords="557,71,711,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_linear_mobility.html#af310806b2b41572de1428e56474bba56" title="Move the host. " alt="" coords="759,5,900,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="760,71,899,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="948,71,1087,112"/>
+</map>

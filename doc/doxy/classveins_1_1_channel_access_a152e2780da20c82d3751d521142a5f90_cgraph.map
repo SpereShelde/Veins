@@ -1,0 +1,21 @@
+<map id="veins::ChannelAccess::receiveSignal" name="veins::ChannelAccess::receiveSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_heading.html#a9d6cfb66c818140b87edaa53a5aa483e" title="Converts Coord to heading (with x pointing east and y pointing south). " alt="" coords="221,15,399,42"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_connection_manager.html#a35d8c27aeacff47e0e62135ffe065078" title="Registers a nic to have its connections managed by ConnectionManager. " alt="" coords="207,67,413,108"/>
+<area shape="rect" id="node19" href="$classveins_1_1_coord.html#a6bb1bb817b4d968292b0c8d884cf59e9" title="Returns this coord when rotated around z axis (i.e., yaw). " alt="" coords="225,198,395,225"/>
+<area shape="rect" id="node20" href="$classveins_1_1_base_connection_manager.html#af264b3c891bde0a49dd003c584c997ac" title="Updates the position information of a registered nic. " alt="" coords="207,132,413,173"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager.html#a6851b0f5e82df7cfd187c283faf0eca5" title="Called by &quot;registerNic()&quot; after the nic has been registered. " alt="" coords="461,67,668,108"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_connection_manager.html#af87d8c9c33b54eb6bf8a5f43e6e36a96" title="Updates the connections of the nic with &quot;nicID&quot;. " alt="" coords="461,132,668,173"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_connection_manager.html#ae776ac81a8f88a9afba710afaf8573b8" title="Returns the NicEntries of the cell with specified coordinate. " alt="" coords="971,5,1177,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_connection_manager.html#a7f0e7ff7533bb1f5e3c9bb2c2c0db261" title="Calculates the corresponding cell of a coordinate. " alt="" coords="716,125,923,167"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html#adae1596e34bb3aa3f56fecb132ec35ff" title="Output string for this coordinate. " alt="" coords="971,71,1177,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_connection_manager.html#a063c137e5a6d73ff846321b511d48a32" title="Check connections of a nic in the grid. " alt="" coords="716,191,923,232"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_connection_manager_1_1_coord_set.html#a94f30f431f9664e2fdb17aac5a845992" title="Adds a GridCoord to the set. " alt="" coords="1225,263,1432,304"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_connection_manager.html#a9b524c0f46ec4bb2ade902ac0855cac5" title="Adds every direct Neighbor of a GridCoord to a union of coords. " alt="" coords="971,319,1177,360"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_connection_manager_1_1_coord_set.html#a703f38eb2b72f1381d2a3b69f26fdbd6" title="Returns the next GridCoord in the set. " alt="" coords="971,136,1177,177"/>
+<area shape="rect" id="node14" href="$classveins_1_1_base_connection_manager.html#af36a4fd1f31773f63187cc9717441a98" title="Manages the connections of a registered nic. " alt="" coords="971,201,1177,243"/>
+<area shape="rect" id="node12" href="$classveins_1_1_base_connection_manager.html#a77e53c22a7c607482398632b85396a6c" title="If the value is outside of its bounds (zero and max) this function returns &#45;1 if useTorus is false an..." alt="" coords="1225,328,1432,369"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_connection_manager.html#a418d9fb4151ff38840838a94189ba8b6" title="Check if the two nic&#39;s are in range. " alt="" coords="1225,197,1432,239"/>
+<area shape="rect" id="node16" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a4c7285eb31fa2914adffc7da4255b6d2" title="anonymous_namespace\l\{BaseConnectionManager\l::cc\}::sqrTorusDist" alt="" coords="1480,190,1652,246"/>
+<area shape="rect" id="node17" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="1700,190,1872,246"/>
+<area shape="rect" id="node18" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="1920,205,2081,231"/>
+</map>

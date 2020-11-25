@@ -1,0 +1,12 @@
+<map id="veins::BasePhyLayer::handleAirFrameEndReceive" name="veins::BasePhyLayer::handleAirFrameEndReceive">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_info.html#a3eccd59780524f653850bbd458354d07" title="Returns true if there are currently no active or inactive AirFrames on the channel. " alt="" coords="432,5,563,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_info.html#af9ee0be843528ee913df218f73d4d713" title="Tells the ChannelInfo that an AirFrame is over. " alt="" coords="245,71,376,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_channel_info.html#aec072c13541b9a22bbdcc8e9103fe9e5" title="Deletes an AirFrame from an AirFrameMatrix. " alt="" coords="432,71,563,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_channel_info.html#a002d7a0fff6734bdb6d8ddebf799f7f5" title="Moves a previously active AirFrame to the inactive AirFrames. " alt="" coords="432,136,563,177"/>
+<area shape="rect" id="node11" href="$classveins_1_1_channel_info.html#a627fbeddfec6f3ec1da17a91b97f1051" title="Returns the start time of the odlest AirFrame on the channel. " alt="" coords="424,201,571,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_channel_info.html#a1ffb197c5bf86824cd04313da5e9e4ed" title="Checks if any information inside the passed interval can be discarded. " alt="" coords="619,105,784,147"/>
+<area shape="rect" id="node8" href="$classveins_1_1_channel_info.html#ab4da0befdce7f2b27ae4a61d66ec2167" title="Returns true if all information inside the passed interval can be deleted. " alt="" coords="832,175,971,216"/>
+<area shape="rect" id="node7" href="$classveins_1_1_channel_info_1_1_base_intersection_iterator.html#ac8cb02d11bbba3ab83fe39a400aa320d" title="Increases the iterator to the next intersecting AirFrame and returns a pointer to this AirFrame..." alt="" coords="1197,105,1400,147"/>
+<area shape="rect" id="node10" href="$classveins_1_1_channel_info_1_1_intersection_iterator.html#a375fa550d8ff120ec17ace70de51389f" title="Erases the AirFrame the iterator currently points to from the AirFrameMatrix. " alt="" coords="832,94,971,150"/>
+<area shape="rect" id="node9" href="$classveins_1_1_channel_info.html#ab32ce0e1d994fe641eb188022bec0844" title="Returns true if there is at least one AirFrame in the passed AirFrameMatrix which intersect with the ..." alt="" coords="1019,135,1149,176"/>
+</map>

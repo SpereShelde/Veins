@@ -1,0 +1,213 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Simple Module <i>TraCIMobility</i></h2>
+<b>Package:</b> org.car2x.veins.modules.mobility.traci<br/><b>File: <a href="src-veins-modules-mobility-traci-TraCIMobility.ned.html">src/veins/modules/mobility/traci/TraCIMobility.ned</a></b><br/><p><a href="../doxy/classveins_1_1_tra_c_i_mobility.html" target="mainframe"><b>C++ definition</b></a></p>
+
+<p>Used in modules created by the <a href="org.car2x.veins.modules.mobility.traci.TraCIScenarioManager.html">TraCIScenarioManager</a>.</p>
+<p>This module relies on the <a href="org.car2x.veins.modules.mobility.traci.TraCIScenarioManager.html">TraCIScenarioManager</a> for state updates
+and can not be used on its own.</p>
+<p>See the Veins website <a href="http://veins.car2x.org/"> for a tutorial, documentation, and publications </a>.</p>
+<p><b>Author:</b> Christoph Sommer, David Eckhoff, Luca Bedogni, Bastian Halmos, Stefan Joerer</p>
+<p><b>See also:</b> <a href="org.car2x.veins.modules.mobility.traci.TraCIScenarioManager.html">TraCIScenarioManager</a></p>
+<p><b>See also:</b> <a href="org.car2x.veins.modules.mobility.traci.TraCIScenarioManagerLaunchd.html">TraCIScenarioManagerLaunchd</a></p>
+<h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-ned-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="org.car2x.veins.modules.mobility.traci.TraCIMobility-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="org.car2x.veins.modules.mobility.traci.TraCIMobility.html" title="Simple Module TraCIMobility" alt="" coords="5,5,105,31">
+</map>
+<h3 class="subtitle">Extends:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="org.car2x.veins.base.modules.BaseMobility.html">BaseMobility</a>
+   </td>
+   <td>
+<i>simple&nbsp;module</i>
+   </td>
+   <td>
+
+<p>Module which is responsible for mobility
+related information like position and movement
+<a href="org.car2x.veins.base.modules.BaseMobility.html">BaseMobility</a> itself defines a static mobility
+pattern (means only a position, no movement).
+Mobility modules which extend from this module
+will define more complex movement patterns.</p>
+
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Parameters:</h3>
+<table class="paramstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="defaultvalue">Default value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="inherited">
+   <td>notAffectedByHostState</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>true</td>
+   <td>   </td>
+</tr>
+<tr class="inherited">
+   <td>x</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>x coordinate of the nodes' position (-1 = random)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>y</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>y coordinate of the nodes' position (-1 = random)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>z</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>z coordinate of the nodes' position (-1 = random)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>xOrientation</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>1</td>
+   <td>   </td>
+</tr>
+<tr class="inherited">
+   <td>yOrientation</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>   </td>
+</tr>
+<tr class="inherited">
+   <td>zOrientation</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>   </td>
+</tr>
+<tr class="local">
+   <td>hostPositionOffset</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0.0m</td>
+   <td>
+<p>shift OMNeT++ module this far from front of the car</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>setHostSpeed</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>false</td>
+   <td>
+<p>whether to update the speed of the host (along with its position)</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>accidentCount</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>number of accidents</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>accidentStart</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>uniform(30s,60s)</td>
+   <td>
+<p>time until first accident, relative to departure time</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>accidentDuration</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>uniform(30s,60s)</td>
+   <td>
+<p>duration of accident</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>accidentInterval</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>uniform(30s,60s)</td>
+   <td>
+<p>time between accidents</p>
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Properties:</h3>
+<table class="propertiestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="value">Value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>class</td>
+   <td><i>veins::TraCIMobility</i></td>
+   <td></td>
+</tr>
+<tr>
+   <td>display</td>
+   <td><i>i=block/cogwheel</i></td>
+   <td></td>
+</tr>
+</table>
+<h3 class="subtitle">Signals:</h3>
+<table class="signalstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="unit">Unit</th>
+   </tr>
+<tr class="local">
+   <td>org_car2x_veins_modules_mobility_parkingStateChanged</td>
+   <td><i>
+<a href="../doxy/classveins_1_1_tra_c_i_mobility.html" target="mainframe">veins::TraCIMobility</a>   </i></td>
+   <td></td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

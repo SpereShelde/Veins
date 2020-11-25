@@ -1,0 +1,4 @@
+<map id="veins::BaseMacLayer::decapsMsg" name="veins::BaseMacLayer::decapsMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html#a7ff1f42ff72aee9670a012ebffb54881" title="Attaches a &quot;control info&quot; (MacToNetw) structure (object) to the message pMsg. " alt="" coords="201,5,349,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac_to_netw_control_info.html#abb219489bbd1d6807c88cc3ea57f6741" title="Attaches a &quot;control info&quot; structure (object) to the message pMsg. " alt="" coords="397,5,593,47"/>
+</map>

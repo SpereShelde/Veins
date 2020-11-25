@@ -1,0 +1,4 @@
+<map id="veins::TraCIConnection::traci2omnet" name="veins::TraCIConnection::traci2omnet">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_command_interface.html#a7e859f8c0e52898b3a7c4a672c77799c" title="veins::TraCICommandInterface\l::genericGetCoord" alt="" coords="213,5,419,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_command_interface.html#aa7e8c7a184c23c51461230c8d3e6ba24" title="veins::TraCICommandInterface\l::genericGetCoordList" alt="" coords="213,71,419,112"/>
+</map>

@@ -1,0 +1,4 @@
+<area shape="rect" id="node1" href="org.car2x.veins.modules.nic.Nic80211p.html" title="Compound Module Nic80211p" alt="" coords="136,5,220,31">
+<area shape="rect" id="node2" href="org.car2x.veins.modules.mac.ieee80211p.Mac1609_4.html" title="Simple Module Mac1609_4" alt="" coords="5,79,95,104">
+<area shape="rect" id="node3" href="org.car2x.veins.modules.phy.PhyLayer80211p.html" title="Simple Module PhyLayer80211p" alt="" coords="119,79,237,104">
+<area shape="rect" id="node4" href="ned.IdealChannel.html" title="Channel IdealChannel" alt="" coords="262,79,361,104">

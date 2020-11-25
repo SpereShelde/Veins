@@ -1,0 +1,37 @@
+<map id="TraCIMobility.cc" name="TraCIMobility.cc">
+<area shape="rect" id="node5" href="$_tra_c_i_mobility_8h.html" title="veins/modules/mobility\l/traci/TraCIMobility.h" alt="" coords="2537,80,2692,121"/>
+<area shape="rect" id="node10" href="$_base_mobility_8h.html" title="veins/base/modules\l/BaseMobility.h" alt="" coords="3792,259,3931,300"/>
+<area shape="rect" id="node25" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="468,549,663,575"/>
+<area shape="rect" id="node26" href="$_tra_c_i_scenario_manager_8h.html" title="veins/modules/mobility\l/traci/TraCIScenarioManager.h" alt="" coords="1687,169,1887,211"/>
+<area shape="rect" id="node32" href="$_heading_8h.html" title="veins/base/utils/Heading.h" alt="" coords="2419,459,2595,486"/>
+<area shape="rect" id="node51" href="$_vehicle_signal_8h.html" title="veins/modules/mobility\l/traci/VehicleSignal.h" alt="" coords="275,541,429,583"/>
+<area shape="rect" id="node56" href="$_tra_c_i_command_interface_8h.html" title="veins/modules/mobility\l/traci/TraCICommandInterface.h" alt="" coords="3019,169,3229,211"/>
+<area shape="rect" id="node11" href="$veins_8h.html" title="veins/veins.h" alt="" coords="2007,705,2105,732"/>
+<area shape="rect" id="node15" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="4028,355,4167,397"/>
+<area shape="rect" id="node19" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="1856,549,2019,575"/>
+<area shape="rect" id="node23" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="3591,459,3751,486"/>
+<area shape="rect" id="node24" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="3663,355,3801,397"/>
+<area shape="rect" id="node16" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="4135,541,4273,583"/>
+<area shape="rect" id="node18" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="4028,452,4167,493"/>
+<area shape="rect" id="node17" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="4079,631,4265,657"/>
+<area shape="rect" id="node20" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="540,631,719,657"/>
+<area shape="rect" id="node29" href="$_base_connection_manager_8h.html" title="veins/base/connectionManager\l/BaseConnectionManager.h" alt="" coords="2027,259,2229,300"/>
+<area shape="rect" id="node34" href="$_obstacle_control_8h.html" title="veins/modules/obstacle\l/ObstacleControl.h" alt="" coords="1087,259,1246,300"/>
+<area shape="rect" id="node41" href="$_vehicle_obstacle_control_8h.html" title="veins/modules/obstacle\l/VehicleObstacleControl.h" alt="" coords="1598,259,1773,300"/>
+<area shape="rect" id="node43" href="$_tra_c_i_buffer_8h.html" title="veins/modules/mobility\l/traci/TraCIBuffer.h" alt="" coords="2780,355,2935,397"/>
+<area shape="rect" id="node46" href="$_tra_c_i_color_8h.html" title="veins/modules/mobility\l/traci/TraCIColor.h" alt="" coords="2964,259,3119,300"/>
+<area shape="rect" id="node47" href="$_tra_c_i_connection_8h.html" title="veins/modules/mobility\l/traci/TraCIConnection.h" alt="" coords="2775,259,2940,300"/>
+<area shape="rect" id="node49" href="$_tra_c_i_coord_8h.html" title="veins/modules/mobility\l/traci/TraCICoord.h" alt="" coords="2943,452,3097,493"/>
+<area shape="rect" id="node54" href="$_tra_c_i_region_of_interest_8h.html" title="veins/modules/mobility\l/traci/TraCIRegionOfInterest.h" alt="" coords="738,355,937,397"/>
+<area shape="rect" id="node30" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="1600,452,1765,493"/>
+<area shape="rect" id="node31" href="$_nic_entry_8h.html" title="veins/base/connectionManager\l/NicEntry.h" alt="" coords="2401,355,2604,397"/>
+<area shape="rect" id="node33" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="3172,452,3313,493"/>
+<area shape="rect" id="node35" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="1306,355,1465,397"/>
+<area shape="rect" id="node37" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="1070,452,1290,493"/>
+<area shape="rect" id="node38" href="$_b_box_lookup_8h.html" title="veins/modules/utility\l/BBoxLookup.h" alt="" coords="523,355,664,397"/>
+<area shape="rect" id="node42" href="$_mobile_host_obstacle_8h.html" title="veins/modules/obstacle\l/MobileHostObstacle.h" alt="" coords="1489,355,1647,397"/>
+<area shape="rect" id="node45" href="$_tra_c_i_constants_8h.html" title="veins/modules/mobility\l/traci/TraCIConstants.h" alt="" coords="2709,452,2867,493"/>
+<area shape="rect" id="node50" href="$_tra_c_i_coordinate_transformation_8h.html" title="veins/modules/mobility\l/traci/TraCICoordinateTransformation.h" alt="" coords="2127,355,2377,397"/>
+<area shape="rect" id="node52" href="$_enum_bitset_8h.html" title="veins/base/utils/EnumBitset.h" alt="" coords="319,631,515,657"/>
+<area shape="rect" id="node57" href="$_tra_c_i_traffic_light_program_8h.html" title="veins/modules/world\l/traci/trafficLight\l/TraCITrafficLightProgram.h" alt="" coords="3252,348,3436,404"/>
+</map>

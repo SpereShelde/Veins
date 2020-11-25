@@ -1,0 +1,4 @@
+<map id="veins::Decider80211pToPhy80211pInterface::getRadioState" name="veins::Decider80211pToPhy80211pInterface::getRadioState">
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="281,5,429,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="281,71,429,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="veins::Signal::getDataStart" name="veins::Signal::getDataStart">
+<area shape="rect" id="node2" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::getMaxInterference" alt="" coords="232,5,467,61"/>
+<area shape="rect" id="node3" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal..." alt="" coords="515,46,639,87"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="687,46,835,87"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="883,46,1031,87"/>
+</map>

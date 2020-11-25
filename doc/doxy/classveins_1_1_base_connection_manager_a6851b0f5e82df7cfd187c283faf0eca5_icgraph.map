@@ -1,0 +1,4 @@
+<map id="veins::BaseConnectionManager::registerNicExt" name="veins::BaseConnectionManager::registerNicExt">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#a35d8c27aeacff47e0e62135ffe065078" title="Registers a nic to have its connections managed by ConnectionManager. " alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes. " alt="" coords="515,5,668,47"/>
+</map>

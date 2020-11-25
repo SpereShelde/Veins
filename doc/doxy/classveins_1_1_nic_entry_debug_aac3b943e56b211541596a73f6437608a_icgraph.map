@@ -1,0 +1,5 @@
+<map id="veins::NicEntryDebug::collectFreeGates" name="veins::NicEntryDebug::collectFreeGates">
+<area shape="rect" id="node2" href="$classveins_1_1_nic_entry_debug.html#aa028678e801ba669ad47a6588b2ad90a" title="Returns a free in gate of the nic. " alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_nic_entry_debug.html#ad601c375fa2fd737f88b3a475a06ff45" title="Returns a free out gate of the nic. " alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_nic_entry_debug.html#aaf32efb647f62b055f65198bba49c535" title="Connect two nics. " alt="" coords="403,39,553,80"/>
+</map>

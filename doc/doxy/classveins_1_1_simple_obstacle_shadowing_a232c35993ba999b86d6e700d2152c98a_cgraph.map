@@ -1,0 +1,16 @@
+<map id="veins::SimpleObstacleShadowing::filterSignal" name="veins::SimpleObstacleShadowing::filterSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_obstacle_control.html#a2605967770f04849d9319757e66305bf" title="calculate additional attenuation by obstacles, return multiplicative factor " alt="" coords="293,107,447,149"/>
+<area shape="rect" id="node13" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t. " alt="" coords="292,173,448,214"/>
+<area shape="rect" id="node14" href="$classveins_1_1_signal.html#a42a8f0fb95c9ea08ff0a6a16df37ae14" title="Get this signal&#39;s receiver POA. " alt="" coords="271,239,469,265"/>
+<area shape="rect" id="node15" href="$classveins_1_1_signal.html#a3110835239b852cf44bd59356be3fcc3" title="Get this signal&#39;s sender POA. " alt="" coords="277,289,463,316"/>
+<area shape="rect" id="node3" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;. " alt="" coords="518,85,671,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_obstacle_control.html#a7bb694941ec27d078605e730c78644af" title="get hit obstacles (along with a list of points (in [0, 1]) along the line between sender and receiver..." alt="" coords="517,137,672,178"/>
+<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="720,5,892,61"/>
+<area shape="rect" id="node6" href="$classveins_1_1_coord.html#aa003fb9d6788186697029ce7653eb9e7" title="Returns the length of this Coords position vector. " alt="" coords="737,85,875,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="955,20,1116,47"/>
+<area shape="rect" id="node8" href="$classveins_1_1_b_box_lookup.html#aafb4c0c12fd2d7623a9fa41010cddb01" title="Return all obstacles which have their bounding box touched by the transmission from sender to receive..." alt="" coords="735,137,877,178"/>
+<area shape="rect" id="node11" href="$namespaceanonymous__namespace_02_obstacle_control_8cc_03.html#a622c9a0b0c5d14fbd42f7d5bcba982cb" title="anonymous_namespace\l\{ObstacleControl::cc\}\l::rebuildBBoxLookup" alt="" coords="725,203,887,259"/>
+<area shape="rect" id="node9" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#ad29edbecc2bba7cf9afb525f0aff0f25" title="Return whether ray intersects with box. " alt="" coords="940,75,1131,117"/>
+<area shape="rect" id="node10" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#a511746fffff7fb590b4d01d923189b03" title="Return a Ray struct for fast intersection tests from sender to receiver. " alt="" coords="940,141,1131,182"/>
+<area shape="rect" id="node12" href="$classveins_1_1_find_module.html#a5235f90b10b3a297c25baeaa8a4194cf" title="Returns a pointer to the module with the type of this template. " alt="" coords="967,210,1103,251"/>
+</map>

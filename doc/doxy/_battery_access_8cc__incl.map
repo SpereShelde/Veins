@@ -1,0 +1,8 @@
+<map id="BatteryAccess.cc" name="BatteryAccess.cc">
+<area shape="rect" id="node2" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="96,80,235,121"/>
+<area shape="rect" id="node11" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="317,177,512,203"/>
+<area shape="rect" id="node3" href="$veins_8h.html" title="veins/veins.h" alt="" coords="184,423,283,449"/>
+<area shape="rect" id="node7" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="48,259,187,300"/>
+<area shape="rect" id="node10" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="155,169,293,211"/>
+<area shape="rect" id="node9" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="140,348,327,375"/>
+</map>

@@ -1,0 +1,165 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Compound Module <i>TrafficLight</i></h2>
+<b>Package:</b> org.car2x.veins.nodes<br/><b>File: <a href="src-veins-nodes-TrafficLight.ned.html">src/veins/nodes/TrafficLight.ned</a></b><br/><p>(no description)</p><h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-ned-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="org.car2x.veins.nodes.TrafficLight-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="org.car2x.veins.nodes.TrafficLight.html" title="Compound Module TrafficLight" alt="" coords="424,5,511,31">
+<area shape="rect" id="node2" href="org.car2x.veins.base.modules.BaseMobility.html" title="Simple Module BaseMobility" alt="" coords="5,79,103,104">
+<area shape="rect" id="node3" href="org.car2x.veins.modules.world.traci.trafficLight.TraCITrafficLightInterface.html" title="Simple Module TraCITrafficLightInterface" alt="" coords="127,79,298,104">
+<area shape="rect" id="node4" href="org.car2x.veins.base.modules.ITrafficLightApplLayer.html" title="Module Interface ITrafficLightApplLayer" alt="" coords="322,79,471,104">
+<area shape="rect" id="node5" href="org.car2x.veins.modules.nic.INic80211p.html" title="Module Interface INic80211p" alt="" coords="495,79,583,104">
+<area shape="rect" id="node6" href="ned.IdealChannel.html" title="Channel IdealChannel" alt="" coords="607,79,706,104">
+<area shape="rect" id="node7" href="org.car2x.veins.base.modules.ITrafficLightLogic.html" title="Module Interface ITrafficLightLogic" alt="" coords="730,79,853,104">
+</map>
+<h3 class="subtitle">Parameters:</h3>
+<table class="paramstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="defaultvalue">Default value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="local">
+   <td>logicType</td>
+   <td>
+      <i>string</i>
+   </td>
+   <td></td>
+   <td>   </td>
+</tr>
+<tr class="local">
+   <td>applType</td>
+   <td>
+      <i>string</i>
+   </td>
+   <td></td>
+   <td>
+<p>type of the application layer</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>nicType</td>
+   <td>
+      <i>string</i>
+   </td>
+   <td>"Nic80211p"</td>
+   <td>
+<p>type of network interface card</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>externalId</td>
+   <td>
+      <i>string</i>
+   </td>
+   <td></td>
+   <td>
+<p>TraCI server's id of the junction/tls managed by this module</p>
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Gates:</h3>
+<table class="gatestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Direction</th>
+      <th class="gatesize">Size</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="local">
+   <td>veinsradioIn</xsl:if></td>
+   <td><i>input</i></td>
+   <td></td>   <td>
+<p>gate for sendDirect</p>
+</td>
+</tr>
+</table>
+<h3 class="subtitle">Unassigned submodule parameters:</h3>
+<table class="deepparamstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="defaultvalue">Default value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.ITrafficLightApplLayer.html">appl</a>.headerLength</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td></td>
+   <td>
+<p>length of the application message header (in bits)</p>
+   </td>
+</tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.BaseMobility.html">mobility</a>.notAffectedByHostState</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>true</td>
+   <td>   </td>
+</tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.BaseMobility.html">mobility</a>.x</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>x coordinate of the nodes' position (-1 = random)</p>
+   </td>
+</tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.BaseMobility.html">mobility</a>.y</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>y coordinate of the nodes' position (-1 = random)</p>
+   </td>
+</tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.BaseMobility.html">mobility</a>.z</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>z coordinate of the nodes' position (-1 = random)</p>
+   </td>
+</tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.BaseMobility.html">mobility</a>.xOrientation</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>1</td>
+   <td>   </td>
+</tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.BaseMobility.html">mobility</a>.yOrientation</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>   </td>
+</tr>
+<tr>
+   <td><a href="org.car2x.veins.base.modules.BaseMobility.html">mobility</a>.zOrientation</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>   </td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

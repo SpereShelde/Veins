@@ -1,0 +1,3 @@
+<map id="veins::BatteryAccess::drawEnergy" name="veins::BatteryAccess::drawEnergy">
+<area shape="rect" id="node2" href="$classveins_1_1_base_battery.html#affd93b0b525452e73a068c5b3dac7411" title="Draws power from the battery. " alt="" coords="200,5,333,47"/>
+</map>

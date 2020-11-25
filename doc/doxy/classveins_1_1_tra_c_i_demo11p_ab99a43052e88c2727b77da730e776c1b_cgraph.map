@@ -1,0 +1,8 @@
+<map id="veins::TraCIDemo11p::onWSA" name="veins::TraCIDemo11p::onWSA">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#a73bf2fa8eced9dc5a97ec5566f29f6f6" title="veins::DemoBaseApplLayer\lToMac1609_4Interface::\lchangeServiceChannel" alt="" coords="463,5,647,61"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer.html#a950278bac8ae9a57bbf8d052f3d72740" title="This will start the periodic advertising of the new service on the CCH. " alt="" coords="204,71,388,113"/>
+<area shape="rect" id="node7" href="$classveins_1_1_demo_base_appl_layer.html#ae87d3a13dfd916a8abcc7b269ce0fbbe" title="stopping the service and advertising for it " alt="" coords="204,137,388,178"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#a59d83e257a9f18f9af061d2e3bbe0440" title="compute a point in time that is guaranteed to be in the correct channel interval plus a random offset..." alt="" coords="436,86,675,127"/>
+<area shape="rect" id="node5" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#aac07f54c6e7d52a40b16b560638f2ce8" title="veins::DemoBaseApplLayer\lToMac1609_4Interface::\lgetSwitchingInterval" alt="" coords="723,39,907,95"/>
+<area shape="rect" id="node6" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#a43aee47e5687617af50e5919c26542a9" title="veins::DemoBaseApplLayer\lToMac1609_4Interface::\lisCurrentChannelCCH" alt="" coords="723,119,907,175"/>
+</map>

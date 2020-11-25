@@ -1,0 +1,6 @@
+<map id="veins::BasePhyLayer::handleAirFrameStartReceive" name="veins::BasePhyLayer::handleAirFrameStartReceive">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="251,26,397,67"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="652,30,799,71"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="445,26,604,67"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="451,91,598,132"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="veins::PhyLayer80211p::getDeciderFromName" name="veins::PhyLayer80211p::getDeciderFromName">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#aa38b7628ab90623a528609dd6334dbf7" title="Create and return an instance of the Decider with the specified name. " alt="" coords="215,5,373,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html#ae62c1c399fe19bde81152c617fc5a38b" title="Initializes a new Decider80211 from the passed parameter map. " alt="" coords="212,71,376,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="424,71,565,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="613,71,749,112"/>
+</map>

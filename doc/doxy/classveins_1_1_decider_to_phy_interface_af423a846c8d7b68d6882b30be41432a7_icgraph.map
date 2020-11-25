@@ -1,0 +1,8 @@
+<map id="veins::DeciderToPhyInterface::getNoiseFloorValue" name="veins::DeciderToPhyInterface::getNoiseFloorValue">
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="veins::Decider80211p::cca" alt="" coords="248,143,425,170"/>
+<area shape="rect" id="node7" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="263,197,411,239"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="488,5,647,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="493,71,641,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="493,201,641,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a6851aaac3c59b66568847e75691ba3e5" title="Explicit request to PHY for the channel status. " alt="" coords="473,136,661,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::BaseMacLayer::encapsMsg" name="veins::BaseMacLayer::encapsMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html#a64013bf689c9da4e79fa48116e14730e" title="Extracts the MAC address from the &quot;control info&quot; structure (object). " alt="" coords="201,5,444,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_netw_to_mac_control_info.html#add42e098a1af72c3fbc8be746d04b27f" title="Extracts the MAC address from the &quot;control info&quot; structure (object). " alt="" coords="492,5,688,47"/>
+</map>

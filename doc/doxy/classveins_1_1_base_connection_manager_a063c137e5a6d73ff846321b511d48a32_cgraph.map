@@ -1,0 +1,13 @@
+<map id="veins::BaseConnectionManager::checkGrid" name="veins::BaseConnectionManager::checkGrid">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager_1_1_coord_set.html#a94f30f431f9664e2fdb17aac5a845992" title="Adds a GridCoord to the set. " alt="" coords="515,5,721,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_connection_manager.html#a9b524c0f46ec4bb2ade902ac0855cac5" title="Adds every direct Neighbor of a GridCoord to a union of coords. " alt="" coords="260,64,467,105"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_connection_manager.html#ae776ac81a8f88a9afba710afaf8573b8" title="Returns the NicEntries of the cell with specified coordinate. " alt="" coords="260,129,467,171"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html#adae1596e34bb3aa3f56fecb132ec35ff" title="Output string for this coordinate. " alt="" coords="260,195,467,236"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_connection_manager_1_1_coord_set.html#a703f38eb2b72f1381d2a3b69f26fdbd6" title="Returns the next GridCoord in the set. " alt="" coords="260,260,467,301"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_connection_manager.html#af36a4fd1f31773f63187cc9717441a98" title="Manages the connections of a registered nic. " alt="" coords="260,325,467,367"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager.html#a77e53c22a7c607482398632b85396a6c" title="If the value is outside of its bounds (zero and max) this function returns &#45;1 if useTorus is false an..." alt="" coords="515,71,721,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_connection_manager.html#a418d9fb4151ff38840838a94189ba8b6" title="Check if the two nic&#39;s are in range. " alt="" coords="515,325,721,367"/>
+<area shape="rect" id="node10" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a4c7285eb31fa2914adffc7da4255b6d2" title="anonymous_namespace\l\{BaseConnectionManager\l::cc\}::sqrTorusDist" alt="" coords="769,318,941,374"/>
+<area shape="rect" id="node11" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="989,318,1161,374"/>
+<area shape="rect" id="node12" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="1209,333,1371,359"/>
+</map>

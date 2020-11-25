@@ -1,0 +1,5 @@
+<map id="veins::BaseWorldUtility::getUniqueAirFrameId" name="veins::BaseWorldUtility::getUniqueAirFrameId">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#afcce43624a95c13ee83ac8d6f3086aaf" title="Encapsulate messages from the upper layer into an AirFrame and set all necessary attributes. " alt="" coords="212,5,359,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them. " alt="" coords="407,5,563,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="611,5,757,47"/>
+</map>

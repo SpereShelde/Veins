@@ -1,0 +1,5 @@
+<map id="veins::AccessModuleWrap&lt; T &gt;" name="veins::AccessModuleWrap&lt; T &gt;">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html" title="Basic class for all physical layers, please don&#39;t touch!! " alt="" coords="34,80,187,121"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html" title="The BasePhyLayer represents the physical layer of a nic. " alt="" coords="37,169,184,196"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html" title="Adaptation of the PhyLayer class for 802.11p. " alt="" coords="31,244,190,271"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="SignalUtils.cc" name="SignalUtils.cc">
+<area shape="rect" id="node2" href="$_signal_utils_8h.html" title="veins/base/toolbox\l/SignalUtils.h" alt="" coords="341,80,472,121"/>
+<area shape="rect" id="node8" href="$veins_8h.html" title="veins/veins.h" alt="" coords="867,587,965,613"/>
+<area shape="rect" id="node12" href="$_decider_to_phy_interface_8h.html" title="veins/base/phyLayer\l/DeciderToPhyInterface.h" alt="" coords="93,259,264,300"/>
+<area shape="rect" id="node14" href="$_decider_8h.html" title="veins/base/phyLayer\l/Decider.h" alt="" coords="226,169,369,211"/>
+<area shape="rect" id="node17" href="$_signal_8h.html" title="veins/base/toolbox\l/Signal.h" alt="" coords="1107,169,1237,211"/>
+<area shape="rect" id="node15" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="1020,348,1161,389"/>
+<area shape="rect" id="node18" href="$_p_o_a_8h.html" title="veins/base/utils/POA.h" alt="" coords="1462,266,1618,293"/>
+<area shape="rect" id="node20" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="1408,437,1571,464"/>
+<area shape="rect" id="node26" href="$_spectrum_8h.html" title="veins/base/toolbox\l/Spectrum.h" alt="" coords="649,259,780,300"/>
+<area shape="rect" id="node29" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="1127,259,1270,300"/>
+<area shape="rect" id="node19" href="$_antenna_8h.html" title="veins/base/phyLayer\l/Antenna.h" alt="" coords="1578,348,1721,389"/>
+<area shape="rect" id="node25" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="1287,348,1452,389"/>
+<area shape="rect" id="node21" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="1384,512,1563,539"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="veins::ChannelAccess" name="veins::ChannelAccess">
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html" title="The BasePhyLayer represents the physical layer of a nic. " alt="" coords="142,304,289,331"/>
+<area shape="rect" id="node2" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="46,155,193,181"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="53,80,186,107"/>
+<area shape="rect" id="node6" href="$classveins_1_1_access_module_wrap.html" title="Finds and returns the pointer to a module of type T. " alt="" coords="217,155,405,181"/>
+<area shape="rect" id="node8" href="$classveins_1_1_phy_layer80211p.html" title="Adaptation of the PhyLayer class for 802.11p. " alt="" coords="136,379,295,405"/>
+</map>

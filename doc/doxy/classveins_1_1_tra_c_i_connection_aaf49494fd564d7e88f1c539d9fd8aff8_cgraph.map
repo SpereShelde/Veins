@@ -1,0 +1,7 @@
+<map id="veins::TraCIConnection::query" name="veins::TraCIConnection::query">
+<area shape="rect" id="node2" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters " alt="" coords="213,5,400,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header) " alt="" coords="227,122,387,163"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header) " alt="" coords="227,57,387,98"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title="veins::TraCIBuffer::str" alt="" coords="448,36,600,63"/>
+<area shape="rect" id="node5" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title="veins::socket" alt="" coords="474,93,574,120"/>
+</map>

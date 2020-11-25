@@ -1,0 +1,4 @@
+<map id="veins::BaseMobility::fixIfHostGetsOutside" name="veins::BaseMobility::fixIfHostGetsOutside">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages. " alt="" coords="207,5,343,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages. " alt="" coords="391,5,527,47"/>
+</map>

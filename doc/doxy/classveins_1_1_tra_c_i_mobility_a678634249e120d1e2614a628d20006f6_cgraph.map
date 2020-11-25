@@ -1,0 +1,11 @@
+<map id="veins::TraCIMobility::preInitialize" name="veins::TraCIMobility::preInitialize">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#a0a85e6eecb5f12e6f027d5fa4c46700e" title="Calculates where the OMNeT++ module position of this car should be, given its front bumper position..." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_heading.html#ab8b7aeac07a2db68ce07b4074b6cf37d" title="Returns Coord of a unit vector (with x pointing east and y pointing south). " alt="" coords="445,42,607,69"/>
+<area shape="rect" id="node4" href="$classveins_1_1_move.html#ab9075d204ed7563bdc8118efe377f4c5" title="veins::Move::getStartPosition" alt="" coords="192,122,387,149"/>
+<area shape="rect" id="node5" href="$classveins_1_1_move.html#ae583b55d97cf1f59cbb000a584efb67d" title="Sets the direction to the passed vector, which must be already normalized or the 0&#45;vector. " alt="" coords="204,173,375,215"/>
+<area shape="rect" id="node8" href="$classveins_1_1_move.html#aef8fd825481c69e09785d096daa6f3fe" title="Sets the orientation to the passed vector. " alt="" coords="198,239,381,280"/>
+<area shape="rect" id="node9" href="$classveins_1_1_move.html#a51a6f1befe0836b69a794efe32af2e22" title="Sets the current speed in meters per second. " alt="" coords="211,305,367,331"/>
+<area shape="rect" id="node10" href="$classveins_1_1_move.html#ae7135773d10fdf52bec4e5c9a398a092" title="Sets start position (components in meters) and start time. " alt="" coords="216,355,363,382"/>
+<area shape="rect" id="node6" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality. " alt="" coords="457,148,595,189"/>
+<area shape="rect" id="node7" href="$classveins_1_1_coord.html#a97d38ff2838475fbf534d626c4172957" title="Returns the square of the length of this Coords position vector. " alt="" coords="435,214,617,241"/>
+</map>

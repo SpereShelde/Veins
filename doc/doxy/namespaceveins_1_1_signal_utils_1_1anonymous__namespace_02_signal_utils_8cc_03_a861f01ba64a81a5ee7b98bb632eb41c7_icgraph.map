@@ -1,0 +1,8 @@
+<map id="veins::SignalUtils::anonymous_namespace{SignalUtils::cc}::powerLevelSumAtFrequencyIndex" name="veins::SignalUtils::anonymous_namespace{SignalUtils::cc}::powerLevelSumAtFrequencyIndex">
+<area shape="rect" id="node2" href="$namespaceveins_1_1_signal_utils.html#a744df65831b369a6412cb305cf04f06f" title="check if the summed power of interfererFrames&#39;s signals at freqIndex is below a given threshold..." alt="" coords="243,104,461,145"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="veins::Decider80211p::cca" alt="" coords="509,111,687,138"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="749,5,908,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="755,71,903,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="755,136,903,177"/>
+<area shape="rect" id="node7" href="$classveins_1_1_phy_layer80211p.html#a6851aaac3c59b66568847e75691ba3e5" title="Explicit request to PHY for the channel status. " alt="" coords="735,201,923,243"/>
+</map>

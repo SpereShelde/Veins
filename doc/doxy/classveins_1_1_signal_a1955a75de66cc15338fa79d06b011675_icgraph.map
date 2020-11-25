@@ -1,0 +1,9 @@
+<map id="veins::Signal::getAnalogueModelList" name="veins::Signal::getAnalogueModelList">
+<area shape="rect" id="node2" href="$namespaceveins_1_1_signal_utils.html#a744df65831b369a6412cb305cf04f06f" title="check if the summed power of interfererFrames&#39;s signals at freqIndex is below a given threshold..." alt="" coords="231,104,449,145"/>
+<area shape="rect" id="node8" href="$classveins_1_1_signal.html#ac678bd99ea970d0135330ccaa8458736" title="Create a copy of another signal. " alt="" coords="260,170,420,197"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="veins::Decider80211p::cca" alt="" coords="497,111,675,138"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="737,5,896,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="743,71,891,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="743,136,891,177"/>
+<area shape="rect" id="node7" href="$classveins_1_1_phy_layer80211p.html#a6851aaac3c59b66568847e75691ba3e5" title="Explicit request to PHY for the channel status. " alt="" coords="723,201,911,243"/>
+</map>

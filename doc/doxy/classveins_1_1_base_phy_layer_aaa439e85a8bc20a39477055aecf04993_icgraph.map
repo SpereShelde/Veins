@@ -1,0 +1,9 @@
+<map id="veins::BasePhyLayer::sendControlMessageUp" name="veins::BasePhyLayer::sendControlMessageUp">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a7839a1e342516ba1cde3a001a72965f3" title="Send the given message to via the control gate to the mac. " alt="" coords="224,71,389,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="643,5,790,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#ada6c556e50ead146f822dadf6ea2a472" title="Called when the switching process of the Radio is finished. " alt="" coords="437,71,589,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="637,136,796,177"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="850,5,997,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#aefafbb15daa91c819c4d25e7a9c38b71" title="Tell the BasePhyLayer to switch to the specified radio state. " alt="" coords="643,71,790,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_phy_layer80211p.html#a5d9eccb7ec311b0d1add0ccd0e69fcde" title="Tell the BasePhyLayer to switch to the specified radio state. " alt="" coords="844,71,1003,112"/>
+</map>

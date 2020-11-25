@@ -1,0 +1,8 @@
+<map id="veins::Signal::setSenderPoa" name="veins::Signal::setSenderPoa">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#adb6dcf56295ceb53b34e83eb409a40a2" title="Filter the passed AirFrame&#39;s Signal by every registered AnalogueModel. " alt="" coords="240,26,387,67"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive. " alt="" coords="435,26,632,67"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="680,26,827,67"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="1081,30,1228,71"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="875,26,1033,67"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="881,91,1027,132"/>
+</map>

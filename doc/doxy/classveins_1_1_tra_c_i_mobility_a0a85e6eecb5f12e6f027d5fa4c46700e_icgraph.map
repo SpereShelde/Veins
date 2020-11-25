@@ -1,0 +1,6 @@
+<map id="veins::TraCIMobility::calculateHostPosition" name="veins::TraCIMobility::calculateHostPosition">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="211,5,349,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="211,71,349,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_mobility.html#a678634249e120d1e2614a628d20006f6" title="veins::TraCIMobility\l::preInitialize" alt="" coords="211,136,349,177"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="397,5,536,47"/>
+</map>

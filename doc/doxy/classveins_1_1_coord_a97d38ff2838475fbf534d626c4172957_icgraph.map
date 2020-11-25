@@ -1,0 +1,12 @@
+<map id="veins::Coord::squareLength" name="veins::Coord::squareLength">
+<area shape="rect" id="node2" href="$classveins_1_1_move.html#ae583b55d97cf1f59cbb000a584efb67d" title="Sets the direction to the passed vector, which must be already normalized or the 0&#45;vector. " alt="" coords="236,132,407,173"/>
+<area shape="rect" id="node11" href="$classveins_1_1_coord.html#a6307af5ac557c0c1400ff72006ba0c8d" title="Returns distance^2 to Coord &#39;a&#39; (omits calling square root). " alt="" coords="250,198,393,225"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="456,15,592,56"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="643,71,781,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages. " alt="" coords="456,132,592,173"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_mobility.html#a678634249e120d1e2614a628d20006f6" title="veins::TraCIMobility\l::preInitialize" alt="" coords="455,197,593,239"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="455,263,593,304"/>
+<area shape="rect" id="node4" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="641,5,783,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages. " alt="" coords="644,136,780,177"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="643,263,781,304"/>
+</map>

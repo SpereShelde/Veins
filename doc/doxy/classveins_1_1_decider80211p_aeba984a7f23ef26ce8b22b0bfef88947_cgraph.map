@@ -1,0 +1,10 @@
+<map id="veins::Decider80211p::cca" name="veins::Decider80211p::cca">
+<area shape="rect" id="node2" href="$classveins_1_1_base_decider.html#a1eb9539d907f101c8d30798f6ca03337" title="Collects the AirFrame on the channel during the passed interval. " alt="" coords="272,5,408,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider_to_phy_interface.html#af423a846c8d7b68d6882b30be41432a7" title="Returns a constant which defines the noise floor in the passed time frame (in mW). " alt="" coords="243,71,437,112"/>
+<area shape="rect" id="node5" href="$namespaceveins_1_1_signal_utils.html#a744df65831b369a6412cb305cf04f06f" title="check if the summed power of interfererFrames&#39;s signals at freqIndex is below a given threshold..." alt="" coords="231,136,449,177"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider_to_phy_interface.html#a49ab6416f80e747952ad829d6e8ca771" title="Fills the passed AirFrameVector with all AirFrames that intersect with the time interval [from..." alt="" coords="503,5,697,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_signal.html#a303d43bda1cdcde066aa9c15acf52c4d" title="Get the point in time at which the signal reception starts. " alt="" coords="509,73,691,115"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#ade8a1576fbeea65ad1a7eff31618c3b9" title="Get the point in time at which the signal reception ends. " alt="" coords="497,139,703,166"/>
+<area shape="rect" id="node8" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#a861f01ba64a81a5ee7b98bb632eb41c7" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::powerLevel\lSumAtFrequencyIndex" alt="" coords="505,191,695,261"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#a1955a75de66cc15338fa79d06b011675" title="Get the AnalogueModels associated with this Signal. " alt="" coords="511,285,689,327"/>
+</map>

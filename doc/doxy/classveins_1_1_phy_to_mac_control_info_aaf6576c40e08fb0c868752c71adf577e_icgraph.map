@@ -1,0 +1,4 @@
+<map id="veins::PhyToMacControlInfo::getDeciderResult" name="veins::PhyToMacControlInfo::getDeciderResult">
+<area shape="rect" id="node2" href="$classveins_1_1_phy_to_mac_control_info.html#a184023bbdfeb6a47f8fcb559c065bcb1" title="extracts the decider result from message &quot;control info&quot;. " alt="" coords="241,5,467,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#aa33e88d786741d77a486617749ddf6d0" title="Handle messages from lower layer. " alt="" coords="267,71,441,112"/>
+</map>

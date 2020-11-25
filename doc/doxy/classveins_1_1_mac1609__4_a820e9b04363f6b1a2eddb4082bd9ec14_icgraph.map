@@ -1,0 +1,10 @@
+<map id="veins::Mac1609_4::guardActive" name="veins::Mac1609_4::guardActive">
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#a1c6717faaa6b882f1d68153a4a22ae62" title="veins::Mac1609_4::channelIdle" alt="" coords="259,31,461,58"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#a9c988936349c36370a7b6f282227a734" title="Handle control messages from lower layer. " alt="" coords="513,78,688,120"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mac1609__4.html#aa1baba4139ee2996286cca5640b251a5" title="veins::Mac1609_4::handle\lRetransmit" alt="" coords="273,137,447,178"/>
+<area shape="rect" id="node9" href="$classveins_1_1_mac1609__4.html#ad56ebe7dbf4be7aca4d00bfef4cdf412" title="Handle messages from upper layer. " alt="" coords="273,202,447,244"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4.html#a50663c27a2a1782c618309345687e142" title="Handle self messages such as timers. " alt="" coords="740,57,915,98"/>
+<area shape="rect" id="node5" href="$classveins_1_1_mac1609__4.html#a8d43b34c9fb0b918e447343e5fc344d4" title="States of the channel selecting operation. " alt="" coords="509,27,692,54"/>
+<area shape="rect" id="node7" href="$classveins_1_1_mac1609__4.html#aa33e88d786741d77a486617749ddf6d0" title="Handle messages from lower layer. " alt="" coords="513,209,688,250"/>
+<area shape="rect" id="node8" href="$classveins_1_1_mac1609__4.html#a429c3c17f4a99e763cf9608a85e6b56c" title="veins::Mac1609_4::handle\lAckTimeOut" alt="" coords="513,144,688,185"/>
+</map>

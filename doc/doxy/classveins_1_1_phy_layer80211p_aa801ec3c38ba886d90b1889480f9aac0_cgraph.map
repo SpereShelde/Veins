@@ -1,0 +1,5 @@
+<map id="veins::PhyLayer80211p::initializeVehicleObstacleShadowing" name="veins::PhyLayer80211p::initializeVehicleObstacleShadowing">
+<area shape="rect" id="node2" href="$classveins_1_1_vehicle_obstacle_control_access.html#a2a1d5694c1098854d78e763bfc6e5cdc" title="veins::VehicleObstacleControl\lAccess::getIfExists" alt="" coords="225,5,424,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize. " alt="" coords="245,71,404,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_world_utility.html#ac0e47ec8501896bb97172a70c31d7e06" title="Returns true if our playground represents a torus (borders are connected) " alt="" coords="245,136,404,177"/>
+</map>

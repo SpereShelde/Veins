@@ -1,0 +1,12 @@
+<map id="veins::NistErrorRate::getChunkSuccessRate" name="veins::NistErrorRate::getChunkSuccessRate">
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#a457f142bf69a3b9d28e8a5a37e48f1a7" title="Return BER of QAM16 at the given SNR after applying FEC. " alt="" coords="219,39,360,80"/>
+<area shape="rect" id="node5" href="$classveins_1_1_nist_error_rate.html#ac41a5562bd3d9b5b50352301af0f1189" title="Return BER of QAM64 at the given SNR after applying FEC. " alt="" coords="219,104,360,145"/>
+<area shape="rect" id="node7" href="$classveins_1_1_nist_error_rate.html#a03eb0d0c7cc0a63f450ea688ddb65117" title="Return BER of BPSK at the given SNR after applying FEC. " alt="" coords="219,169,360,211"/>
+<area shape="rect" id="node9" href="$classveins_1_1_nist_error_rate.html#a5814e5bd473a3127bf659d82edfd97fa" title="Return BER of QPSK at the given SNR after applying FEC. " alt="" coords="219,235,360,276"/>
+<area shape="rect" id="node11" href="$namespaceveins.html#a577339f223a802a547b44f9c27e0be8e" title="returns encoding given datarate " alt="" coords="235,301,344,327"/>
+<area shape="rect" id="node3" href="$classveins_1_1_nist_error_rate.html#a1808f09736f8a581305d5ff4a58e2555" title="Return BER of QAM16 at the given SNR. " alt="" coords="408,5,549,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_nist_error_rate.html#aa2df206d0e5cc31a3c3587438c7d5b74" title="Return the coded BER for the given p and b. " alt="" coords="408,136,549,177"/>
+<area shape="rect" id="node6" href="$classveins_1_1_nist_error_rate.html#aeeb73f566759330ab5b9f3c39beb1b86" title="Return BER of QAM64 at the given SNR. " alt="" coords="408,71,549,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_nist_error_rate.html#a18175d82399d69438e554cb95c7604a3" title="Return BER of BPSK at the given SNR. " alt="" coords="408,201,549,243"/>
+<area shape="rect" id="node10" href="$classveins_1_1_nist_error_rate.html#ab94ccc90f9c0e35de2dd00563f0e5032" title="Return BER of QPSK at the given SNR. " alt="" coords="408,267,549,308"/>
+</map>

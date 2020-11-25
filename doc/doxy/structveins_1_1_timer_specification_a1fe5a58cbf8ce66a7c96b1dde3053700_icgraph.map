@@ -1,0 +1,4 @@
+<map id="veins::TimerSpecification::interval" name="veins::TimerSpecification::interval">
+<area shape="rect" id="node2" href="$structveins_1_1_timer_specification.html#ac0b5f3e0f52575833abc0a879940df86" title="Set the timer to execute once at a given time. " alt="" coords="223,5,392,47"/>
+<area shape="rect" id="node3" href="$structveins_1_1_timer_specification.html#af679b95d5ec42458ad29a9eaa5427fad" title="Set the timer to execute once in a given time. " alt="" coords="223,71,392,112"/>
+</map>

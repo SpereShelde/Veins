@@ -1,0 +1,16 @@
+<map id="VehicleObstacleShadowing.cc" name="VehicleObstacleShadowing.cc">
+<area shape="rect" id="node2" href="$_vehicle_obstacle_shadowing_8h.html" title="veins/modules/analogueModel\l/VehicleObstacleShadowing.h" alt="" coords="975,80,1172,121"/>
+<area shape="rect" id="node3" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="1102,259,1245,300"/>
+<area shape="rect" id="node17" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="43,348,181,389"/>
+<area shape="rect" id="node18" href="$_vehicle_obstacle_control_8h.html" title="veins/modules/obstacle\l/VehicleObstacleControl.h" alt="" coords="677,169,851,211"/>
+<area shape="rect" id="node23" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="976,355,1136,382"/>
+<area shape="rect" id="node6" href="$veins_8h.html" title="veins/veins.h" alt="" coords="723,587,821,613"/>
+<area shape="rect" id="node9" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="736,348,901,389"/>
+<area shape="rect" id="node10" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="751,437,913,464"/>
+<area shape="rect" id="node15" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="1211,348,1352,389"/>
+<area shape="rect" id="node11" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="1220,512,1399,539"/>
+<area shape="rect" id="node20" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="502,259,661,300"/>
+<area shape="rect" id="node21" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="206,348,426,389"/>
+<area shape="rect" id="node24" href="$_mobile_host_obstacle_8h.html" title="veins/modules/obstacle\l/MobileHostObstacle.h" alt="" coords="685,259,843,300"/>
+<area shape="rect" id="node22" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="168,512,363,539"/>
+</map>

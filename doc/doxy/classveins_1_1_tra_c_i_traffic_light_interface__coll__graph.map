@@ -1,0 +1,15 @@
+<map id="veins::TraCITrafficLightInterface" name="veins::TraCITrafficLightInterface">
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_scenario_manager.html" title="Creates and moves nodes controlled by a TraCI server. " alt="" coords="1015,229,1209,256"/>
+<area shape="rect" id="node13" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas. " alt="" coords="211,145,384,172"/>
+<area shape="rect" id="node14" href="$classveins_1_1_vehicle_obstacle_control.html" title="VehicleObstacleControl models moving obstacles that block radio transmissions. " alt="" coords="594,93,793,120"/>
+<area shape="rect" id="node18" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="614,257,773,284"/>
+<area shape="rect" id="node3" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="249,526,345,553"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html" title="veins::TraCICommandInterface\l::Trafficlight" alt="" coords="1009,567,1215,608"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_connection.html" title="veins::TraCIConnection" alt="" coords="217,589,377,616"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_command_interface.html" title="veins::TraCICommandInterface" alt="" coords="591,646,796,673"/>
+<area shape="rect" id="node7" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent. " alt="" coords="5,669,145,696"/>
+<area shape="rect" id="node9" href="$structveins_1_1_tra_c_i_command_interface_1_1_version_config.html" title="veins::TraCICommandInterface\l::VersionConfig" alt="" coords="195,640,400,682"/>
+<area shape="rect" id="node11" href="$classveins_1_1_tra_c_i_traffic_light_program.html" title="veins::TraCITrafficLight\lProgram" alt="" coords="1033,708,1191,750"/>
+<area shape="rect" id="node15" href="$classveins_1_1_annotation_manager_1_1_group.html" title="veins::AnnotationManager\l::Group" alt="" coords="211,60,384,102"/>
+<area shape="rect" id="node16" href="$classveins_1_1_tra_c_i_region_of_interest.html" title="Can return whether a given position lies within the simulation&#39;s region of interest. " alt="" coords="597,206,790,233"/>
+</map>

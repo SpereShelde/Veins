@@ -1,0 +1,7 @@
+<map id="veins::BaseMobility::reflectIfOutside" name="veins::BaseMobility::reflectIfOutside">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#a6c817348be2c3586777a85bb60e2b3f1" title="helperfunction for reflectIfOutside() to reflect a Coordinate at a given border " alt="" coords="189,71,325,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#a86c357c59de6f58dc9916706ef1b4f6c" title="Returns the width of the playground. " alt="" coords="373,5,509,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mobility.html#acb8f54f076e73b8760cf3f2421a68ad6" title="Returns the height of the playground. " alt="" coords="373,71,509,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mobility.html#a61602db99644b3a1fe849eb02c8286cb" title="Returns the height of the playground. " alt="" coords="373,136,509,177"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize. " alt="" coords="557,71,716,112"/>
+</map>

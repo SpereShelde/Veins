@@ -1,0 +1,5 @@
+<map id="veins::Coord::distance" name="veins::Coord::distance">
+<area shape="rect" id="node2" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="207,5,379,61"/>
+<area shape="rect" id="node4" href="$classveins_1_1_coord.html#aa003fb9d6788186697029ce7653eb9e7" title="Returns the length of this Coords position vector. " alt="" coords="223,85,362,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="427,20,588,47"/>
+</map>

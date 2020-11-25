@@ -1,0 +1,6 @@
+<map id="veins::DemoBaseApplLayerToMac1609_4Interface::changeServiceChannel" name="veins::DemoBaseApplLayerToMac1609_4Interface::changeServiceChannel">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_demo_r_s_u11p.html#ac9492fce14de082cccb9b581e90643f0" title="this function is called upon receiving a DemoServiceAdvertisement " alt="" coords="240,5,419,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_demo11p.html#ab99a43052e88c2727b77da730e776c1b" title="this function is called upon receiving a DemoServiceAdvertisement " alt="" coords="473,64,623,105"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#a950278bac8ae9a57bbf8d052f3d72740" title="This will start the periodic advertising of the new service on the CCH. " alt="" coords="237,123,421,164"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_demo11p.html#aae2d2ce4ddead5bf4fdacf8fe00ba7e8" title="this function is called every time the vehicle receives a position update signal " alt="" coords="469,129,627,171"/>
+</map>

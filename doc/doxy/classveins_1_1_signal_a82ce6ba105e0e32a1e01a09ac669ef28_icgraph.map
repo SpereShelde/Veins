@@ -1,0 +1,7 @@
+<map id="veins::Signal::getMaxInRange" name="veins::Signal::getMaxInRange">
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#a8f734318dd434fe99a19e3791765c5af" title="Maximum power level in milliwatt in the data frequency range. " alt="" coords="251,5,427,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a23e6d424de9fcb0841a95cce50d4f0c7" title="Return the maximum power level of any frequency. " alt="" coords="265,56,413,83"/>
+<area shape="rect" id="node4" href="$classveins_1_1_nakagami_fading.html#a630ff5ca1212baf8d9afac0d017229da" title="Simple Nakagami&#45;m fading (based on a constant factor across all time and frequencies). " alt="" coords="475,15,633,57"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_decider.html#a6a480f87157d0509c0c1fccf94ea9fef" title="Processes a new Signal. " alt="" coords="485,81,623,122"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_decider.html#a8b488dcd86bfc2749763682ea3589800" title="Processes an AirFrame given by the PhyLayer. " alt="" coords="681,81,817,122"/>
+</map>

@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['annotationmanager',['AnnotationManager',['../classveins_1_1_annotation_manager_1_1_annotation.html#aaedce5ff10318ebddfdb8d1acede6d7a',1,'veins::AnnotationManager::Annotation::AnnotationManager()'],['../classveins_1_1_annotation_manager_1_1_point.html#aaedce5ff10318ebddfdb8d1acede6d7a',1,'veins::AnnotationManager::Point::AnnotationManager()'],['../classveins_1_1_annotation_manager_1_1_line.html#aaedce5ff10318ebddfdb8d1acede6d7a',1,'veins::AnnotationManager::Line::AnnotationManager()'],['../classveins_1_1_annotation_manager_1_1_polygon.html#aaedce5ff10318ebddfdb8d1acede6d7a',1,'veins::AnnotationManager::Polygon::AnnotationManager()'],['../classveins_1_1_annotation_manager_1_1_group.html#aaedce5ff10318ebddfdb8d1acede6d7a',1,'veins::AnnotationManager::Group::AnnotationManager()']]]
+];

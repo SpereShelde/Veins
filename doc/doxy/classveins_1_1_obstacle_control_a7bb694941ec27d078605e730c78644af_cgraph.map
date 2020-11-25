@@ -1,0 +1,7 @@
+<map id="veins::ObstacleControl::getIntersections" name="veins::ObstacleControl::getIntersections">
+<area shape="rect" id="node2" href="$classveins_1_1_b_box_lookup.html#aafb4c0c12fd2d7623a9fa41010cddb01" title="Return all obstacles which have their bounding box touched by the transmission from sender to receive..." alt="" coords="218,67,361,108"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02_obstacle_control_8cc_03.html#a622c9a0b0c5d14fbd42f7d5bcba982cb" title="anonymous_namespace\l\{ObstacleControl::cc\}\l::rebuildBBoxLookup" alt="" coords="208,133,371,189"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#ad29edbecc2bba7cf9afb525f0aff0f25" title="Return whether ray intersects with box. " alt="" coords="419,5,609,47"/>
+<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#a511746fffff7fb590b4d01d923189b03" title="Return a Ray struct for fast intersection tests from sender to receiver. " alt="" coords="419,71,609,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_find_module.html#a5235f90b10b3a297c25baeaa8a4194cf" title="Returns a pointer to the module with the type of this template. " alt="" coords="446,140,582,181"/>
+</map>

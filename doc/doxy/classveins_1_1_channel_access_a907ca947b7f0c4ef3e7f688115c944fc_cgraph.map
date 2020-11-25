@@ -1,0 +1,4 @@
+<map id="veins::ChannelAccess::getMobilityModule" name="veins::ChannelAccess::getMobilityModule">
+<area shape="rect" id="node2" href="$classveins_1_1_access_module_wrap.html#aba35d824475dcf42954f0f8e464b4f00" title="veins::AccessModuleWrap::get" alt="" coords="207,13,411,39"/>
+<area shape="rect" id="node3" href="$classveins_1_1_find_module.html#a56591278058cab17db4d776cfde387a5" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="459,5,595,47"/>
+</map>

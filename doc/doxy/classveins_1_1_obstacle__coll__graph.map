@@ -1,0 +1,5 @@
+<map id="veins::Obstacle" name="veins::Obstacle">
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="5,117,101,143"/>
+<area shape="rect" id="node4" href="$classveins_1_1_annotation_manager_1_1_annotation.html" title="veins::AnnotationManager\l::Annotation" alt="" coords="191,109,364,151"/>
+<area shape="rect" id="node5" href="$classveins_1_1_annotation_manager_1_1_group.html" title="veins::AnnotationManager\l::Group" alt="" coords="191,5,364,47"/>
+</map>

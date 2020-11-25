@@ -1,0 +1,12 @@
+<map id="veins::BaseDecider::processSignal" name="veins::BaseDecider::processSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_base_decider.html#aa41d7cb370ba4069108ede77732b3bc8" title="Returns the SignalState for the passed AirFrame. " alt="" coords="205,5,341,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_decider.html#a6a480f87157d0509c0c1fccf94ea9fef" title="Processes a new Signal. " alt="" coords="203,71,342,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_decider.html#ab9cfef6c04e12d2524d45e881f341300" title="Processes the end of a received Signal. " alt="" coords="205,136,341,177"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_decider.html#a586529178d95663f70072fe46d166efa" title="Processes the end of the header of a received Signal. " alt="" coords="195,201,350,243"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_decider.html#ac054bb9bbda73689caf6c7cd7e55c8de" title="Processes any Signal for which no state could be found. " alt="" coords="189,267,356,308"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#a23e6d424de9fcb0841a95cce50d4f0c7" title="Return the maximum power level of any frequency. " alt="" coords="433,27,581,54"/>
+<area shape="rect" id="node6" href="$classveins_1_1_signal.html#ade8a1576fbeea65ad1a7eff31618c3b9" title="Get the point in time at which the signal reception ends. " alt="" coords="404,78,609,105"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_decider.html#ae535b44e34061014fe282c36c27b0193" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="429,129,584,171"/>
+<area shape="rect" id="node5" href="$classveins_1_1_signal.html#a82ce6ba105e0e32a1e01a09ac669ef28" title="veins::Signal::getMaxInRange" alt="" coords="657,27,855,54"/>
+<area shape="rect" id="node9" href="$classveins_1_1_decider_to_phy_interface.html#a8795c130caca902f79ba399fa9905f24" title="Called to send an AirFrame with DeciderResult to the MACLayer. " alt="" coords="409,195,604,236"/>
+</map>

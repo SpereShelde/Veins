@@ -1,0 +1,6 @@
+<map id="veins::NistErrorRate::getFec16QamBer" name="veins::NistErrorRate::getFec16QamBer">
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title="veins::NistErrorRate\l::getChunkSuccessRate" alt="" coords="195,5,360,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors " alt="" coords="408,5,556,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="604,5,752,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="800,5,948,47"/>
+</map>

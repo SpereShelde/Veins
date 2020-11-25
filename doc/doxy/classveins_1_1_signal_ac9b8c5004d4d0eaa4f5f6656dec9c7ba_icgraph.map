@@ -1,0 +1,17 @@
+<map id="veins::Signal::getSpectrum" name="veins::Signal::getSpectrum">
+<area shape="rect" id="node2" href="$classveins_1_1_two_ray_interference_model.html#a4c322a29e4987d2021bee9234a0ad0b9" title="Has to be overriden by every implementation. " alt="" coords="260,5,439,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="761,229,981,271"/>
+<area shape="rect" id="node4" href="$classveins_1_1_simple_pathloss_model.html#a71783f3a91bb7178629fa58aadf793e4" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal. " alt="" coords="256,136,443,177"/>
+<area shape="rect" id="node5" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::getMaxInterference" alt="" coords="232,354,467,410"/>
+<area shape="rect" id="node6" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal..." alt="" coords="552,320,676,361"/>
+<area shape="rect" id="node9" href="$classveins_1_1_vehicle_obstacle_control.html#adf2407d9dcb0830d99775342e3304f15" title="compute attenuation due to vehicles. " alt="" coords="515,187,713,228"/>
+<area shape="rect" id="node10" href="$classveins_1_1_vehicle_obstacle_control.html#aba9a4a4986cd0141c6bd5404069f9460" title="compute attenuation due to (single) vehicle. " alt="" coords="250,71,449,112"/>
+<area shape="rect" id="node11" href="$classveins_1_1_signal.html#a5aefae5041d4818b454f2dd438c9ede6" title="Multiply the power levels by another signal&#39;s power levels. " alt="" coords="267,434,432,461"/>
+<area shape="rect" id="node12" href="$classveins_1_1_signal.html#a32d59d8693b93ce78a52affa2b08d7b8" title="Increment the power levels by another signal&#39;s power levels. " alt="" coords="265,485,433,511"/>
+<area shape="rect" id="node13" href="$classveins_1_1_signal.html#ab1c20df0e42eba2a401d862e623bb2fb" title="Decrement the power levels by another signal&#39;s power levels. " alt="" coords="267,535,431,562"/>
+<area shape="rect" id="node14" href="$namespaceveins.html#ae7f554dbeb2ee9119727b3f27d680c65" title="Divide a a constant by a signal&#39;s power levels. " alt="" coords="293,586,405,613"/>
+<area shape="rect" id="node15" href="$classveins_1_1_signal.html#adc7e81655a7305b89bf78ab742e549a2" title="Divide the power levels by another signal&#39;s power levels. " alt="" coords="267,637,431,663"/>
+<area shape="rect" id="node16" href="$classveins_1_1_signal.html#ac678bd99ea970d0135330ccaa8458736" title="Create a copy of another signal. " alt="" coords="269,687,429,714"/>
+<area shape="rect" id="node7" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="797,320,945,361"/>
+<area shape="rect" id="node8" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="1029,320,1177,361"/>
+</map>

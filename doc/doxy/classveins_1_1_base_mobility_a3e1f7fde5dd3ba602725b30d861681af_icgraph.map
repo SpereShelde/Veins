@@ -1,0 +1,4 @@
+<map id="veins::BaseMobility::getCurrentSpeed" name="veins::BaseMobility::getCurrentSpeed">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#ad6be6b3f578a4402f4f7dfefe0b89d31" title="Calling this method on pointers of type TraCIMobility is deprecated in favor of calling either getHos..." alt="" coords="189,5,328,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#a536d0ddea4aed31d6281a8752ccb223b" title="Returns the speed of the host (likely 0 if setHostSpeed==false) " alt="" coords="189,71,328,112"/>
+</map>

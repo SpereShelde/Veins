@@ -1,0 +1,4 @@
+<map id="veins::ChannelInfo::canDiscardInterval" name="veins::ChannelInfo::canDiscardInterval">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_info.html#ab32ce0e1d994fe641eb188022bec0844" title="Returns true if there is at least one AirFrame in the passed AirFrameMatrix which intersect with the ..." alt="" coords="192,5,323,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_info_1_1_base_intersection_iterator.html#ac8cb02d11bbba3ab83fe39a400aa320d" title="Increases the iterator to the next intersecting AirFrame and returns a pointer to this AirFrame..." alt="" coords="371,5,573,47"/>
+</map>

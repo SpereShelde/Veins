@@ -1,0 +1,157 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Message <i>AirFrame11p</i></h2>
+<b>File: <a href="src-veins-modules-messages-AirFrame11p.msg.html">src/veins/modules/messages/AirFrame11p.msg</a></b><br/>
+<p>Extension of base <a href="src-veins-base-messages-AirFrame.html">AirFrame</a> message to have the underMinPowerLevel field</p>
+<h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-msg-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="src-veins-modules-messages-AirFrame11p-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="src-veins-modules-messages-AirFrame11p.html" title="Message AirFrame11p" alt="" coords="5,5,101,31">
+</map>
+<h3 class="subtitle">Extends:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="src-veins-base-messages-AirFrame.html">AirFrame</a>
+   </td>
+   <td>
+<i>packet</i>
+   </td>
+   <td>
+
+<p>Format of the packets that are sent to the channel</p>
+
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Fields:</h3>
+<table class="fieldstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="local">
+   <td>underMinPowerLevel</td>
+   <td>
+      <i>
+bool</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="local">
+   <td>wasTransmitting</td>
+   <td>
+      <i>
+bool</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="inherited">
+   <td>signal</td>
+   <td>
+      <i>
+Signal</i>
+   </td>
+   <td>
+<p>Contains the physical data of this <a href="src-veins-base-messages-AirFrame.html">AirFrame</a></p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>poa</td>
+   <td>
+      <i>
+POA</i>
+   </td>
+   <td>
+<p>contains a POA object with the position, orientation and antenna (pointer)
+of the sender</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>duration</td>
+   <td>
+      <i>
+simtime_t</i>
+   </td>
+   <td>
+<p>time the AirFrames takes to be transmited (without propagation delay)</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>state</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>state of the AirFrames, used by the physical layer
+as state machine for delay and transmission duration
+simulation</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>type</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>If type isn't null then this is a control-<a href="src-veins-base-messages-AirFrame.html">AirFrame</a>
+and type specifies the control type.</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>id</td>
+   <td>
+      <i>
+long</i>
+   </td>
+   <td>
+<p>Unique ID of the <a href="src-veins-base-messages-AirFrame.html">AirFrame</a> used as identifier for
+related control-AirFrames</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>protocolId</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>the id of the phy protocol of this airframe</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>channel</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>the channel of the radio used for this transmission</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>mcs</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>Modulation and conding scheme of the packet</p>
+</td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

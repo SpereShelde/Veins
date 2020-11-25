@@ -1,0 +1,5 @@
+<map id="veins::TraCIRegionOfInterest::addRectangles" name="veins::TraCIRegionOfInterest::addRectangles">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a6060adf2e942f6e7343ee26091193341" title="veins::TraCIScenarioManager\l::initialize" alt="" coords="247,39,441,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a952e624950eb8aa1d856c850c574a4e9" title="veins::TraCIScenarioManager\lForker::initialize" alt="" coords="489,5,684,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#afb429edf2aaebebc1895151be0fadbca" title="veins::TraCIScenarioManager\lLaunchd::initialize" alt="" coords="489,71,684,112"/>
+</map>

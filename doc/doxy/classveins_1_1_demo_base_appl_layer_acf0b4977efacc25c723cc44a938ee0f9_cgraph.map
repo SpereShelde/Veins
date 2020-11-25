@@ -1,0 +1,5 @@
+<map id="veins::DemoBaseApplLayer::receiveSignal" name="veins::DemoBaseApplLayer::receiveSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#ab5cc9db685df1f2f180359af47a3140c" title="this function is called every time the vehicle parks or starts moving again " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#a384db2de57cd12b3b5bab48f255bcea7" title="this function is called every time the vehicle receives a position update signal " alt="" coords="237,71,421,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#aedb0d434725c9a1f5363a1f2409f6d2a" title="veins::TraCIMobility\l::getParkingState" alt="" coords="469,5,608,47"/>
+</map>

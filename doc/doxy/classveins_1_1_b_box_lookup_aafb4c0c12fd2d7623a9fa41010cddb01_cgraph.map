@@ -1,0 +1,4 @@
+<map id="veins::BBoxLookup::findOverlapping" name="veins::BBoxLookup::findOverlapping">
+<area shape="rect" id="node2" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#ad29edbecc2bba7cf9afb525f0aff0f25" title="Return whether ray intersects with box. " alt="" coords="196,5,387,47"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#a511746fffff7fb590b4d01d923189b03" title="Return a Ray struct for fast intersection tests from sender to receiver. " alt="" coords="196,71,387,112"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="veins::BaseMacLayer::getConnectionManager" name="veins::BaseMacLayer::getConnectionManager">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html#a0dc69d65185a429fcd739d4eadedb504" title="Returns a pointer to the ConnectionManager responsible for the passed NIC module. ..." alt="" coords="217,5,381,47"/>
+</map>

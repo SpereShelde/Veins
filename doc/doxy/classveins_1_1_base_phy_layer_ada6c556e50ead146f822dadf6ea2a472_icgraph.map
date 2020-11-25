@@ -1,0 +1,7 @@
+<map id="veins::BasePhyLayer::finishRadioSwitching" name="veins::BasePhyLayer::finishRadioSwitching">
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="205,5,364,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="211,71,358,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#aefafbb15daa91c819c4d25e7a9c38b71" title="Tell the BasePhyLayer to switch to the specified radio state. " alt="" coords="211,136,358,177"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="418,71,565,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a5d9eccb7ec311b0d1add0ccd0e69fcde" title="Tell the BasePhyLayer to switch to the specified radio state. " alt="" coords="412,136,571,177"/>
+</map>

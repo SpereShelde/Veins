@@ -1,0 +1,8 @@
+<map id="BaseLayer.h" name="BaseLayer.h">
+<area shape="rect" id="node2" href="$veins_8h.html" title="veins/veins.h" alt="" coords="169,423,268,449"/>
+<area shape="rect" id="node6" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="115,80,253,121"/>
+<area shape="rect" id="node11" href="$_passed_message_8h.html" title="veins/base/utils/PassedMessage.h" alt="" coords="397,177,622,203"/>
+<area shape="rect" id="node7" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="115,259,253,300"/>
+<area shape="rect" id="node10" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="224,169,363,211"/>
+<area shape="rect" id="node9" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="237,348,424,375"/>
+</map>

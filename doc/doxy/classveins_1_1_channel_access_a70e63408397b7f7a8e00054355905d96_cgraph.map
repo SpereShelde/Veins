@@ -1,0 +1,6 @@
+<map id="veins::ChannelAccess::initialize" name="veins::ChannelAccess::initialize">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="419,30,560,71"/>
+<area shape="rect" id="node4" href="$classveins_1_1_channel_access.html#a0dc69d65185a429fcd739d4eadedb504" title="Returns a pointer to the ConnectionManager responsible for the passed NIC module. ..." alt="" coords="207,26,371,67"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_module.html#a66e943d61eb3d43e5a999ccbaf010fd9" title="Basic initialization for all modules. " alt="" coords="218,91,359,133"/>
+<area shape="rect" id="node3" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="608,30,744,71"/>
+</map>

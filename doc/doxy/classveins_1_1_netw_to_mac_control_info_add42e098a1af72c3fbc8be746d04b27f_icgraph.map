@@ -1,0 +1,5 @@
+<map id="veins::NetwToMacControlInfo::getDestFromControlInfo" name="veins::NetwToMacControlInfo::getDestFromControlInfo">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html#a64013bf689c9da4e79fa48116e14730e" title="Extracts the MAC address from the &quot;control info&quot; structure (object). " alt="" coords="249,5,492,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mac_layer.html#a32d47cbd6940c09071e0f0e777cf6716" title="Encapsulate the NetwPkt into an MacPkt. " alt="" coords="540,5,688,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_mac_layer.html#a00e3c0935a4e53b889a1c32848f1fed0" title="Handle messages comming from the network layer. " alt="" coords="736,5,884,47"/>
+</map>

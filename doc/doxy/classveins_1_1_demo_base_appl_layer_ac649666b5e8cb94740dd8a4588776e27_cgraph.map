@@ -1,0 +1,5 @@
+<map id="veins::DemoBaseApplLayer::sendDelayedDown" name="veins::DemoBaseApplLayer::sendDelayedDown">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#a92eee52f9f934fa6118dbad5422f4269" title="helper function for error handling and stats recording purposes " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_appl_layer.html#a08d91ffcf2598556db4dd3ba845e4979" title="Sends a message delayed to the lower layer. " alt="" coords="255,71,404,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title="veins::BaseLayer::record\lPacket" alt="" coords="469,71,636,112"/>
+</map>

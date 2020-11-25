@@ -1,0 +1,30 @@
+<map id="veins::FindModule::findHost" name="veins::FindModule::findHost">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="189,333,331,375"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_demo11p.html#aae2d2ce4ddead5bf4fdacf8fe00ba7e8" title="this function is called every time the vehicle receives a position update signal " alt="" coords="392,5,549,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#acca47f0d4a756e78ca29d2e4271af396" title="veins::DemoBaseApplLayer\l::initialize" alt="" coords="1035,144,1219,185"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mac_layer.html#a689fa06067e9df73c7fa19512fe91117" title="Initialization of the module and some variables. " alt="" coords="838,56,986,97"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_module.html#a66e943d61eb3d43e5a999ccbaf010fd9" title="Basic initialization for all modules. " alt="" coords="400,195,541,236"/>
+<area shape="rect" id="node12" href="$classveins_1_1_channel_access.html#a70e63408397b7f7a8e00054355905d96" title="Register with ConnectionManager. " alt="" coords="623,239,777,280"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="632,304,768,345"/>
+<area shape="rect" id="node18" href="$classveins_1_1_phy_layer80211p.html#ae62c1c399fe19bde81152c617fc5a38b" title="Initializes a new Decider80211 from the passed parameter map. " alt="" coords="389,428,553,469"/>
+<area shape="rect" id="node20" href="$classveins_1_1_base_module.html#a8f33836785d4804800dfcc6ab78fa720" title="Function to get the logging name of the host. " alt="" coords="400,493,541,535"/>
+<area shape="rect" id="node21" href="$classveins_1_1_tra_c_i_demo11p.html#a3014dadc6ab101fa734eeb151df3567f" title="this function is called upon receiving a BaseFrame1609_4 " alt="" coords="395,559,546,600"/>
+<area shape="rect" id="node22" href="$classveins_1_1_battery_access.html#a2286e83003b2919cbb496260a5b0d009" title="Registers this module as a device with the battery module. " alt="" coords="397,624,544,665"/>
+<area shape="rect" id="node23" href="$classveins_1_1_base_mobility.html#a291eed23c07d4693a5fa4164aa80934e" title="Update the position information for this node. " alt="" coords="403,363,539,404"/>
+<area shape="rect" id="node29" href="$classveins_1_1_demo_base_appl_layer.html#a24a3ca57d2273f653f1070c317be1df8" title="veins::DemoBaseApplLayer\l::~DemoBaseApplLayer" alt="" coords="379,689,563,731"/>
+<area shape="rect" id="node5" href="$classveins_1_1_my_veins_app.html#a73f5b68ba9bb4b66b2a3fecf875be114" title="veins::MyVeinsApp::\linitialize" alt="" coords="1271,112,1413,153"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_demo11p.html#ac52eef213e4579f7d5f671385b506b78" title="veins::TraCIDemo11p\l::initialize" alt="" coords="1267,177,1417,219"/>
+<area shape="rect" id="node8" href="$classveins_1_1_mac1609__4.html#a8d43b34c9fb0b918e447343e5fc344d4" title="States of the channel selecting operation. " alt="" coords="1035,63,1218,90"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_layer.html#a5619505dba58f2669af33f9e23f6f1ad" title="Initialization of the module and some variables. " alt="" coords="611,181,789,207"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_appl_layer.html#a709299823ec0e1a8055407ceb765f7f8" title="Initialization of the module and some variables. " alt="" coords="837,173,987,215"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_phy_layer.html#a63e95c45ba5f46514ed9027c53216491" title="Initialize members and associated objects according to parameterization. " alt="" coords="839,239,985,280"/>
+<area shape="rect" id="node14" href="$classveins_1_1_phy_layer80211p.html#abdd1c62986d1fd220eb5e51d4458811a" title="veins::PhyLayer80211p\l::initialize" alt="" coords="1047,239,1206,280"/>
+<area shape="rect" id="node16" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="841,304,983,345"/>
+<area shape="rect" id="node17" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="843,369,981,411"/>
+<area shape="rect" id="node19" href="$classveins_1_1_phy_layer80211p.html#a2c50b013088841608612b0a7c8b92799" title="Creates and returns an instance of the Decider with the specified name. " alt="" coords="621,565,779,607"/>
+<area shape="rect" id="node24" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="631,369,769,411"/>
+<area shape="rect" id="node26" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages. " alt="" coords="632,500,768,541"/>
+<area shape="rect" id="node28" href="$classveins_1_1_base_mobility.html#a70b2b357a4cef14850cd4edd440a13a7" title="Called upon arrival of a self messages. " alt="" coords="632,435,768,476"/>
+<area shape="rect" id="node25" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="843,435,981,476"/>
+<area shape="rect" id="node27" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages. " alt="" coords="844,500,980,541"/>
+</map>

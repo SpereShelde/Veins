@@ -1,0 +1,4 @@
+<map id="veins::VehicleObstacleControl::getVehicleAttenuationSingle" name="veins::VehicleObstacleControl::getVehicleAttenuationSingle">
+<area shape="rect" id="node2" href="$classveins_1_1_vehicle_obstacle_control.html#adf2407d9dcb0830d99775342e3304f15" title="compute attenuation due to vehicles. " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="499,5,719,47"/>
+</map>

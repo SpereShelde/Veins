@@ -1,0 +1,10 @@
+<map id="veins::Signal::getSendingStart" name="veins::Signal::getSendingStart">
+<area shape="rect" id="node2" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="224,5,423,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive. " alt="" coords="225,71,422,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#ac678bd99ea970d0135330ccaa8458736" title="Create a copy of another signal. " alt="" coords="243,137,403,163"/>
+<area shape="rect" id="node3" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="471,5,691,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="507,71,654,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="945,75,1092,116"/>
+<area shape="rect" id="node7" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="739,71,897,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="745,136,891,177"/>
+</map>

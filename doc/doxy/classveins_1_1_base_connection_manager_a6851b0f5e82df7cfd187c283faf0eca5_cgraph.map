@@ -1,0 +1,5 @@
+<map id="veins::BaseConnectionManager::registerNicExt" name="veins::BaseConnectionManager::registerNicExt">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#ae776ac81a8f88a9afba710afaf8573b8" title="Returns the NicEntries of the cell with specified coordinate. " alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_connection_manager.html#a7f0e7ff7533bb1f5e3c9bb2c2c0db261" title="Calculates the corresponding cell of a coordinate. " alt="" coords="260,71,467,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html#adae1596e34bb3aa3f56fecb132ec35ff" title="Output string for this coordinate. " alt="" coords="260,136,467,177"/>
+</map>

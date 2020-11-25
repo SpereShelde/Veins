@@ -1,0 +1,7 @@
+<map id="veins::BasePhyLayer::encapsMsg" name="veins::BasePhyLayer::encapsMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#ac5571de9711dc5adda0d4281a6a78f2e" title="Defines the scheduling priority of AirFrames. " alt="" coords="206,5,353,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a5e9c914412f6eae586f5a41d5308a7f5" title="Create a signal corresponding to the received control information. " alt="" coords="206,71,353,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#afa9969e29e4da7c827662e03522abd9f" title="Create a protocol&#45;specific AirFrame. " alt="" coords="206,136,353,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_world_utility.html#a4dd7a66a8ccbc52ff7ff43c66f832d5c" title="Returns an Id for an AirFrame, at the moment simply an incremented long&#45;value. " alt="" coords="200,201,359,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#ae32956b372dbacefb9c97ec6f16ffe91" title="Return the identifier of the protocol this phy uses to send messages. " alt="" coords="206,267,353,308"/>
+</map>

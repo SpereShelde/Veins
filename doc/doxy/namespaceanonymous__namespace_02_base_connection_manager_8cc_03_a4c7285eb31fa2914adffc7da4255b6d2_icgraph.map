@@ -1,0 +1,10 @@
+<map id="anonymous_namespace{BaseConnectionManager::cc}::sqrTorusDist" name="anonymous_namespace{BaseConnectionManager::cc}::sqrTorusDist">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#a418d9fb4151ff38840838a94189ba8b6" title="Check if the two nic&#39;s are in range. " alt="" coords="225,39,432,80"/>
+<area shape="rect" id="node9" href="$classveins_1_1_coord.html#a6307af5ac557c0c1400ff72006ba0c8d" title="Returns distance^2 to Coord &#39;a&#39; (omits calling square root). " alt="" coords="257,105,400,131"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_connection_manager.html#af36a4fd1f31773f63187cc9717441a98" title="Manages the connections of a registered nic. " alt="" coords="480,39,687,80"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager.html#a063c137e5a6d73ff846321b511d48a32" title="Check connections of a nic in the grid. " alt="" coords="735,39,941,80"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_connection_manager.html#af87d8c9c33b54eb6bf8a5f43e6e36a96" title="Updates the connections of the nic with &quot;nicID&quot;. " alt="" coords="989,39,1196,80"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_connection_manager.html#a35d8c27aeacff47e0e62135ffe065078" title="Registers a nic to have its connections managed by ConnectionManager. " alt="" coords="1244,5,1451,47"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_connection_manager.html#af264b3c891bde0a49dd003c584c997ac" title="Updates the position information of a registered nic. " alt="" coords="1244,71,1451,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes. " alt="" coords="1499,39,1652,80"/>
+</map>

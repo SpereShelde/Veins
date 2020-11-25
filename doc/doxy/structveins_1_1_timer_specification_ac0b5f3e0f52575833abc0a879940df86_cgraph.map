@@ -1,0 +1,5 @@
+<map id="veins::TimerSpecification::oneshotAt" name="veins::TimerSpecification::oneshotAt">
+<area shape="rect" id="node2" href="$structveins_1_1_timer_specification.html#a12615dc627d46ce524b68491dc4e3ed2" title="Set the timer&#39;s start time. " alt="" coords="223,5,392,47"/>
+<area shape="rect" id="node3" href="$structveins_1_1_timer_specification.html#a1fe5a58cbf8ce66a7c96b1dde3053700" title="Set the period between two timer occurences. " alt="" coords="223,71,392,112"/>
+<area shape="rect" id="node4" href="$structveins_1_1_timer_specification.html#a2beb07e9b7c0666ca340196b62477ea2" title="Set the number of repetitions. " alt="" coords="223,136,392,177"/>
+</map>

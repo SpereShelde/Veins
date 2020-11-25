@@ -1,0 +1,10 @@
+<map id="veins::BaseMacLayer::initialize" name="veins::BaseMacLayer::initialize">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="617,47,759,88"/>
+<area shape="rect" id="node4" href="$classveins_1_1_find_module.html#a56591278058cab17db4d776cfde387a5" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="223,47,359,88"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_layer.html#a5619505dba58f2669af33f9e23f6f1ad" title="Initialization of the module and some variables. " alt="" coords="201,113,380,140"/>
+<area shape="rect" id="node7" href="$classveins_1_1_l_address.html#aa4c72481eb930988da1272c5867ff401" title="NULL address for L2 addresses. " alt="" coords="205,164,377,190"/>
+<area shape="rect" id="node8" href="$classveins_1_1_addressing_interface.html#a5234c74da9e41e453740f46dfb6e3c1e" title="Returns the L2 address for the passed mac. " alt="" coords="202,215,379,256"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_mac_layer.html#adc87295362ca7859cb6fe2a5bbe3c90d" title="Registers this bridge&#39;s NIC with INET&#39;s InterfaceTable. " alt="" coords="217,280,365,322"/>
+<area shape="rect" id="node3" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="807,47,943,88"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_module.html#a66e943d61eb3d43e5a999ccbaf010fd9" title="Basic initialization for all modules. " alt="" coords="428,76,569,118"/>
+</map>

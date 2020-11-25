@@ -1,0 +1,7 @@
+<map id="veins::BaseMobility::wrapIfOutside" name="veins::BaseMobility::wrapIfOutside">
+<area shape="rect" id="node2" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="189,5,351,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#a86c357c59de6f58dc9916706ef1b4f6c" title="Returns the width of the playground. " alt="" coords="202,57,338,98"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mobility.html#acb8f54f076e73b8760cf3f2421a68ad6" title="Returns the height of the playground. " alt="" coords="202,122,338,163"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mobility.html#a61602db99644b3a1fe849eb02c8286cb" title="Returns the height of the playground. " alt="" coords="202,187,338,229"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize. " alt="" coords="399,122,557,163"/>
+</map>

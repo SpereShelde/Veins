@@ -1,0 +1,19 @@
+<map id="veins::TraCITrafficLightInterface::sendChangeMsg" name="veins::TraCITrafficLightInterface::sendChangeMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a02ae7efc223ff2a4ac1fa74a52e6409e" title="veins::TraCITrafficLight\lInterface::setCurrentLogicById" alt="" coords="237,127,437,168"/>
+<area shape="rect" id="node15" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a44cf7ae2ea56d79cd51017da1c92696f" title="veins::TraCITrafficLight\lInterface::setCurrentPhaseByNr" alt="" coords="233,192,442,233"/>
+<area shape="rect" id="node16" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a56222ccb6427fd3996db5117e0f766b8" title="veins::TraCITrafficLight\lInterface::setCurrentState" alt="" coords="251,257,424,299"/>
+<area shape="rect" id="node17" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#ada896b2e872d54253ea1f3f24bb8dd63" title="veins::TraCITrafficLight\lInterface::setNextSwitch" alt="" coords="254,61,421,103"/>
+<area shape="rect" id="node18" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a1160a12ff8cd727c6e6077014397b689" title="veins::TraCITrafficLight\lInterface::setRemainingDuration" alt="" coords="232,323,443,364"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#add02cc9cb92d43c6d9ed80ecae664063" title="veins::TraCIScenarioManager\l::processTrafficLightSubscription" alt="" coords="496,123,709,164"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a21e6f2a1be4ab8952cd2c2ea4e43d712" title="veins::TraCITrafficLight\lInterface::handleChangeCommand\lMessage" alt="" coords="491,189,715,245"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager.html#a2f149bc15c3119ab19850b6960689eeb" title="veins::TraCIScenarioManager\l::processSubcriptionResult" alt="" coords="763,123,957,164"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager.html#a84ebe9fb50441189bd39f949f2593115" title="read and execute all commands for the next timestep " alt="" coords="1273,5,1468,47"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="veins::TraCIScenarioManager\l::init_traci" alt="" coords="1273,71,1468,112"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_scenario_manager.html#a9aff5d4c2403fdc11846bbb27f32fd04" title="veins::TraCIScenarioManager\l::subscribeToTrafficLightVariables" alt="" coords="1005,64,1225,105"/>
+<area shape="rect" id="node11" href="$classveins_1_1_tra_c_i_scenario_manager.html#a999d945fca20d45532a24b492430d742" title="veins::TraCIScenarioManager\l::subscribeToVehicleVariables" alt="" coords="1016,232,1215,273"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="1516,5,1711,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title="veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1759,5,1953,47"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title="veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="1516,71,1711,112"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_scenario_manager.html#a4b6aa1aa798b245ff323c5759a3b848e" title="veins::TraCIScenarioManager\l::processVehicleSubscription" alt="" coords="1273,203,1468,244"/>
+<area shape="rect" id="node14" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a04bf7b95b3007906095ccfddb9d830a8" title="veins::TraCITrafficLight\lInterface::handleMessage" alt="" coords="774,196,946,237"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="veins::TraCIDemoRSU11p::onWSM" name="veins::TraCIDemoRSU11p::onWSM">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#ac649666b5e8cb94740dd8a4588776e27" title="overloaded for error handling and stats recording purposes " alt="" coords="232,39,416,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer.html#a92eee52f9f934fa6118dbad5422f4269" title="helper function for error handling and stats recording purposes " alt="" coords="464,5,648,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_appl_layer.html#a08d91ffcf2598556db4dd3ba845e4979" title="Sends a message delayed to the lower layer. " alt="" coords="481,71,631,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title="veins::BaseLayer::record\lPacket" alt="" coords="696,71,863,112"/>
+</map>

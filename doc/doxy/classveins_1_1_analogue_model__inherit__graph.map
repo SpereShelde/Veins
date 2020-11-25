@@ -1,0 +1,10 @@
+<map id="veins::AnalogueModel" name="veins::AnalogueModel">
+<area shape="rect" id="node3" href="$classveins_1_1_breakpoint_pathloss_model.html" title="Basic implementation of a BreakpointPathlossModel. " alt="" coords="415,5,589,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_nakagami_fading.html" title="A simple model to account for fast fading using the Nakagami Distribution. " alt="" coords="423,71,581,98"/>
+<area shape="rect" id="node5" href="$classveins_1_1_p_e_r_model.html" title="This class applies a parameterized packet error rate to incoming packets. " alt="" coords="440,122,564,149"/>
+<area shape="rect" id="node6" href="$classveins_1_1_simple_obstacle_shadowing.html" title="Basic implementation of a SimpleObstacleShadowing. " alt="" coords="393,173,611,199"/>
+<area shape="rect" id="node7" href="$classveins_1_1_simple_pathloss_model.html" title="Basic implementation of a SimplePathlossModel. " alt="" coords="409,223,595,250"/>
+<area shape="rect" id="node8" href="$classveins_1_1_two_ray_interference_model.html" title="Extended version of Two&#45;Ray Ground path loss model. " alt="" coords="413,275,591,316"/>
+<area shape="rect" id="node9" href="$classveins_1_1_vehicle_obstacle_shadowing.html" title="Basic implementation of a VehicleObstacleShadowing that uses SimplePathlossConstMapping (that is subc..." alt="" coords="392,341,612,367"/>
+<area shape="rect" id="node2" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent. " alt="" coords="5,173,145,199"/>
+</map>

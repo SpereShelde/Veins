@@ -1,0 +1,7 @@
+<map id="veins::Mac1609_4::sendAck" name="veins::Mac1609_4::sendAck">
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#a67e75c8cc468f946f320b82d346a157b" title="veins::Mac1609_4::channel\lBusySelf" alt="" coords="250,5,431,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac80211p_to_phy11p_interface.html#a6f6f61e8f9e1129139b1dbb3900f2708" title="veins::Mac80211pToPhy11p\lInterface::getFrameDuration" alt="" coords="247,71,434,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4.html#ae8c4ff04987993a2dfec9d6371b572c8" title="veins::Mac1609_4::sendFrame" alt="" coords="240,137,441,163"/>
+<area shape="rect" id="node5" href="$classveins_1_1_mac_to_phy_interface.html#a4d5879fb9c208fe6bad1ee57f2e6d445" title="Tells the BasePhyLayer to switch to the specified radio state. " alt="" coords="489,96,664,137"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mac1609__4.html#a8b4340346aa17cf5d77d3291cf32f452" title="veins::Mac1609_4::attach\lControlInfo" alt="" coords="491,161,663,203"/>
+</map>

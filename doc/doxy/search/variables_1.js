@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['bandwidth_5f11p',['BANDWIDTH_11P',['../namespaceveins.html#aff301ed290e2541f8be9ff668c04a321',1,'veins']]],
+  ['battery',['battery',['../classveins_1_1_battery_access.html#abbad287c6877d824b7c35ca1b9fd01b3',1,'veins::BatteryAccess']]],
+  ['bboxcells',['bboxCells',['../classveins_1_1_b_box_lookup.html#a34fa1b8c9180101162aa52534d96b635',1,'veins::BBoxLookup']]],
+  ['bboxes',['bboxes',['../classveins_1_1_b_box_lookup.html#aee0dfb4c3aac8b2006c2cdaeb0485044',1,'veins::BBoxLookup']]],
+  ['bboxlookup',['bboxLookup',['../classveins_1_1_obstacle_control.html#a281f2ae0ed4486eb54af93b53ea2a98e',1,'veins::ObstacleControl']]],
+  ['bboxp1',['bboxP1',['../classveins_1_1_obstacle.html#a5d038c8c718e7c193b859c1d97f7dcf0',1,'veins::Obstacle']]],
+  ['bboxp2',['bboxP2',['../classveins_1_1_obstacle.html#aba35d0d554f87a9e969386fb469eb043',1,'veins::Obstacle']]],
+  ['beaconinterval',['beaconInterval',['../classveins_1_1_demo_base_appl_layer.html#a2815c39ba35f6c42b06128ddbfc8f32a',1,'veins::DemoBaseApplLayer']]],
+  ['beaconlengthbits',['beaconLengthBits',['../classveins_1_1_demo_base_appl_layer.html#afb4ada150c65919b1770abdef7985419',1,'veins::DemoBaseApplLayer']]],
+  ['beaconuserpriority',['beaconUserPriority',['../classveins_1_1_demo_base_appl_layer.html#a6d61f40c578e82777003c41fe23a3e49',1,'veins::DemoBaseApplLayer']]],
+  ['biterrorrate',['bitErrorRate',['../classveins_1_1_mac_to_netw_control_info.html#ae39caba8d2a5670f10644402a936e84d',1,'veins::MacToNetwControlInfo']]],
+  ['bitrate',['bitrate',['../classveins_1_1_decider_result80211.html#a381da0d9948d8a73b69a5b48e8d88ebe',1,'veins::DeciderResult80211']]],
+  ['bitrates_5f80211p',['BITRATES_80211P',['../namespaceveins.html#aaac445f2f574322887547cad4ec737c1',1,'veins']]],
+  ['bits',['bits',['../classveins_1_1_enum_bitset.html#a855fa4f98d2d5d8aae36083cb064a0a4',1,'veins::EnumBitset']]],
+  ['blue',['blue',['../classveins_1_1_tra_c_i_color.html#af5cb498ef88f8d5639a835467ce16888',1,'veins::TraCIColor']]],
+  ['bottomright',['bottomright',['../classveins_1_1_tra_c_i_coordinate_transformation.html#a382be41592b0b1fc2cf097125234de54',1,'veins::TraCICoordinateTransformation']]],
+  ['breakpointdistance',['breakpointDistance',['../classveins_1_1_breakpoint_pathloss_model.html#abad9e10c93087a4b750a4170b27ce8f9',1,'veins::BreakpointPathlossModel']]],
+  ['buf',['buf',['../classveins_1_1_tra_c_i_buffer.html#a8eb5495083908db16f4395944234644a',1,'veins::TraCIBuffer']]],
+  ['buf_5findex',['buf_index',['../classveins_1_1_tra_c_i_buffer.html#a4d3d1958cb1707bb03044a016adf6d97',1,'veins::TraCIBuffer']]]
+];

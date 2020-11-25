@@ -1,0 +1,13 @@
+<map id="veins::BaseWorldUtility::getRandomPosition" name="veins::BaseWorldUtility::getRandomPosition">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#ad1ddc43c422d35b51b87d98a038b055e" title="Random position somewhere in the playground. " alt="" coords="227,5,371,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="231,71,367,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mobility.html#a933475f97d6ab7bf834e4d07beda131b" title="Utility function to place the node randomly if it goes outside the playground. " alt="" coords="212,136,385,177"/>
+<area shape="rect" id="node4" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="433,5,575,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="435,71,573,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mobility.html#aae36006995d117a723134cbe1fee5e90" title="Main border handling function. " alt="" coords="436,136,572,177"/>
+<area shape="rect" id="node8" href="$classveins_1_1_linear_mobility.html#a506fdc3882892c0fc4427df73736010e" title="Should be redefined in subclasses. " alt="" coords="623,103,776,144"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_mobility.html#a4fa20054882e4a7fb5b03a13576311c3" title="called after each read to check for (and handle) invalid positions " alt="" coords="623,168,776,209"/>
+<area shape="rect" id="node9" href="$classveins_1_1_linear_mobility.html#af310806b2b41572de1428e56474bba56" title="Move the host. " alt="" coords="824,103,965,144"/>
+<area shape="rect" id="node11" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="825,168,964,209"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="1013,168,1152,209"/>
+</map>

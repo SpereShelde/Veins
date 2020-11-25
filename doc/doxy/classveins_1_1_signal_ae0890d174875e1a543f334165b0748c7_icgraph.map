@@ -1,0 +1,10 @@
+<map id="veins::Signal::at" name="veins::Signal::at">
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a1d1b85c74e35e6b7dd8a906a290e559c" title="Attach a signal to the given AirFrame. " alt="" coords="207,5,366,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="699,100,919,141"/>
+<area shape="rect" id="node4" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::getMaxInterference" alt="" coords="169,187,404,243"/>
+<area shape="rect" id="node5" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal..." alt="" coords="489,227,613,268"/>
+<area shape="rect" id="node8" href="$classveins_1_1_vehicle_obstacle_control.html#aba9a4a4986cd0141c6bd5404069f9460" title="compute attenuation due to (single) vehicle. " alt="" coords="187,71,386,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="735,227,883,268"/>
+<area shape="rect" id="node7" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="967,227,1115,268"/>
+<area shape="rect" id="node9" href="$classveins_1_1_vehicle_obstacle_control.html#adf2407d9dcb0830d99775342e3304f15" title="compute attenuation due to vehicles. " alt="" coords="452,71,651,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::SignalUtils::getMinSINR" name="veins::SignalUtils::getMinSINR">
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="177,5,325,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="373,5,521,47"/>
+</map>

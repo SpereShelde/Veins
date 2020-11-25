@@ -1,0 +1,55 @@
+<map id="veins::FindModule::findGlobalModule" name="veins::FindModule::findGlobalModule">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager_launchd_access.html#a2b36cce62500f2fa6c11a239df87c7ca" title="veins::TraCIScenarioManager\lLaunchdAccess::get" alt="" coords="195,37,390,79"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager_forker_access.html#a09fcc4989a8974c52151a4cb44224520" title="veins::TraCIScenarioManager\lForkerAccess::get" alt="" coords="195,103,390,144"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager_access.html#a327aea423a1acd13027a591fbae8b4c5" title="veins::TraCIScenarioManager\lAccess::get" alt="" coords="195,449,390,491"/>
+<area shape="rect" id="node37" href="$classveins_1_1_annotation_manager_access.html#a078a458514be3927ea589e843a9bef72" title="veins::AnnotationManager\lAccess::getIfExists" alt="" coords="206,220,379,261"/>
+<area shape="rect" id="node42" href="$classveins_1_1_tra_c_i_scenario_manager.html#a6060adf2e942f6e7343ee26091193341" title="veins::TraCIScenarioManager\l::initialize" alt="" coords="446,37,641,79"/>
+<area shape="rect" id="node45" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="225,545,361,587"/>
+<area shape="rect" id="node48" href="$classveins_1_1_base_phy_layer.html#a63e95c45ba5f46514ed9027c53216491" title="Initialize members and associated objects according to parameterization. " alt="" coords="219,611,366,652"/>
+<area shape="rect" id="node50" href="$classveins_1_1_base_connection_manager.html#a084bb7d054e50e3d276da4ce0b7bb5b0" title="Reads init parameters and calculates a maximal interference distance. " alt="" coords="189,676,396,717"/>
+<area shape="rect" id="node51" href="$namespaceanonymous__namespace_02_obstacle_control_8cc_03.html#a622c9a0b0c5d14fbd42f7d5bcba982cb" title="anonymous_namespace\l\{ObstacleControl::cc\}\l::rebuildBBoxLookup" alt="" coords="211,803,374,859"/>
+<area shape="rect" id="node5" href="$classveins_1_1_annotation_manager.html#a87ffa1c7edbccb8372a4551b73c73def" title="veins::AnnotationManager\l::show" alt="" coords="457,416,630,457"/>
+<area shape="rect" id="node25" href="$classveins_1_1_annotation_manager.html#ae7cd5fba58d72f4351963b9a6c95e669" title="veins::AnnotationManager\l::hide" alt="" coords="457,547,630,588"/>
+<area shape="rect" id="node33" href="$classveins_1_1_tra_c_i_mobility.html#afd1a0cc6ab4d26ff380b67e544ebfcbf" title="veins::TraCIMobility\l::getManager" alt="" coords="474,481,613,523"/>
+<area shape="rect" id="node34" href="$classveins_1_1_tra_c_i_screen_recorder.html#a1f31f2e84760580383d6d5dcae19fa47" title="veins::TraCIScreenRecorder\l::handleMessage" alt="" coords="449,612,637,653"/>
+<area shape="rect" id="node35" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a8611fc2146bcdaf81c20619f6f5bfb16" title="veins::TraCITrafficLight\lInterface::getManager" alt="" coords="464,285,623,327"/>
+<area shape="rect" id="node36" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#a529bd0ef5bcfc0a42b6e88853b1e3b1d" title="veins::TraCIVehicleInserter\l::initialize" alt="" coords="453,351,634,392"/>
+<area shape="rect" id="node6" href="$classveins_1_1_annotation_manager.html#a4de648d17c042138a6c8b8638e945f4b" title="veins::AnnotationManager\l::drawLine" alt="" coords="701,481,875,523"/>
+<area shape="rect" id="node11" href="$classveins_1_1_annotation_manager.html#a336eefa4f1f95638dcf5d5e5db0a93e9" title="veins::AnnotationManager\l::drawPoint" alt="" coords="701,416,875,457"/>
+<area shape="rect" id="node12" href="$classveins_1_1_annotation_manager.html#a7623e3423953cbe2f3db0133967829b7" title="veins::AnnotationManager\l::drawPolygon" alt="" coords="701,351,875,392"/>
+<area shape="rect" id="node23" href="$classveins_1_1_annotation_manager.html#a15a2bcf8ab7d62b65a85c55c3960085f" title="veins::AnnotationManager\l::showAll" alt="" coords="701,547,875,588"/>
+<area shape="rect" id="node7" href="$classveins_1_1_annotation_manager.html#a946e1967906528815fbe61cb8cfb2986" title="adds Annotations from an XML document; example below. " alt="" coords="955,468,1129,509"/>
+<area shape="rect" id="node9" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="1199,529,1397,571"/>
+<area shape="rect" id="node8" href="$classveins_1_1_annotation_manager.html#af1b9b5eacc0afa3a90fbf48a7f00a539" title="veins::AnnotationManager\l::initialize" alt="" coords="1211,464,1385,505"/>
+<area shape="rect" id="node10" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="1445,529,1665,571"/>
+<area shape="rect" id="node13" href="$classveins_1_1_obstacle_control.html#a206a6e9155d1b201841d0718e65ed30f" title="veins::ObstacleControl::add" alt="" coords="950,234,1134,261"/>
+<area shape="rect" id="node17" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="veins::TraCIScenarioManager\l::init_traci" alt="" coords="1458,300,1653,341"/>
+<area shape="rect" id="node21" href="$classveins_1_1_annotation_manager.html#a51c3cecfcf9fd3f315177b07bb7ab040" title="veins::AnnotationManager\l::drawPolygon" alt="" coords="955,285,1129,327"/>
+<area shape="rect" id="node22" href="$classveins_1_1_vehicle_obstacle_control.html#a35472d1c0051dbf451f1dd30ac2c708f" title="veins::VehicleObstacleControl\l::drawVehicleObstacles" alt="" coords="943,403,1141,444"/>
+<area shape="rect" id="node14" href="$classveins_1_1_obstacle_control.html#a1e5fceb8e8d9616622cc12551231c9d3" title="veins::ObstacleControl\l::addFromXml" alt="" coords="1221,220,1375,261"/>
+<area shape="rect" id="node16" href="$classveins_1_1_obstacle_control.html#a5854911238d0af091d44f155bb768437" title="veins::ObstacleControl\l::addFromTypeAndShape" alt="" coords="1213,285,1383,327"/>
+<area shape="rect" id="node15" href="$classveins_1_1_obstacle_control.html#adffe1ace6d536aa9a27402006707962f" title="veins::ObstacleControl\l::initialize" alt="" coords="1478,205,1633,247"/>
+<area shape="rect" id="node18" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="1713,268,1908,309"/>
+<area shape="rect" id="node20" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title="veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="1713,333,1908,375"/>
+<area shape="rect" id="node19" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title="veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1956,268,2151,309"/>
+<area shape="rect" id="node24" href="$classveins_1_1_annotation_manager.html#aa368e9f91a7b1ae9f0ed505ec2153044" title="veins::AnnotationManager\l::handleParameterChange" alt="" coords="955,585,1129,627"/>
+<area shape="rect" id="node26" href="$classveins_1_1_annotation_manager.html#a990948888917eff8840f899714d4e754" title="veins::AnnotationManager\l::erase" alt="" coords="701,749,875,791"/>
+<area shape="rect" id="node31" href="$classveins_1_1_annotation_manager.html#a25be0b4d24230db849859184c6144441" title="veins::AnnotationManager\l::hideAll" alt="" coords="701,612,875,653"/>
+<area shape="rect" id="node27" href="$classveins_1_1_obstacle_control.html#a3c5fb281ac00c947afe86d5e4bf99759" title="veins::ObstacleControl\l::erase" alt="" coords="965,847,1119,888"/>
+<area shape="rect" id="node28" href="$classveins_1_1_annotation_manager.html#af071307b3e3fad6ec12a193418a9f576" title="veins::AnnotationManager\l::eraseAll" alt="" coords="955,716,1129,757"/>
+<area shape="rect" id="node29" href="$classveins_1_1_annotation_manager.html#a15b1bc8dc418c545c8ff4e2b1f14833b" title="veins::AnnotationManager\l::handleSelfMsg" alt="" coords="955,781,1129,823"/>
+<area shape="rect" id="node30" href="$classveins_1_1_annotation_manager.html#a3e4a47c7b4bdeef090c4bb77c2813f3a" title="veins::AnnotationManager\l::handleMessage" alt="" coords="1211,781,1385,823"/>
+<area shape="rect" id="node32" href="$classveins_1_1_annotation_manager.html#a7cd6933413793d71e8494c4561f635e0" title="veins::AnnotationManager\l::finish" alt="" coords="955,651,1129,692"/>
+<area shape="rect" id="node38" href="$classveins_1_1_vehicle_obstacle_control.html#a1083ae0d4c821658c2d6c6140c33f28f" title="veins::VehicleObstacleControl\l::initialize" alt="" coords="444,103,643,144"/>
+<area shape="rect" id="node39" href="$classveins_1_1_demo_base_appl_layer.html#acca47f0d4a756e78ca29d2e4271af396" title="veins::DemoBaseApplLayer\l::initialize" alt="" coords="451,220,635,261"/>
+<area shape="rect" id="node40" href="$classveins_1_1_my_veins_app.html#a73f5b68ba9bb4b66b2a3fecf875be114" title="veins::MyVeinsApp::\linitialize" alt="" coords="717,285,859,327"/>
+<area shape="rect" id="node41" href="$classveins_1_1_tra_c_i_demo11p.html#ac52eef213e4579f7d5f671385b506b78" title="veins::TraCIDemo11p\l::initialize" alt="" coords="713,220,863,261"/>
+<area shape="rect" id="node43" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a952e624950eb8aa1d856c850c574a4e9" title="veins::TraCIScenarioManager\lForker::initialize" alt="" coords="691,5,885,47"/>
+<area shape="rect" id="node44" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#afb429edf2aaebebc1895151be0fadbca" title="veins::TraCIScenarioManager\lLaunchd::initialize" alt="" coords="691,71,885,112"/>
+<area shape="rect" id="node46" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="473,677,614,719"/>
+<area shape="rect" id="node47" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="474,743,613,784"/>
+<area shape="rect" id="node49" href="$classveins_1_1_phy_layer80211p.html#abdd1c62986d1fd220eb5e51d4458811a" title="veins::PhyLayer80211p\l::initialize" alt="" coords="464,808,623,849"/>
+<area shape="rect" id="node52" href="$classveins_1_1_obstacle_control.html#a7bb694941ec27d078605e730c78644af" title="get hit obstacles (along with a list of points (in [0, 1]) along the line between sender and receiver..." alt="" coords="466,883,621,924"/>
+<area shape="rect" id="node53" href="$classveins_1_1_obstacle_control.html#a2605967770f04849d9319757e66305bf" title="calculate additional attenuation by obstacles, return multiplicative factor " alt="" coords="711,901,865,943"/>
+<area shape="rect" id="node54" href="$classveins_1_1_simple_obstacle_shadowing.html#a232c35993ba999b86d6e700d2152c98a" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="933,912,1151,953"/>
+</map>

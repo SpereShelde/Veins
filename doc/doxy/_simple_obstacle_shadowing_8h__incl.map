@@ -1,0 +1,15 @@
+<map id="SimpleObstacleShadowing.h" name="SimpleObstacleShadowing.h">
+<area shape="rect" id="node3" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="1083,169,1226,211"/>
+<area shape="rect" id="node17" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="135,259,273,300"/>
+<area shape="rect" id="node18" href="$_obstacle_control_8h.html" title="veins/modules/obstacle\l/ObstacleControl.h" alt="" coords="519,80,678,121"/>
+<area shape="rect" id="node26" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="1537,266,1697,293"/>
+<area shape="rect" id="node6" href="$veins_8h.html" title="veins/veins.h" alt="" coords="635,497,733,524"/>
+<area shape="rect" id="node9" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="1132,259,1297,300"/>
+<area shape="rect" id="node10" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="513,348,676,375"/>
+<area shape="rect" id="node15" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="1372,259,1513,300"/>
+<area shape="rect" id="node11" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="44,423,223,449"/>
+<area shape="rect" id="node19" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="637,169,795,211"/>
+<area shape="rect" id="node20" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="349,259,569,300"/>
+<area shape="rect" id="node23" href="$_b_box_lookup_8h.html" title="veins/modules/utility\l/BBoxLookup.h" alt="" coords="820,169,961,211"/>
+<area shape="rect" id="node22" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="415,423,609,449"/>
+</map>

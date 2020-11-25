@@ -1,0 +1,4 @@
+<map id="veins::POA" name="veins::POA">
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="155,81,251,108"/>
+<area shape="rect" id="node4" href="$classveins_1_1_antenna_position.html" title="Stores the position of the host&#39;s antenna along with its speed, so that it can be linearly extrapolat..." alt="" coords="5,185,161,212"/>
+</map>

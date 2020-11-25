@@ -1,0 +1,7 @@
+<map id="veins::DemoBaseApplLayer::handleSelfMsg" name="veins::DemoBaseApplLayer::handleSelfMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#aecfff5ce1d91dcdb319272042375e6b2" title="sets all the necessary fields in the WSM, BSM, or WSA. " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer.html#ac473178d13013063c13943d343a672f4" title="overloaded for error handling and stats recording purposes " alt="" coords="237,71,421,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#a92eee52f9f934fa6118dbad5422f4269" title="helper function for error handling and stats recording purposes " alt="" coords="474,41,658,83"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_layer.html#a1873d6e3fc6d92cf8482b39f1c5ac6c8" title="Sends a message to the lower layer. " alt="" coords="469,107,663,134"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title="veins::BaseLayer::record\lPacket" alt="" coords="711,100,877,141"/>
+</map>

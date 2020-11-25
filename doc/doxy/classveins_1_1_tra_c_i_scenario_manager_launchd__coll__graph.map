@@ -1,0 +1,9 @@
+<map id="veins::TraCIScenarioManagerLaunchd" name="veins::TraCIScenarioManagerLaunchd">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html" title="Creates and moves nodes controlled by a TraCI server. " alt="" coords="941,152,1136,179"/>
+<area shape="rect" id="node4" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas. " alt="" coords="165,70,339,96"/>
+<area shape="rect" id="node6" href="$classveins_1_1_vehicle_obstacle_control.html" title="VehicleObstacleControl models moving obstacles that block radio transmissions. " alt="" coords="529,154,728,180"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="549,308,708,335"/>
+<area shape="rect" id="node7" href="$classveins_1_1_annotation_manager_1_1_group.html" title="veins::AnnotationManager\l::Group" alt="" coords="165,172,339,213"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_region_of_interest.html" title="Can return whether a given position lies within the simulation&#39;s region of interest. " alt="" coords="532,204,725,231"/>
+<area shape="rect" id="node11" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="204,327,300,354"/>
+</map>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Wed 18 Nov 2020 09:42:48 PM EST by Eclipse SUMO netedit Version 1.7.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="/home/frank/Sumo/SU/osm.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/frank/Sumo/SU/osm.net.xml"/>
+        <output.street-names value="true"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <route-files value="/home/frank/Sumo/SU/osm.rou.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <route edges="-464993022#2 -158421509#6 564445831#0 -158256109#10 -158256109#8 -158256109#7 -158256109#4 -158105547#7 -20148465#10 -675084251#2 -304702477#7 -304702477#4 -304702477#3 -675190835#2 -675084173#2" color="yellow" id="route_0"/>
+    <flow id="flow_0" begin="0.00" from="-464993022#2" to="-675084173#2" via="-158421509#6 564445831#0 -158256109#10 -158256109#8 -158256109#7 -158256109#4 -158105547#7 -20148465#10 -675084251#2 -304702477#7 -304702477#4 -304702477#3 -675190835#2" end="3600.00" number="300"/>
+</routes>

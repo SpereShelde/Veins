@@ -1,0 +1,9 @@
+<map id="veins::LinearMobility" name="veins::LinearMobility">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html" title="Base module for all mobility modules. " alt="" coords="281,380,417,407"/>
+<area shape="rect" id="node3" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="598,291,745,317"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="501,81,634,108"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="501,157,634,184"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="5,291,164,317"/>
+<area shape="rect" id="node8" href="$classveins_1_1_move.html" title="Class to store object position and movement. " alt="" coords="239,291,333,317"/>
+<area shape="rect" id="node10" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="129,157,225,184"/>
+</map>

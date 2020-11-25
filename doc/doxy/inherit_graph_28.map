@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classveins_1_1_annotation_dummy.html" title="AnnotationDummy is just a workaround to visualize annotations. " alt="" coords="183,559,352,586"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas. " alt="" coords="181,610,354,637"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager.html" title="Module to control the channel and handle all connection related stuff. " alt="" coords="164,661,371,687"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="201,122,334,149"/>
+<area shape="rect" id="node23" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="188,290,347,317"/>
+<area shape="rect" id="node24" href="$classveins_1_1_obstacle_control.html" title="ObstacleControl models obstacles that block radio transmissions. " alt="" coords="190,341,345,367"/>
+<area shape="rect" id="node25" href="$classveins_1_1_tra_c_i_scenario_manager.html" title="Creates and moves nodes controlled by a TraCI server. " alt="" coords="170,391,365,418"/>
+<area shape="rect" id="node28" href="$classveins_1_1_tra_c_i_screen_recorder.html" title="Simple support module to take (a series of) screenshots of a simulation running in the TraCI server..." alt="" coords="173,442,361,469"/>
+<area shape="rect" id="node29" href="$classveins_1_1_tra_c_i_traffic_light_abstract_logic.html" title="Base class to simplify implementation of traffic light logics. " alt="" coords="188,493,347,535"/>
+<area shape="rect" id="node31" href="$classveins_1_1_tra_c_i_traffic_light_interface.html" title="veins::TraCITrafficLight\lInterface" alt="" coords="188,173,347,215"/>
+<area shape="rect" id="node32" href="$classveins_1_1_tra_c_i_vehicle_inserter.html" title="Uses the TraCIScenarioManager to programmatically insert new vehicles at the TraCI server..." alt="" coords="177,71,358,98"/>
+<area shape="rect" id="node33" href="$classveins_1_1_vehicle_obstacle_control.html" title="VehicleObstacleControl models moving obstacles that block radio transmissions. " alt="" coords="168,239,367,266"/>
+<area shape="rect" id="node5" href="$classveins_1_1_connection_manager.html" title="BaseConnectionManager implementation which only defines a specific max interference distance..." alt="" coords="435,661,613,687"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="457,173,591,199"/>
+<area shape="rect" id="node8" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="451,122,597,149"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_layer.html" title="A very simple layer template. " alt="" coords="713,181,836,207"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_mobility.html" title="Base module for all mobility modules. " alt="" coords="707,63,843,90"/>
+<area shape="rect" id="node20" href="$classveins_1_1_channel_access.html" title="Basic class for all physical layers, please don&#39;t touch!! " alt="" coords="698,271,851,298"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_appl_layer.html" title="Base class for the application layer. " alt="" coords="959,231,1109,258"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_mac_layer.html" title="A very simple MAC module template which provides de&#45; and encapsulation of messages using the standard..." alt="" coords="960,181,1108,207"/>
+<area shape="rect" id="node11" href="$classveins_1_1_demo_base_appl_layer.html" title="Demo application layer base class. " alt="" coords="1196,231,1380,258"/>
+<area shape="rect" id="node12" href="$classveins_1_1_my_veins_app.html" title="This is a stub for a typical Veins application layer. " alt="" coords="1450,181,1585,207"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_demo11p.html" title="A tutorial demo for TraCI. " alt="" coords="1442,231,1593,258"/>
+<area shape="rect" id="node14" href="$classveins_1_1_tra_c_i_demo_r_s_u11p.html" title="Small RSU Demo using 11p. " alt="" coords="1428,282,1607,309"/>
+<area shape="rect" id="node16" href="$classveins_1_1_mac1609__4.html" title="veins::Mac1609_4" alt="" coords="1224,151,1352,178"/>
+<area shape="rect" id="node18" href="$classveins_1_1_linear_mobility.html" title="Linear movement model. " alt="" coords="963,13,1105,39"/>
+<area shape="rect" id="node19" href="$classveins_1_1_tra_c_i_mobility.html" title="Used in modules created by the TraCIScenarioManager. " alt="" coords="965,63,1103,90"/>
+<area shape="rect" id="node21" href="$classveins_1_1_base_phy_layer.html" title="The BasePhyLayer represents the physical layer of a nic. " alt="" coords="961,322,1107,349"/>
+<area shape="rect" id="node22" href="$classveins_1_1_phy_layer80211p.html" title="Adaptation of the PhyLayer class for 802.11p. " alt="" coords="1209,381,1367,407"/>
+<area shape="rect" id="node26" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html" title="Extends the TraCIScenarioManager to automatically fork an instance of SUMO when needed. " alt="" coords="427,245,621,287"/>
+<area shape="rect" id="node27" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html" title="Extends the TraCIScenarioManager for use with sumo&#45;launchd.py and SUMO. " alt="" coords="427,384,621,425"/>
+<area shape="rect" id="node30" href="$classveins_1_1_tra_c_i_traffic_light_simple_logic.html" title="veins::TraCITrafficLight\lSimpleLogic" alt="" coords="445,493,603,535"/>
+<area shape="rect" id="node34" href="$classveins_1_1_access_module_wrap.html" title="Finds and returns the pointer to a module of type T. " alt="" coords="419,311,629,338"/>
+<area shape="rect" id="node36" href="$classveins_1_1_signal_callback_listener.html" title="veins::SignalCallbackListener\l\&lt; Payload \&gt;" alt="" coords="170,5,365,47"/>
+<area shape="rect" id="node37" href="$classveins_1_1_decider80211p_to_phy80211p_interface.html" title="Interface of PhyLayer80211p exposed to Decider80211p. " alt="" coords="920,373,1148,415"/>
+<area shape="rect" id="node38" href="$classveins_1_1_decider_to_phy_interface.html" title="This class is the interface for a Decider to the BasePhyLayer. " alt="" coords="677,322,872,349"/>
+<area shape="rect" id="node39" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html" title="Interface between DemoBaseApplLayer Layer and Mac1609_4. " alt="" coords="942,115,1126,156"/>
+<area shape="rect" id="node40" href="$classveins_1_1_mac80211p_to_phy11p_interface.html" title="Interface of PhyLayer80211p exposed to Mac1609_4. " alt="" coords="941,439,1127,480"/>
+<area shape="rect" id="node41" href="$classveins_1_1_mac_to_phy_interface.html" title="Defines the methods provided by the phy to the mac layer. " alt="" coords="687,373,862,399"/>
+</map>

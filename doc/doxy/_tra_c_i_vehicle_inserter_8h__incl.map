@@ -1,0 +1,29 @@
+<map id="TraCIVehicleInserter.h" name="TraCIVehicleInserter.h">
+<area shape="rect" id="node3" href="$veins_8h.html" title="veins/veins.h" alt="" coords="1927,616,2025,643"/>
+<area shape="rect" id="node7" href="$_tra_c_i_scenario_manager_8h.html" title="veins/modules/mobility\l/traci/TraCIScenarioManager.h" alt="" coords="1975,80,2175,121"/>
+<area shape="rect" id="node10" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="713,445,876,471"/>
+<area shape="rect" id="node15" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="176,348,315,389"/>
+<area shape="rect" id="node16" href="$_base_connection_manager_8h.html" title="veins/base/connectionManager\l/BaseConnectionManager.h" alt="" coords="1973,169,2176,211"/>
+<area shape="rect" id="node22" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="900,445,1095,471"/>
+<area shape="rect" id="node23" href="$_obstacle_control_8h.html" title="veins/modules/obstacle\l/ObstacleControl.h" alt="" coords="1402,169,1561,211"/>
+<area shape="rect" id="node30" href="$_vehicle_obstacle_control_8h.html" title="veins/modules/obstacle\l/VehicleObstacleControl.h" alt="" coords="903,169,1078,211"/>
+<area shape="rect" id="node33" href="$_tra_c_i_buffer_8h.html" title="veins/modules/mobility\l/traci/TraCIBuffer.h" alt="" coords="2848,259,3003,300"/>
+<area shape="rect" id="node36" href="$_tra_c_i_color_8h.html" title="veins/modules/mobility\l/traci/TraCIColor.h" alt="" coords="208,527,363,568"/>
+<area shape="rect" id="node37" href="$_tra_c_i_connection_8h.html" title="veins/modules/mobility\l/traci/TraCIConnection.h" alt="" coords="2596,169,2761,211"/>
+<area shape="rect" id="node39" href="$_tra_c_i_coord_8h.html" title="veins/modules/mobility\l/traci/TraCICoord.h" alt="" coords="2592,348,2747,389"/>
+<area shape="rect" id="node41" href="$_vehicle_signal_8h.html" title="veins/modules/mobility\l/traci/VehicleSignal.h" alt="" coords="3233,437,3388,479"/>
+<area shape="rect" id="node44" href="$_tra_c_i_region_of_interest_8h.html" title="veins/modules/mobility\l/traci/TraCIRegionOfInterest.h" alt="" coords="3074,259,3273,300"/>
+<area shape="rect" id="node11" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="5,534,184,561"/>
+<area shape="rect" id="node17" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="440,348,605,389"/>
+<area shape="rect" id="node18" href="$_nic_entry_8h.html" title="veins/base/connectionManager\l/NicEntry.h" alt="" coords="1904,259,2107,300"/>
+<area shape="rect" id="node19" href="$_heading_8h.html" title="veins/base/utils/Heading.h" alt="" coords="2075,355,2251,382"/>
+<area shape="rect" id="node20" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="2427,348,2568,389"/>
+<area shape="rect" id="node24" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="911,259,1070,300"/>
+<area shape="rect" id="node26" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="1371,348,1591,389"/>
+<area shape="rect" id="node27" href="$_b_box_lookup_8h.html" title="veins/modules/utility\l/BBoxLookup.h" alt="" coords="1145,259,1287,300"/>
+<area shape="rect" id="node31" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="1667,355,1827,382"/>
+<area shape="rect" id="node32" href="$_mobile_host_obstacle_8h.html" title="veins/modules/obstacle\l/MobileHostObstacle.h" alt="" coords="626,259,785,300"/>
+<area shape="rect" id="node35" href="$_tra_c_i_constants_8h.html" title="veins/modules/mobility\l/traci/TraCIConstants.h" alt="" coords="2911,348,3070,389"/>
+<area shape="rect" id="node40" href="$_tra_c_i_coordinate_transformation_8h.html" title="veins/modules/mobility\l/traci/TraCICoordinateTransformation.h" alt="" coords="2282,259,2531,300"/>
+<area shape="rect" id="node42" href="$_enum_bitset_8h.html" title="veins/base/utils/EnumBitset.h" alt="" coords="3109,534,3305,561"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::ChannelInfo::BaseIntersectionIterator&lt; C, ItMatrix, ItList &gt;" name="veins::ChannelInfo::BaseIntersectionIterator&lt; C, ItMatrix, ItList &gt;">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_info_1_1_base_intersection_iterator.html" title="veins::ChannelInfo\l::BaseIntersectionIterator\l\&lt; AirFrameMatrix, AirFrameMatrix\l::iterator, AirFrameTimeList\l::iterator \&gt;" alt="" coords="397,7,617,92"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_info_1_1_intersection_iterator.html" title="Type for a iterator over an AirFrame interval matrix. " alt="" coords="667,29,805,70"/>
+</map>

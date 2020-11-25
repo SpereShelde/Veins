@@ -1,0 +1,6 @@
+<map id="veins::BaseConnectionManager::updateNicConnections" name="veins::BaseConnectionManager::updateNicConnections">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#a418d9fb4151ff38840838a94189ba8b6" title="Check if the two nic&#39;s are in range. " alt="" coords="260,13,467,54"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a4c7285eb31fa2914adffc7da4255b6d2" title="anonymous_namespace\l\{BaseConnectionManager\l::cc\}::sqrTorusDist" alt="" coords="515,5,687,61"/>
+<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="735,5,907,61"/>
+<area shape="rect" id="node5" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="955,20,1116,47"/>
+</map>

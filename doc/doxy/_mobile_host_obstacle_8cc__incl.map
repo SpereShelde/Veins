@@ -1,0 +1,15 @@
+<map id="MobileHostObstacle.cc" name="MobileHostObstacle.cc">
+<area shape="rect" id="node4" href="$_mobile_host_obstacle_8h.html" title="veins/modules/obstacle\l/MobileHostObstacle.h" alt="" coords="763,80,922,121"/>
+<area shape="rect" id="node15" href="$_base_mobility_8h.html" title="veins/base/modules\l/BaseMobility.h" alt="" coords="393,80,532,121"/>
+<area shape="rect" id="node24" href="$_heading_8h.html" title="veins/base/utils/Heading.h" alt="" coords="1103,177,1279,203"/>
+<area shape="rect" id="node6" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="763,266,925,293"/>
+<area shape="rect" id="node14" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="913,169,1079,211"/>
+<area shape="rect" id="node7" href="$veins_8h.html" title="veins/veins.h" alt="" coords="463,512,561,539"/>
+<area shape="rect" id="node11" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="721,355,900,382"/>
+<area shape="rect" id="node16" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="131,169,269,211"/>
+<area shape="rect" id="node21" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="383,177,543,203"/>
+<area shape="rect" id="node23" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="567,169,705,211"/>
+<area shape="rect" id="node17" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="197,348,336,389"/>
+<area shape="rect" id="node20" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="93,259,232,300"/>
+<area shape="rect" id="node19" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="144,437,331,464"/>
+</map>

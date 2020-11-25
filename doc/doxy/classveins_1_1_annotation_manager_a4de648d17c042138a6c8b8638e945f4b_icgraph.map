@@ -1,0 +1,6 @@
+<map id="veins::AnnotationManager::drawLine" name="veins::AnnotationManager::drawLine">
+<area shape="rect" id="node2" href="$classveins_1_1_annotation_manager.html#a946e1967906528815fbe61cb8cfb2986" title="adds Annotations from an XML document; example below. " alt="" coords="239,5,413,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="227,71,425,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html#af1b9b5eacc0afa3a90fbf48a7f00a539" title="veins::AnnotationManager\l::initialize" alt="" coords="497,5,670,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="473,71,693,112"/>
+</map>

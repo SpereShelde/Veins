@@ -1,0 +1,12 @@
+<map id="veins::MobileHostObstacle::getShape" name="veins::MobileHostObstacle::getShape">
+<area shape="rect" id="node2" href="$classveins_1_1_heading.html#a9d6cfb66c818140b87edaa53a5aa483e" title="Converts Coord to heading (with x pointing east and y pointing south). " alt="" coords="232,5,411,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#a9e647c3474d6195812dbe1680b687df3" title="veins::BaseMobility\l::getCurrentOrientation" alt="" coords="244,57,399,98"/>
+<area shape="rect" id="node5" href="$classveins_1_1_mobile_host_obstacle.html#ac2e5154efb2c6e0fd0b541ee2ec2864c" title="veins::MobileHostObstacle\l::getHostPositionOffset" alt="" coords="232,122,411,163"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mobile_host_obstacle.html#a63d7c51d7d85f6c30304f93a2a22292c" title="veins::MobileHostObstacle\l::getLength" alt="" coords="232,187,411,229"/>
+<area shape="rect" id="node7" href="$classveins_1_1_mobile_host_obstacle.html#a5eebf14224f0bbc91fe86415ed755a1a" title="veins::MobileHostObstacle\l::getMobility" alt="" coords="232,253,411,294"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_mobility.html#abd802d0e5d919085a5422b99cd7c377d" title="Returns the current position at the given simulation time. " alt="" coords="253,318,389,359"/>
+<area shape="rect" id="node11" href="$classveins_1_1_mobile_host_obstacle.html#a536bcf22c33cdfba00338852286934e7" title="veins::MobileHostObstacle\l::getWidth" alt="" coords="232,383,411,425"/>
+<area shape="rect" id="node4" href="$classveins_1_1_move.html#a4964ba2446c15664192067c88f3157c1" title="Returns the orientation vector, i.e. " alt="" coords="459,64,641,91"/>
+<area shape="rect" id="node9" href="$classveins_1_1_move.html#a2d86d39dfd7dedf10af25f1e42863d09" title="Returns the position of the Move (Host) at the specified point in time. " alt="" coords="461,325,639,352"/>
+<area shape="rect" id="node10" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality. " alt="" coords="689,318,827,359"/>
+</map>

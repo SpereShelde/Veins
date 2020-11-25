@@ -1,0 +1,4 @@
+<map id="veins::DeciderToPhyInterface" name="veins::DeciderToPhyInterface">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html" title="The BasePhyLayer represents the physical layer of a nic. " alt="" coords="29,80,176,107"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html" title="Adaptation of the PhyLayer class for 802.11p. " alt="" coords="23,155,182,181"/>
+</map>

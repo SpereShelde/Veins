@@ -1,0 +1,390 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Simple Module <i>PhyLayer80211p</i></h2>
+<b>Package:</b> org.car2x.veins.modules.phy<br/><b>File: <a href="src-veins-modules-phy-PhyLayer80211p.ned.html">src/veins/modules/phy/PhyLayer80211p.ned</a></b><br/><p><a href="../doxy/classveins_1_1_phy_layer80211p.html" target="mainframe"><b>C++ definition</b></a></p>
+
+<p>Adaptation of the PhyLayer class for 802.11p.</p>
+<p><b>See also:</b> <a href="org.car2x.veins.modules.application.ieee80211p.DemoBaseApplLayer.html">DemoBaseApplLayer</a></p>
+<p><b>See also:</b> <a href="org.car2x.veins.modules.nic.Nic80211p.html">Nic80211p</a></p>
+<p><b>See also:</b> <a href="org.car2x.veins.modules.mac.ieee80211p.Mac1609_4.html">Mac1609_4</a></p>
+<h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-ned-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="org.car2x.veins.modules.phy.PhyLayer80211p-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="org.car2x.veins.modules.phy.PhyLayer80211p.html" title="Simple Module PhyLayer80211p" alt="" coords="5,79,124,104">
+<area shape="rect" id="node2" href="org.car2x.veins.modules.nic.Nic80211p.html" title="Compound Module Nic80211p" alt="" coords="23,5,107,31">
+</map>
+<h3 class="subtitle">Extends:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="org.car2x.veins.base.phyLayer.BasePhyLayer.html">BasePhyLayer</a>
+   </td>
+   <td>
+<i>simple&nbsp;module</i>
+   </td>
+   <td>
+
+<p>Basic physical layer module.
+See the class "<a href="org.car2x.veins.base.phyLayer.BasePhyLayer.html">BasePhyLayer</a>" documentation.</p>
+
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Used in compound modules:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="org.car2x.veins.modules.nic.Nic80211p.html">Nic80211p</a>
+   </td>
+   <td>
+<i>compound&nbsp;module</i>
+   </td>
+   <td>
+
+<p>This NIC implements an 802.11p network interface card.</p>
+
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Parameters:</h3>
+<table class="paramstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="defaultvalue">Default value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="inherited">
+   <td>recordStats</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>false</td>
+   <td>
+<p>enable/disable tracking of statistics (eg. cOutvectors)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>usePropagationDelay</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td></td>
+   <td>
+<p>Should transmission delay be simulated?</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>noiseFloor</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>catch-all for all factors negatively impacting SINR (e.g., thermal noise, noise figure, ...)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>useNoiseFloor</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td></td>
+   <td>
+<p>should a noise floor be considered when calculating SINR?</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>antenna</td>
+   <td>
+      <i>xml</i>
+   </td>
+   <td>xml("<root><Antenna type=\"IsotropicAntenna\" id=\"default_isotropic\"></Antenna></root>")</td>
+   <td>   </td>
+</tr>
+<tr class="inherited">
+   <td>antennaOffsetX</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0 m</td>
+   <td>
+<p>Offset of antenna position (x direction) with respect to what a <a href="org.car2x.veins.base.modules.BaseMobility.html">BaseMobility</a> module will tell us (inherited from <a href="org.car2x.veins.base.connectionManager.IChannelAccess.html">IChannelAccess</a>)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>antennaOffsetY</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0 m</td>
+   <td>
+<p>Offset of antenna position (y direction) with respect to what a <a href="org.car2x.veins.base.modules.BaseMobility.html">BaseMobility</a> module will tell us (inherited from <a href="org.car2x.veins.base.connectionManager.IChannelAccess.html">IChannelAccess</a>)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>antennaOffsetZ</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>1.895 m</td>
+   <td>
+<p>Offset of antenna position (z direction) with respect to what a <a href="org.car2x.veins.base.modules.BaseMobility.html">BaseMobility</a> module will tell us (inherited from <a href="org.car2x.veins.base.connectionManager.IChannelAccess.html">IChannelAccess</a>)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>antennaOffsetYaw</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0 rad</td>
+   <td>
+<p>Offset of antenna orientation (yaw) with respect to what a <a href="org.car2x.veins.base.modules.BaseMobility.html">BaseMobility</a> module will tell us (inherited from <a href="org.car2x.veins.base.connectionManager.IChannelAccess.html">IChannelAccess</a>)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>analogueModels</td>
+   <td>
+      <i>xml</i>
+   </td>
+   <td></td>
+   <td>
+<p>Specification of the analogue models to use and their parameters</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>decider</td>
+   <td>
+      <i>xml</i>
+   </td>
+   <td></td>
+   <td>
+<p>Specification of the decider to use and its parameters</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>minPowerLevel</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td></td>
+   <td>
+<p>The minimum receive power needed to even attempt decoding a frame</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>timeRXToTX</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>timeRXToSleep</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>Elapsed time to switch from receive to sleep state</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>timeTXToRX</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>Elapsed time to switch from send to receive state</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>timeTXToSleep</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>Elapsed time to switch from send to sleep state</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>timeSleepToRX</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>Elapsed time to switch from sleep to receive state</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>timeSleepToTX</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>Elapsed time to switch from sleep to send state</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>initialRadioState</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>State the radio is initially in (0=RX, 1=TX, 2=Sleep)</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>radioMinAtt</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>1.0</td>
+   <td>
+<p>radios gain factor (attenuation) while receiving</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>radioMaxAtt</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0.0</td>
+   <td>
+<p>radios gain factor (attenuation) while not receiving</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>nbRadioChannels</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>1</td>
+   <td>
+<p>Number of available radio channels. Defaults to single channel radio.</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>initialRadioChannel</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>0</td>
+   <td>
+<p>Initial radio channel.</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>ccaThreshold</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>-65 dBm</td>
+   <td>
+<p>defines the CCA threshold</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>collectCollisionStatistics</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>false</td>
+   <td>
+<p>enables/disables collection of statistics about collision. notice that
+enabling this feature increases simulation time</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>allowTxDuringRx</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>false</td>
+   <td>
+<p>decides whether aborting the simulation or not if the MAC layer
+requires phy to transmit a frame while currently receiveing another</p>
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Properties:</h3>
+<table class="propertiestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="value">Value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>class</td>
+   <td><i>veins::PhyLayer80211p</i></td>
+   <td></td>
+</tr>
+</table>
+<h3 class="subtitle">Gates:</h3>
+<table class="gatestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Direction</th>
+      <th class="gatesize">Size</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="inherited">
+   <td>upperLayerIn</xsl:if></td>
+   <td><i>input</i></td>
+   <td></td>   <td>
+<p>from the MAC layer</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>upperLayerOut</xsl:if></td>
+   <td><i>output</i></td>
+   <td></td>   <td>
+<p>to the MAC layer</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>upperControlIn</xsl:if></td>
+   <td><i>input</i></td>
+   <td></td>   <td>
+<p>control from the MAC layer</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>upperControlOut</xsl:if></td>
+   <td><i>output</i></td>
+   <td></td>   <td>
+<p>control to the MAC layer</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>radioIn</xsl:if></td>
+   <td><i>input</i></td>
+   <td></td>   <td>
+<p>for sendDirect from other physical layers</p>
+</td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

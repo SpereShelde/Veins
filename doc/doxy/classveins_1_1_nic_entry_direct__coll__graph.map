@@ -1,0 +1,15 @@
+<map id="veins::NicEntryDirect" name="veins::NicEntryDirect">
+<area shape="rect" id="node2" href="$classveins_1_1_nic_entry.html" title="NicEntry is used by ConnectionManager to store the necessary information for each nic..." alt="" coords="1313,367,1425,393"/>
+<area shape="rect" id="node3" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent. " alt="" coords="1056,240,1196,267"/>
+<area shape="rect" id="node4" href="$classveins_1_1_channel_access.html" title="Basic class for all physical layers, please don&#39;t touch!! " alt="" coords="1049,291,1203,317"/>
+<area shape="rect" id="node5" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="726,56,873,83"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="165,48,299,75"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="385,5,518,32"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_connection_manager.html" title="Module to control the channel and handle all connection related stuff. " alt="" coords="696,352,903,379"/>
+<area shape="rect" id="node18" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="720,137,879,164"/>
+<area shape="rect" id="node10" href="$classveins_1_1_access_module_wrap.html" title="Finds and returns the pointer to a module of type T. " alt="" coords="705,239,893,265"/>
+<area shape="rect" id="node11" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="403,291,499,317"/>
+<area shape="rect" id="node16" href="$classveins_1_1_antenna_position.html" title="Stores the position of the host&#39;s antenna along with its speed, so that it can be linearly extrapolat..." alt="" coords="721,188,877,215"/>
+<area shape="rect" id="node14" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html" title="Represents a position inside a grid. " alt="" coords="348,519,555,561"/>
+<area shape="rect" id="node15" href="$classveins_1_1_heading.html" title="Stores a Heading in rad, with 0 degrees being east and 90 degrees being north. " alt="" coords="745,441,854,468"/>
+</map>

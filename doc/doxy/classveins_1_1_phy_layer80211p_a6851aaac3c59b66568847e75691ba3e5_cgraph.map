@@ -1,0 +1,13 @@
+<map id="veins::PhyLayer80211p::requestChannelStatusIfIdle" name="veins::PhyLayer80211p::requestChannelStatusIfIdle">
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="veins::Decider80211p::cca" alt="" coords="241,111,419,138"/>
+<area shape="rect" id="node11" href="$classveins_1_1_decider80211p.html#a70d7d4c3003fdef38e4b68c471152992" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="253,165,407,207"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_decider.html#a1eb9539d907f101c8d30798f6ca03337" title="Collects the AirFrame on the channel during the passed interval. " alt="" coords="508,5,644,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider_to_phy_interface.html#af423a846c8d7b68d6882b30be41432a7" title="Returns a constant which defines the noise floor in the passed time frame (in mW). " alt="" coords="479,71,673,112"/>
+<area shape="rect" id="node6" href="$namespaceveins_1_1_signal_utils.html#a744df65831b369a6412cb305cf04f06f" title="check if the summed power of interfererFrames&#39;s signals at freqIndex is below a given threshold..." alt="" coords="467,136,685,177"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider_to_phy_interface.html#a49ab6416f80e747952ad829d6e8ca771" title="Fills the passed AirFrameVector with all AirFrames that intersect with the time interval [from..." alt="" coords="739,5,933,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#a303d43bda1cdcde066aa9c15acf52c4d" title="Get the point in time at which the signal reception starts. " alt="" coords="745,73,927,115"/>
+<area shape="rect" id="node8" href="$classveins_1_1_signal.html#ade8a1576fbeea65ad1a7eff31618c3b9" title="Get the point in time at which the signal reception ends. " alt="" coords="733,139,939,166"/>
+<area shape="rect" id="node9" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#a861f01ba64a81a5ee7b98bb632eb41c7" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::powerLevel\lSumAtFrequencyIndex" alt="" coords="741,191,931,261"/>
+<area shape="rect" id="node10" href="$classveins_1_1_signal.html#a1955a75de66cc15338fa79d06b011675" title="Get the AnalogueModels associated with this Signal. " alt="" coords="747,285,925,327"/>
+<area shape="rect" id="node12" href="$classveins_1_1_decider_to_phy_interface.html#a72dbcdf0657bf5760d67e34645066d33" title="Called by the Decider to send a control message to the MACLayer. " alt="" coords="479,201,673,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::FWMath::mW2dBm" name="veins::FWMath::mW2dBm">
+<area shape="rect" id="node2" href="$classveins_1_1_two_ray_interference_model.html#a4c322a29e4987d2021bee9234a0ad0b9" title="Has to be overriden by every implementation. " alt="" coords="231,5,409,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_nakagami_fading.html#a630ff5ca1212baf8d9afac0d017229da" title="Simple Nakagami&#45;m fading (based on a constant factor across all time and frequencies). " alt="" coords="241,71,399,112"/>
+</map>

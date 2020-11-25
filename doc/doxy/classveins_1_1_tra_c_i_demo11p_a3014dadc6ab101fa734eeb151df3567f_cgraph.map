@@ -1,0 +1,13 @@
+<map id="veins::TraCIDemo11p::onWSM" name="veins::TraCIDemo11p::onWSM">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a20cdfcef89ebb3d4609e42d64c4c3a66" title="veins::TraCICommandInterface\l::Vehicle::changeRoute" alt="" coords="204,57,409,98"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="236,122,377,163"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_mobility.html#ab52d2871b0ac179a2f34b8846ea1ea53" title="veins::TraCIMobility\l::getRoadId" alt="" coords="237,187,376,229"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_buffer.html#a636065a78d254fb480905d0bd0fb7b07" title="veins::TraCIBuffer::eof" alt="" coords="460,5,615,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses. " alt="" coords="457,57,617,98"/>
+<area shape="rect" id="node5" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters " alt="" coords="665,5,852,32"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header) " alt="" coords="679,122,839,163"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header) " alt="" coords="679,57,839,98"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title="veins::TraCIBuffer::str" alt="" coords="900,36,1052,63"/>
+<area shape="rect" id="node8" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title="veins::socket" alt="" coords="926,93,1026,120"/>
+<area shape="rect" id="node11" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="469,122,605,163"/>
+</map>

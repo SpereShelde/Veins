@@ -1,0 +1,4 @@
+<map id="veins::NistErrorRate::getFecQpskBer" name="veins::NistErrorRate::getFecQpskBer">
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#aa2df206d0e5cc31a3c3587438c7d5b74" title="Return the coded BER for the given p and b. " alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_nist_error_rate.html#ab94ccc90f9c0e35de2dd00563f0e5032" title="Return BER of QPSK at the given SNR. " alt="" coords="195,71,336,112"/>
+</map>

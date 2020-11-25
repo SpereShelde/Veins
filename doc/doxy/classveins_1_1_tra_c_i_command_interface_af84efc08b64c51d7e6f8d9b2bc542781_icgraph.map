@@ -1,0 +1,13 @@
+<map id="veins::TraCICommandInterface::polygon" name="veins::TraCICommandInterface::polygon">
+<area shape="rect" id="node2" href="$classveins_1_1_annotation_manager.html#ae7cd5fba58d72f4351963b9a6c95e669" title="veins::AnnotationManager\l::hide" alt="" coords="259,169,432,211"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html#a990948888917eff8840f899714d4e754" title="veins::AnnotationManager\l::erase" alt="" coords="480,104,653,145"/>
+<area shape="rect" id="node10" href="$classveins_1_1_annotation_manager.html#a25be0b4d24230db849859184c6144441" title="veins::AnnotationManager\l::hideAll" alt="" coords="480,201,653,243"/>
+<area shape="rect" id="node4" href="$classveins_1_1_obstacle_control.html#a3c5fb281ac00c947afe86d5e4bf99759" title="veins::ObstacleControl\l::erase" alt="" coords="711,5,865,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_annotation_manager.html#af071307b3e3fad6ec12a193418a9f576" title="veins::AnnotationManager\l::eraseAll" alt="" coords="701,71,875,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_annotation_manager.html#a15b1bc8dc418c545c8ff4e2b1f14833b" title="veins::AnnotationManager\l::handleSelfMsg" alt="" coords="701,136,875,177"/>
+<area shape="rect" id="node6" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="923,71,1121,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="1169,71,1389,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_annotation_manager.html#a3e4a47c7b4bdeef090c4bb77c2813f3a" title="veins::AnnotationManager\l::handleMessage" alt="" coords="935,136,1109,177"/>
+<area shape="rect" id="node11" href="$classveins_1_1_annotation_manager.html#a7cd6933413793d71e8494c4561f635e0" title="veins::AnnotationManager\l::finish" alt="" coords="701,201,875,243"/>
+<area shape="rect" id="node12" href="$classveins_1_1_annotation_manager.html#aa368e9f91a7b1ae9f0ed505ec2153044" title="veins::AnnotationManager\l::handleParameterChange" alt="" coords="701,267,875,308"/>
+</map>

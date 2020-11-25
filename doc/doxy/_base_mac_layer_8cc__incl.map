@@ -1,0 +1,27 @@
+<map id="BaseMacLayer.cc" name="BaseMacLayer.cc">
+<area shape="rect" id="node2" href="$_base_mac_layer_8h.html" title="veins/base/modules\l/BaseMacLayer.h" alt="" coords="1985,80,2124,121"/>
+<area shape="rect" id="node15" href="$_mac_to_phy_interface_8h.html" title="veins/base/phyLayer\l/MacToPhyInterface.h" alt="" coords="1633,80,1783,121"/>
+<area shape="rect" id="node28" href="$_mac_to_netw_control_info_8h.html" title="veins/base/utils/MacToNetw\lControlInfo.h" alt="" coords="2149,80,2337,121"/>
+<area shape="rect" id="node29" href="$_netw_to_mac_control_info_8h.html" title="veins/base/utils/NetwToMac\lControlInfo.h" alt="" coords="2361,80,2549,121"/>
+<area shape="rect" id="node30" href="$_addressing_interface_8h.html" title="veins/base/modules\l/AddressingInterface.h" alt="" coords="1807,80,1961,121"/>
+<area shape="rect" id="node31" href="$_channel_access_8h.html" title="veins/base/connectionManager\l/ChannelAccess.h" alt="" coords="1203,80,1405,121"/>
+<area shape="rect" id="node32" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="1419,177,1613,203"/>
+<area shape="rect" id="node3" href="$veins_8h.html" title="veins/veins.h" alt="" coords="1495,601,1593,628"/>
+<area shape="rect" id="node7" href="$_base_layer_8h.html" title="veins/base/modules\l/BaseLayer.h" alt="" coords="1985,169,2124,211"/>
+<area shape="rect" id="node14" href="$_simple_address_8h.html" title="veins/base/utils/SimpleAddress.h" alt="" coords="2148,177,2364,203"/>
+<area shape="rect" id="node8" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="359,259,497,300"/>
+<area shape="rect" id="node13" href="$_passed_message_8h.html" title="veins/base/utils/PassedMessage.h" alt="" coords="1942,445,2167,471"/>
+<area shape="rect" id="node9" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="239,437,377,479"/>
+<area shape="rect" id="node12" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="239,348,377,389"/>
+<area shape="rect" id="node11" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="352,527,539,553"/>
+<area shape="rect" id="node16" href="$_phy_utils_8h.html" title="veins/base/phyLayer\l/PhyUtils.h" alt="" coords="1638,169,1781,211"/>
+<area shape="rect" id="node18" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="1473,259,1615,300"/>
+<area shape="rect" id="node20" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="1151,348,1316,389"/>
+<area shape="rect" id="node21" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="720,445,883,471"/>
+<area shape="rect" id="node26" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="1473,348,1615,389"/>
+<area shape="rect" id="node22" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="99,527,277,553"/>
+<area shape="rect" id="node33" href="$_base_mobility_8h.html" title="veins/base/modules\l/BaseMobility.h" alt="" coords="723,169,861,211"/>
+<area shape="rect" id="node36" href="$_heading_8h.html" title="veins/base/utils/Heading.h" alt="" coords="716,355,892,382"/>
+<area shape="rect" id="node34" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="916,355,1076,382"/>
+<area shape="rect" id="node35" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="452,348,591,389"/>
+</map>

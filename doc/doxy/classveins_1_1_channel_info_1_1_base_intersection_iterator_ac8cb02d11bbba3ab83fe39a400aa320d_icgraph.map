@@ -1,0 +1,18 @@
+<map id="veins::ChannelInfo::BaseIntersectionIterator::next" name="veins::ChannelInfo::BaseIntersectionIterator::next">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_info.html#a1ffb197c5bf86824cd04313da5e9e4ed" title="Checks if any information inside the passed interval can be discarded. " alt="" coords="621,136,787,177"/>
+<area shape="rect" id="node12" href="$classveins_1_1_channel_info.html#a8ed0db6d27389d07c50a83c46c9bd2d7" title="Returns every AirFrame of an AirFrameMatrix which intersect with a given interval. " alt="" coords="256,73,387,115"/>
+<area shape="rect" id="node16" href="$classveins_1_1_channel_info.html#ab32ce0e1d994fe641eb188022bec0844" title="Returns true if there is at least one AirFrame in the passed AirFrameMatrix which intersect with the ..." alt="" coords="256,193,387,235"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_info.html#a002d7a0fff6734bdb6d8ddebf799f7f5" title="Moves a previously active AirFrame to the inactive AirFrames. " alt="" coords="835,165,965,207"/>
+<area shape="rect" id="node4" href="$classveins_1_1_channel_info.html#af9ee0be843528ee913df218f73d4d713" title="Tells the ChannelInfo that an AirFrame is over. " alt="" coords="1013,165,1144,207"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a4f8fde562c0004b498fc3294c3f54c2f" title="Handle incoming AirFrames with the state AirFrameState::end_receive. " alt="" coords="1192,165,1384,207"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="1904,195,2051,236"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_phy_layer.html#a9dbbcf0004b22c622ec4b06a19b4f564" title="Handle incoming AirFrames with the state AirFrameState::receiving. " alt="" coords="1432,195,1611,236"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="2305,192,2452,233"/>
+<area shape="rect" id="node8" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="2099,195,2257,236"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="2105,129,2251,171"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive. " alt="" coords="1659,195,1856,236"/>
+<area shape="rect" id="node13" href="$classveins_1_1_channel_info.html#a1ddbd4f301cb388778f1cdf1e390771f" title="Fills the passed AirFrameVector reference with the AirFrames which intersect with the given time inte..." alt="" coords="439,71,569,112"/>
+<area shape="rect" id="node14" href="$classveins_1_1_base_phy_layer.html#aeb30108998ff4015ae0e63cee13d4586" title="Fill the given AirFrameVector with all AirFrames that intersect with the given time interval..." alt="" coords="631,71,777,112"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_phy_layer.html#a122b35f2e9b3130534d9ef1a807a31a2" title="veins::BasePhyLayer\l::~BasePhyLayer" alt="" coords="631,5,777,47"/>
+<area shape="rect" id="node17" href="$classveins_1_1_channel_info.html#ab4da0befdce7f2b27ae4a61d66ec2167" title="Returns true if all information inside the passed interval can be deleted. " alt="" coords="435,193,573,235"/>
+</map>

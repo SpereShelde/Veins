@@ -1,0 +1,6 @@
+<map id="veins::TraCIScenarioManager::finish" name="veins::TraCIScenarioManager::finish">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#aaeb2994f7103a8710de44e1475345855" title="veins::TraCIScenarioManager\l::deleteManagedModule" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_vehicle_obstacle_control.html#a10824f43b0e015c6e68a9292113ea3ff" title="veins::VehicleObstacleControl\l::erase" alt="" coords="491,5,689,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_channel_access.html#a0dc69d65185a429fcd739d4eadedb504" title="Returns a pointer to the ConnectionManager responsible for the passed NIC module. ..." alt="" coords="508,71,672,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager.html#a600d697200c9ed997ed6551cbc8e81d3" title="returns a pointer to the managed module named moduleName, or 0 if no module can be found ..." alt="" coords="493,136,687,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="veins::BaseDecider::setChannelIdleStatus" name="veins::BaseDecider::setChannelIdleStatus">
+<area shape="rect" id="node2" href="$classveins_1_1_base_decider.html#a6a480f87157d0509c0c1fccf94ea9fef" title="Processes a new Signal. " alt="" coords="208,5,347,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_decider.html#ab9cfef6c04e12d2524d45e881f341300" title="Processes the end of a received Signal. " alt="" coords="209,71,345,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_decider.html#a8b488dcd86bfc2749763682ea3589800" title="Processes an AirFrame given by the PhyLayer. " alt="" coords="395,39,531,80"/>
+</map>

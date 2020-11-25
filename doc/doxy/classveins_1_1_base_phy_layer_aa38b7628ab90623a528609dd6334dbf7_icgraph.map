@@ -1,0 +1,6 @@
+<map id="veins::BasePhyLayer::getDeciderFromName" name="veins::BasePhyLayer::getDeciderFromName">
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a2c50b013088841608612b0a7c8b92799" title="Creates and returns an instance of the Decider with the specified name. " alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a9da4f8ffaa373a0de7895cbea524816b" title="Initialize the Decider with the data from the passed XML&#45;config data. " alt="" coords="218,71,365,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a63e95c45ba5f46514ed9027c53216491" title="Initialize members and associated objects according to parameterization. " alt="" coords="419,71,565,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_phy_layer80211p.html#abdd1c62986d1fd220eb5e51d4458811a" title="veins::PhyLayer80211p\l::initialize" alt="" coords="613,71,772,112"/>
+</map>

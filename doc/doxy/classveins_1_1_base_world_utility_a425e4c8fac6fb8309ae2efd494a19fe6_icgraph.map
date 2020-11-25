@@ -1,0 +1,12 @@
+<map id="veins::BaseWorldUtility::speedOfLight" name="veins::BaseWorldUtility::speedOfLight">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html#a01c12c70034ec0583ee5f4e1ac0f683b" title="Calculates the propagation delay to the passed receiving nic. " alt="" coords="219,5,404,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_two_ray_interference_model.html#a4c322a29e4987d2021bee9234a0ad0b9" title="Has to be overriden by every implementation. " alt="" coords="222,71,401,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_simple_pathloss_model.html#a71783f3a91bb7178629fa58aadf793e4" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal. " alt="" coords="218,136,405,177"/>
+<area shape="rect" id="node9" href="$classveins_1_1_vehicle_obstacle_control.html#aba9a4a4986cd0141c6bd5404069f9460" title="compute attenuation due to (single) vehicle. " alt="" coords="212,201,411,243"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one. " alt="" coords="481,5,635,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a1fe847ed3e50ccf3a3740234dfee42b1" title="Send the passed AirFrame to the channel. " alt="" coords="742,5,889,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them. " alt="" coords="973,5,1129,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="1177,5,1324,47"/>
+<area shape="rect" id="node10" href="$classveins_1_1_vehicle_obstacle_control.html#adf2407d9dcb0830d99775342e3304f15" title="compute attenuation due to vehicles. " alt="" coords="459,201,657,243"/>
+<area shape="rect" id="node11" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="705,201,925,243"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="veins::Mac1609_4" name="veins::Mac1609_4">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html" title="A very simple MAC module template which provides de&#45; and encapsulation of messages using the standard..." alt="" coords="45,311,193,338"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_layer.html" title="A very simple layer template. " alt="" coords="58,229,181,256"/>
+<area shape="rect" id="node4" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="46,155,193,181"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="53,80,186,107"/>
+<area shape="rect" id="node8" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html" title="Interface between DemoBaseApplLayer Layer and Mac1609_4. " alt="" coords="218,304,402,345"/>
+</map>

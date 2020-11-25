@@ -1,0 +1,26 @@
+<map id="veins::Decider80211p::checkIfSignalOk" name="veins::Decider80211p::checkIfSignalOk">
+<area shape="rect" id="node2" href="$classveins_1_1_base_decider.html#a1eb9539d907f101c8d30798f6ca03337" title="Collects the AirFrame on the channel during the passed interval. " alt="" coords="231,5,367,47"/>
+<area shape="rect" id="node4" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal..." alt="" coords="237,197,361,239"/>
+<area shape="rect" id="node8" href="$classveins_1_1_signal.html#a303d43bda1cdcde066aa9c15acf52c4d" title="Get the point in time at which the signal reception starts. " alt="" coords="738,64,921,105"/>
+<area shape="rect" id="node12" href="$classveins_1_1_decider_to_phy_interface.html#af423a846c8d7b68d6882b30be41432a7" title="Returns a constant which defines the noise floor in the passed time frame (in mW). " alt="" coords="201,263,396,304"/>
+<area shape="rect" id="node13" href="$namespaceveins.html#aac9251bf5836e3baa0adc984b3b4c783" title="Given bandwidth and MCS returns datarate in bits per second. " alt="" coords="218,329,379,355"/>
+<area shape="rect" id="node14" href="$classveins_1_1_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors " alt="" coords="225,415,373,456"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider_to_phy_interface.html#a49ab6416f80e747952ad829d6e8ca771" title="Fills the passed AirFrameVector with all AirFrames that intersect with the time interval [from..." alt="" coords="464,5,659,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on. " alt="" coords="740,338,919,365"/>
+<area shape="rect" id="node6" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::getMaxInterference" alt="" coords="444,223,679,279"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#adc0e2696a4b55b43cad28ed824f98d33" title="Get the absolute frequency index of the first data frequency. " alt="" coords="740,183,919,210"/>
+<area shape="rect" id="node10" href="$classveins_1_1_signal.html#a5ee277c44c11df19b2df5dc38dd29770" title="Get the absolute frequency index of first past&#45;the&#45;end data frequency. " alt="" coords="742,287,917,314"/>
+<area shape="rect" id="node11" href="$classveins_1_1_signal.html#ae0890d174875e1a543f334165b0748c7" title="Get the power in milliwatt for the given frequency index. " alt="" coords="771,131,887,158"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#ade8a1576fbeea65ad1a7eff31618c3b9" title="Get the point in time at which the signal reception ends. " alt="" coords="727,237,932,263"/>
+<area shape="rect" id="node15" href="$classveins_1_1_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title="veins::NistErrorRate\l::getChunkSuccessRate" alt="" coords="479,487,644,528"/>
+<area shape="rect" id="node16" href="$namespaceveins.html#a577339f223a802a547b44f9c27e0be8e" title="returns encoding given datarate " alt="" coords="775,586,884,613"/>
+<area shape="rect" id="node17" href="$classveins_1_1_nist_error_rate.html#a03eb0d0c7cc0a63f450ea688ddb65117" title="Return BER of BPSK at the given SNR after applying FEC. " alt="" coords="759,637,900,679"/>
+<area shape="rect" id="node20" href="$classveins_1_1_nist_error_rate.html#a5814e5bd473a3127bf659d82edfd97fa" title="Return BER of QPSK at the given SNR after applying FEC. " alt="" coords="759,389,900,431"/>
+<area shape="rect" id="node22" href="$classveins_1_1_nist_error_rate.html#a457f142bf69a3b9d28e8a5a37e48f1a7" title="Return BER of QAM16 at the given SNR after applying FEC. " alt="" coords="759,455,900,496"/>
+<area shape="rect" id="node24" href="$classveins_1_1_nist_error_rate.html#ac41a5562bd3d9b5b50352301af0f1189" title="Return BER of QAM64 at the given SNR after applying FEC. " alt="" coords="759,520,900,561"/>
+<area shape="rect" id="node18" href="$classveins_1_1_nist_error_rate.html#a18175d82399d69438e554cb95c7604a3" title="Return BER of BPSK at the given SNR. " alt="" coords="980,644,1121,685"/>
+<area shape="rect" id="node19" href="$classveins_1_1_nist_error_rate.html#aa2df206d0e5cc31a3c3587438c7d5b74" title="Return the coded BER for the given p and b. " alt="" coords="980,513,1121,555"/>
+<area shape="rect" id="node21" href="$classveins_1_1_nist_error_rate.html#ab94ccc90f9c0e35de2dd00563f0e5032" title="Return BER of QPSK at the given SNR. " alt="" coords="980,383,1121,424"/>
+<area shape="rect" id="node23" href="$classveins_1_1_nist_error_rate.html#a1808f09736f8a581305d5ff4a58e2555" title="Return BER of QAM16 at the given SNR. " alt="" coords="980,448,1121,489"/>
+<area shape="rect" id="node25" href="$classveins_1_1_nist_error_rate.html#aeeb73f566759330ab5b9f3c39beb1b86" title="Return BER of QAM64 at the given SNR. " alt="" coords="980,579,1121,620"/>
+</map>

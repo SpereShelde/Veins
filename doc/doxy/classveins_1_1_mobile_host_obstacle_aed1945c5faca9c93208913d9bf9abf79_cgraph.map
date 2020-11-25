@@ -1,0 +1,20 @@
+<map id="veins::MobileHostObstacle::getIntersectionPoint" name="veins::MobileHostObstacle::getIntersectionPoint">
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;. " alt="" coords="245,85,398,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mobile_host_obstacle.html#a68f0e2e0e3d53d5f9a0f4dda6d169f3b" title="veins::MobileHostObstacle\l::getShape" alt="" coords="232,333,411,374"/>
+<area shape="rect" id="node17" href="$namespaceanonymous__namespace_02_mobile_host_obstacle_8cc_03.html#a4905f71256d96d9b1781ab9b31ec2a9e" title="anonymous_namespace\l\{MobileHostObstacle\l::cc\}::isPointInObstacle" alt="" coords="240,399,403,455"/>
+<area shape="rect" id="node19" href="$namespaceanonymous__namespace_02_mobile_host_obstacle_8cc_03.html#a5d7ee91cc8c7d960c2adaf8c6c773604" title="anonymous_namespace\l\{MobileHostObstacle\l::cc\}::segmentsIntersectAt" alt="" coords="233,479,410,535"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="468,5,640,61"/>
+<area shape="rect" id="node5" href="$classveins_1_1_coord.html#aa003fb9d6788186697029ce7653eb9e7" title="Returns the length of this Coords position vector. " alt="" coords="485,85,623,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="708,20,869,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_mobile_host_obstacle.html#a63d7c51d7d85f6c30304f93a2a22292c" title="veins::MobileHostObstacle\l::getLength" alt="" coords="465,137,643,178"/>
+<area shape="rect" id="node8" href="$classveins_1_1_mobile_host_obstacle.html#ac2e5154efb2c6e0fd0b541ee2ec2864c" title="veins::MobileHostObstacle\l::getHostPositionOffset" alt="" coords="465,202,643,243"/>
+<area shape="rect" id="node9" href="$classveins_1_1_mobile_host_obstacle.html#a536bcf22c33cdfba00338852286934e7" title="veins::MobileHostObstacle\l::getWidth" alt="" coords="465,267,643,309"/>
+<area shape="rect" id="node10" href="$classveins_1_1_mobile_host_obstacle.html#a5eebf14224f0bbc91fe86415ed755a1a" title="veins::MobileHostObstacle\l::getMobility" alt="" coords="465,333,643,374"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_mobility.html#abd802d0e5d919085a5422b99cd7c377d" title="Returns the current position at the given simulation time. " alt="" coords="486,398,622,439"/>
+<area shape="rect" id="node14" href="$classveins_1_1_heading.html#a9d6cfb66c818140b87edaa53a5aa483e" title="Converts Coord to heading (with x pointing east and y pointing south). " alt="" coords="465,464,643,491"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_mobility.html#a9e647c3474d6195812dbe1680b687df3" title="veins::BaseMobility\l::getCurrentOrientation" alt="" coords="477,515,631,557"/>
+<area shape="rect" id="node12" href="$classveins_1_1_move.html#a2d86d39dfd7dedf10af25f1e42863d09" title="Returns the position of the Move (Host) at the specified point in time. " alt="" coords="699,405,878,432"/>
+<area shape="rect" id="node13" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality. " alt="" coords="928,398,1065,439"/>
+<area shape="rect" id="node16" href="$classveins_1_1_move.html#a4964ba2446c15664192067c88f3157c1" title="Returns the orientation vector, i.e. " alt="" coords="697,523,880,549"/>
+<area shape="rect" id="node18" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#ad29edbecc2bba7cf9afb525f0aff0f25" title="Return whether ray intersects with box. " alt="" coords="459,581,649,622"/>
+</map>

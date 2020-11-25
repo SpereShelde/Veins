@@ -1,0 +1,5 @@
+<map id="anonymous_namespace{ObstacleControl::cc}::rebuildBBoxLookup" name="anonymous_namespace{ObstacleControl::cc}::rebuildBBoxLookup">
+<area shape="rect" id="node2" href="$classveins_1_1_obstacle_control.html#a7bb694941ec27d078605e730c78644af" title="get hit obstacles (along with a list of points (in [0, 1]) along the line between sender and receiver..." alt="" coords="216,13,371,54"/>
+<area shape="rect" id="node3" href="$classveins_1_1_obstacle_control.html#a2605967770f04849d9319757e66305bf" title="calculate additional attenuation by obstacles, return multiplicative factor " alt="" coords="419,13,573,54"/>
+<area shape="rect" id="node4" href="$classveins_1_1_simple_obstacle_shadowing.html#a232c35993ba999b86d6e700d2152c98a" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="621,13,839,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::TraCIVehicleInserter::receiveSignal" name="veins::TraCIVehicleInserter::receiveSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_find_module.html#a56591278058cab17db4d776cfde387a5" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="264,5,400,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#aaef11461dfdc93229532a56fdca3e5df" title="veins::TraCIScenarioManager\l::isConnected" alt="" coords="235,71,429,112"/>
+</map>

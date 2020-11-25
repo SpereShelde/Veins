@@ -1,0 +1,4 @@
+<map id="veins::NicEntryDebug::requestInGate" name="veins::NicEntryDebug::requestInGate">
+<area shape="rect" id="node2" href="$classveins_1_1_nic_entry_debug.html#aac3b943e56b211541596a73f6437608a" title="Iterates over all existing gates of this NicEntries nic and host and checks wether they are useable b..." alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_nic_entry_debug.html#ae4c6e480d8b2f3fc4199a7a8314ab2df" title="Collects all free gates with a certain pattern as names and puts them on a stack. ..." alt="" coords="403,5,553,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="veins::MobileHostObstacle" name="veins::MobileHostObstacle">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html" title="Base module for all mobility modules. " alt="" coords="385,380,521,407"/>
+<area shape="rect" id="node3" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="5,291,152,317"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="27,81,160,108"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="32,157,165,184"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="177,291,335,317"/>
+<area shape="rect" id="node8" href="$classveins_1_1_move.html" title="Class to store object position and movement. " alt="" coords="407,291,500,317"/>
+<area shape="rect" id="node10" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="255,157,351,184"/>
+</map>

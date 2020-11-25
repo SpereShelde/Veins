@@ -1,0 +1,5 @@
+<map id="veins::Signal::getMax" name="veins::Signal::getMax">
+<area shape="rect" id="node2" href="$classveins_1_1_nakagami_fading.html#a630ff5ca1212baf8d9afac0d017229da" title="Simple Nakagami&#45;m fading (based on a constant factor across all time and frequencies). " alt="" coords="201,5,360,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_decider.html#a6a480f87157d0509c0c1fccf94ea9fef" title="Processes a new Signal. " alt="" coords="211,71,350,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_decider.html#a8b488dcd86bfc2749763682ea3589800" title="Processes an AirFrame given by the PhyLayer. " alt="" coords="408,71,544,112"/>
+</map>

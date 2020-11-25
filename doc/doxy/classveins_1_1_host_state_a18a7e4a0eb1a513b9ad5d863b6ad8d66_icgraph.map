@@ -1,0 +1,4 @@
+<map id="veins::HostState::get" name="veins::HostState::get">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a44220aa650488eee8ad121f8bc599265" title="Called whenever the hosts state changes. " alt="" coords="200,5,341,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_module.html#a16da8d7ff9635f5b3db51d16de3f208c" title="veins::BaseModule::\lreceiveSignal" alt="" coords="389,5,531,47"/>
+</map>

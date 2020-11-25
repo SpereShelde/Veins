@@ -1,0 +1,13 @@
+<map id="veins::Decider80211p::packetOk" name="veins::Decider80211p::packetOk">
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title="veins::NistErrorRate\l::getChunkSuccessRate" alt="" coords="201,122,367,163"/>
+<area shape="rect" id="node3" href="$namespaceveins.html#a577339f223a802a547b44f9c27e0be8e" title="returns encoding given datarate " alt="" coords="431,5,540,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_nist_error_rate.html#a03eb0d0c7cc0a63f450ea688ddb65117" title="Return BER of BPSK at the given SNR after applying FEC. " alt="" coords="415,57,556,98"/>
+<area shape="rect" id="node7" href="$classveins_1_1_nist_error_rate.html#a5814e5bd473a3127bf659d82edfd97fa" title="Return BER of QPSK at the given SNR after applying FEC. " alt="" coords="415,122,556,163"/>
+<area shape="rect" id="node9" href="$classveins_1_1_nist_error_rate.html#a457f142bf69a3b9d28e8a5a37e48f1a7" title="Return BER of QAM16 at the given SNR after applying FEC. " alt="" coords="415,187,556,229"/>
+<area shape="rect" id="node11" href="$classveins_1_1_nist_error_rate.html#ac41a5562bd3d9b5b50352301af0f1189" title="Return BER of QAM64 at the given SNR after applying FEC. " alt="" coords="415,253,556,294"/>
+<area shape="rect" id="node5" href="$classveins_1_1_nist_error_rate.html#a18175d82399d69438e554cb95c7604a3" title="Return BER of BPSK at the given SNR. " alt="" coords="604,23,745,65"/>
+<area shape="rect" id="node6" href="$classveins_1_1_nist_error_rate.html#aa2df206d0e5cc31a3c3587438c7d5b74" title="Return the coded BER for the given p and b. " alt="" coords="604,154,745,195"/>
+<area shape="rect" id="node8" href="$classveins_1_1_nist_error_rate.html#ab94ccc90f9c0e35de2dd00563f0e5032" title="Return BER of QPSK at the given SNR. " alt="" coords="604,89,745,130"/>
+<area shape="rect" id="node10" href="$classveins_1_1_nist_error_rate.html#a1808f09736f8a581305d5ff4a58e2555" title="Return BER of QAM16 at the given SNR. " alt="" coords="604,219,745,261"/>
+<area shape="rect" id="node12" href="$classveins_1_1_nist_error_rate.html#aeeb73f566759330ab5b9f3c39beb1b86" title="Return BER of QAM64 at the given SNR. " alt="" coords="604,285,745,326"/>
+</map>

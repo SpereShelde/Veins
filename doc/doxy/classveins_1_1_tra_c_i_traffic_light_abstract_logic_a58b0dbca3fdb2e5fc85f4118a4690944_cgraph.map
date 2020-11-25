@@ -1,0 +1,6 @@
+<map id="veins::TraCITrafficLightAbstractLogic::handleMessage" name="veins::TraCITrafficLightAbstractLogic::handleMessage">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_traffic_light_abstract_logic.html#aaaf540a598b7d374c30a23517b20a043" title="veins::TraCITrafficLight\lAbstractLogic::handleApplMsg" alt="" coords="255,5,453,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_traffic_light_abstract_logic.html#a6dce36ca63205546a946683f27a99efa" title="veins::TraCITrafficLight\lAbstractLogic::handleSelfMsg" alt="" coords="256,71,452,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_traffic_light_abstract_logic.html#a269945dcb0e43fb9f9e8967ee7eeb61c" title="veins::TraCITrafficLight\lAbstractLogic::handleTlIfMsg" alt="" coords="258,136,450,177"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_traffic_light_abstract_logic.html#a31a2445f131d294ba545084e995b8818" title="veins::TraCITrafficLight\lAbstractLogic::handlePossible\lSwitch" alt="" coords="501,63,700,119"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="veins::BasePhyLayer::sendSelfMessage" name="veins::BasePhyLayer::sendSelfMessage">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a9dbbcf0004b22c622ec4b06a19b4f564" title="Handle incoming AirFrames with the state AirFrameState::receiving. " alt="" coords="200,43,379,85"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive. " alt="" coords="427,91,624,133"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them. " alt="" coords="672,154,828,195"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_phy_layer.html#aefafbb15daa91c819c4d25e7a9c38b71" title="Tell the BasePhyLayer to switch to the specified radio state. " alt="" coords="216,211,363,253"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="677,33,823,74"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="1083,97,1229,138"/>
+<area shape="rect" id="node5" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="876,31,1035,73"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="882,97,1029,138"/>
+<area shape="rect" id="node10" href="$classveins_1_1_phy_layer80211p.html#a5d9eccb7ec311b0d1add0ccd0e69fcde" title="Tell the BasePhyLayer to switch to the specified radio state. " alt="" coords="446,211,605,253"/>
+</map>

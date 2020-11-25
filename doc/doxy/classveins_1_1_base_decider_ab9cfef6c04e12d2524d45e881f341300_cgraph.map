@@ -1,0 +1,4 @@
+<map id="veins::BaseDecider::processSignalEnd" name="veins::BaseDecider::processSignalEnd">
+<area shape="rect" id="node2" href="$classveins_1_1_decider_to_phy_interface.html#a8795c130caca902f79ba399fa9905f24" title="Called to send an AirFrame with DeciderResult to the MACLayer. " alt="" coords="189,5,384,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_decider.html#ae535b44e34061014fe282c36c27b0193" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="209,71,364,112"/>
+</map>

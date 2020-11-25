@@ -1,0 +1,212 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Simple Module <i>TraCIDemo11p</i></h2>
+<b>Package:</b> org.car2x.veins.modules.application.traci<br/><b>File: <a href="src-veins-modules-application-traci-TraCIDemo11p.ned.html">src/veins/modules/application/traci/TraCIDemo11p.ned</a></b><br/><p><a href="../doxy/classveins_1_1_tra_c_i_demo11p.html" target="mainframe"><b>C++ definition</b></a></p>
+<p>(no description)</p><h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-ned-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="org.car2x.veins.modules.application.traci.TraCIDemo11p-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="org.car2x.veins.modules.application.traci.TraCIDemo11p.html" title="Simple Module TraCIDemo11p" alt="" coords="5,5,116,31">
+</map>
+<h3 class="subtitle">Extends:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="org.car2x.veins.modules.application.ieee80211p.DemoBaseApplLayer.html">DemoBaseApplLayer</a>
+   </td>
+   <td>
+<i>simple&nbsp;module</i>
+   </td>
+   <td>
+
+<p>Demo application layer base class.</p>
+
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Parameters:</h3>
+<table class="paramstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="defaultvalue">Default value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="inherited">
+   <td>headerLength</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>88bit</td>
+   <td>
+<p>header length of the application</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>sendBeacons</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>true</td>
+   <td>
+<p>tell the applayer to periodically send beacons</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>beaconLengthBits</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>256bit</td>
+   <td>
+<p>the length of a beacon packet</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>beaconUserPriority</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>7</td>
+   <td>
+<p>the user priority (UP) of the beacon messages</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>beaconInterval</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>1s</td>
+   <td>
+<p>the intervall between 2 beacon messages</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>dataLengthBits</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>1024bit</td>
+   <td>
+<p>the length of a data packet</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>dataOnSch</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>false</td>
+   <td>
+<p>tells the applayer whether to use a service channel for datapackets or the control channel</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>dataUserPriority</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>7</td>
+   <td>
+<p>the default user priority (UP) for data packets</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>avoidBeaconSynchronization</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>true</td>
+   <td>
+<p>don't start beaconing directly after node was created but delay to avoid artifical synchronization</p>
+   </td>
+</tr>
+<tr class="inherited">
+   <td>sendWSA</td>
+   <td>
+      <i>bool</i>
+   </td>
+   <td>false</td>
+   <td>   </td>
+</tr>
+<tr class="inherited">
+   <td>wsaLengthBits</td>
+   <td>
+      <i>int</i>
+   </td>
+   <td>250bit</td>
+   <td>   </td>
+</tr>
+<tr class="inherited">
+   <td>wsaInterval</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>1s</td>
+   <td>
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Properties:</h3>
+<table class="propertiestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="value">Value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>class</td>
+   <td><i>veins::TraCIDemo11p</i></td>
+   <td></td>
+</tr>
+<tr>
+   <td>display</td>
+   <td><i>i=block/app2</i></td>
+   <td></td>
+</tr>
+</table>
+<h3 class="subtitle">Gates:</h3>
+<table class="gatestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Direction</th>
+      <th class="gatesize">Size</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="inherited">
+   <td>lowerLayerIn</xsl:if></td>
+   <td><i>input</i></td>
+   <td></td>   <td>
+<p>from mac layer</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>lowerLayerOut</xsl:if></td>
+   <td><i>output</i></td>
+   <td></td>   <td>
+<p>to mac layer</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>lowerControlIn</xsl:if></td>
+   <td><i>input</i></td>
+   <td></td>   <td></td>
+</tr>
+<tr class="inherited">
+   <td>lowerControlOut</xsl:if></td>
+   <td><i>output</i></td>
+   <td></td>   <td></td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

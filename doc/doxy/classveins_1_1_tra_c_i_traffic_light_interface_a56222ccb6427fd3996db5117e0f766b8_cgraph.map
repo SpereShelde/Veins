@@ -1,0 +1,12 @@
+<map id="veins::TraCITrafficLightInterface::setCurrentState" name="veins::TraCITrafficLightInterface::setCurrentState">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a68d154971923ce65475f505d11194572" title="veins::TraCICommandInterface\l::Trafficlight::getCurrentState" alt="" coords="227,5,432,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a654311f0959b73350d27c2838bec623c" title="veins::TraCITrafficLight\lInterface::sendChangeMsg" alt="" coords="240,71,419,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a1e4f21fc7ceea26318f434152efa8de3" title="veins::TraCICommandInterface\l::Trafficlight::setState" alt="" coords="227,136,432,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_buffer.html#a636065a78d254fb480905d0bd0fb7b07" title="veins::TraCIBuffer::eof" alt="" coords="483,114,637,141"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses. " alt="" coords="480,165,640,207"/>
+<area shape="rect" id="node7" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters " alt="" coords="688,114,875,141"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header) " alt="" coords="701,231,861,272"/>
+<area shape="rect" id="node11" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header) " alt="" coords="701,165,861,207"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title="veins::TraCIBuffer::str" alt="" coords="923,145,1075,171"/>
+<area shape="rect" id="node10" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title="veins::socket" alt="" coords="949,202,1049,229"/>
+</map>

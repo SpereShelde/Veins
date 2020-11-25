@@ -1,0 +1,33 @@
+<map id="veins::BaseWorldUtility::getPgs" name="veins::BaseWorldUtility::getPgs">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="veins::TraCIScenarioManager\l::init_traci" alt="" coords="231,71,426,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="773,201,909,243"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_connection_manager.html#a084bb7d054e50e3d276da4ce0b7bb5b0" title="Reads init parameters and calculates a maximal interference distance. " alt="" coords="225,543,432,584"/>
+<area shape="rect" id="node10" href="$classveins_1_1_phy_layer80211p.html#a382ee7b30a3ab1670cc2cca0b433446d" title="Creates and initializes a BreakpointPathlossModel with the passed parameter values. " alt="" coords="233,754,424,810"/>
+<area shape="rect" id="node12" href="$classveins_1_1_phy_layer80211p.html#a59691cd6e2658d2a6ec8eb41423591f9" title="Creates and initializes a SimpleObstacleShadowing with the passed parameter values. " alt="" coords="212,835,445,876"/>
+<area shape="rect" id="node13" href="$classveins_1_1_phy_layer80211p.html#a39de6f5df5de6de9c720edc8744d7fc9" title="Creates and initializes a SimplePathlossModel with the passed parameter values. " alt="" coords="227,608,430,649"/>
+<area shape="rect" id="node14" href="$classveins_1_1_phy_layer80211p.html#aa801ec3c38ba886d90b1889480f9aac0" title="Creates and initializes a VehicleObstacleShadowing with the passed parameter values. " alt="" coords="243,674,415,730"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_mobility.html#a86c357c59de6f58dc9916706ef1b4f6c" title="Returns the width of the playground. " alt="" coords="261,347,397,388"/>
+<area shape="rect" id="node27" href="$classveins_1_1_base_mobility.html#acb8f54f076e73b8760cf3f2421a68ad6" title="Returns the height of the playground. " alt="" coords="261,412,397,453"/>
+<area shape="rect" id="node28" href="$classveins_1_1_base_mobility.html#a61602db99644b3a1fe849eb02c8286cb" title="Returns the height of the playground. " alt="" coords="261,477,397,519"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="497,5,692,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title="veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="497,71,692,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title="veins::TraCIScenarioManager\l::handleMessage" alt="" coords="744,5,939,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="987,147,1128,188"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="988,212,1127,253"/>
+<area shape="rect" id="node11" href="$classveins_1_1_phy_layer80211p.html#ae9a4ddccf5652f8376aee93c2be56730" title="Creates and returns an instance of the AnalogueModel with the specified name. " alt="" coords="493,769,696,811"/>
+<area shape="rect" id="node16" href="$classveins_1_1_base_mobility.html#ab69f42caa7932524bf470f0799b4aac7" title="Checks whether the host is outside the playground and returns where. " alt="" coords="527,536,663,577"/>
+<area shape="rect" id="node20" href="$classveins_1_1_tra_c_i_mobility.html#a4fa20054882e4a7fb5b03a13576311c3" title="called after each read to check for (and handle) invalid positions " alt="" coords="1176,595,1329,636"/>
+<area shape="rect" id="node23" href="$classveins_1_1_base_mobility.html#a3bf65a049293dc4c7043554c04555bdc" title="calculate the step to reach the border " alt="" coords="527,340,663,381"/>
+<area shape="rect" id="node24" href="$classveins_1_1_base_mobility.html#a6c817348be2c3586777a85bb60e2b3f1" title="helperfunction for reflectIfOutside() to reflect a Coordinate at a given border " alt="" coords="527,405,663,447"/>
+<area shape="rect" id="node26" href="$classveins_1_1_base_mobility.html#a78f392149c0f8185e07dc9a51286bf85" title="Utility function to wrap the node to the opposite edge (torus) if it goes outside the playground..." alt="" coords="527,471,663,512"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_mobility.html#aae36006995d117a723134cbe1fee5e90" title="Main border handling function. " alt="" coords="989,471,1125,512"/>
+<area shape="rect" id="node18" href="$classveins_1_1_linear_mobility.html#a506fdc3882892c0fc4427df73736010e" title="Should be redefined in subclasses. " alt="" coords="1176,471,1329,512"/>
+<area shape="rect" id="node19" href="$classveins_1_1_linear_mobility.html#af310806b2b41572de1428e56474bba56" title="Move the host. " alt="" coords="1377,471,1519,512"/>
+<area shape="rect" id="node21" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="1379,645,1517,687"/>
+<area shape="rect" id="node22" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="1567,645,1705,687"/>
+<area shape="rect" id="node25" href="$classveins_1_1_base_mobility.html#ab9e4cd0caa3fc245ba934f5f5bd9fc49" title="Utility function to reflect the node if it goes outside the playground. " alt="" coords="773,408,909,449"/>
+<area shape="rect" id="node29" href="$classveins_1_1_base_mobility.html#a291eed23c07d4693a5fa4164aa80934e" title="Update the position information for this node. " alt="" coords="527,704,663,745"/>
+<area shape="rect" id="node30" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages. " alt="" coords="773,755,909,796"/>
+<area shape="rect" id="node32" href="$classveins_1_1_base_mobility.html#a70b2b357a4cef14850cd4edd440a13a7" title="Called upon arrival of a self messages. " alt="" coords="773,820,909,861"/>
+<area shape="rect" id="node31" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages. " alt="" coords="989,787,1125,828"/>
+</map>

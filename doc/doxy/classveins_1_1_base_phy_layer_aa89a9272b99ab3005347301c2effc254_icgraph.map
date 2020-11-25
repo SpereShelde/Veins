@@ -1,0 +1,7 @@
+<map id="veins::BasePhyLayer::getParametersFromXML" name="veins::BasePhyLayer::getParametersFromXML">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a8ea7353793eed2f1a7b0cd1caacd72e9" title="Initialize the AnalogueModels with the data from the passed XML&#45;config data. " alt="" coords="225,5,399,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a6831a45d54cb89ff44836fa811d239c2" title="Initialize the Antenna with the data from the passed XML&#45;config data. " alt="" coords="239,71,385,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a9da4f8ffaa373a0de7895cbea524816b" title="Initialize the Decider with the data from the passed XML&#45;config data. " alt="" coords="239,136,385,177"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a63e95c45ba5f46514ed9027c53216491" title="Initialize members and associated objects according to parameterization. " alt="" coords="447,71,593,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html#abdd1c62986d1fd220eb5e51d4458811a" title="veins::PhyLayer80211p\l::initialize" alt="" coords="641,71,800,112"/>
+</map>

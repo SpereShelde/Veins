@@ -1,0 +1,5 @@
+<area shape="rect" id="node1" href="ned.IdealChannel.html" title="Channel IdealChannel" alt="" coords="145,79,244,104">
+<area shape="rect" id="node2" href="org.car2x.veins.nodes.Car.html" title="Compound Module Car" alt="" coords="5,5,77,31">
+<area shape="rect" id="node3" href="org.car2x.veins.modules.nic.Nic80211p.html" title="Compound Module Nic80211p" alt="" coords="102,5,186,31">
+<area shape="rect" id="node4" href="org.car2x.veins.nodes.RSU.html" title="Compound Module RSU" alt="" coords="211,5,283,31">
+<area shape="rect" id="node5" href="org.car2x.veins.nodes.TrafficLight.html" title="Compound Module TrafficLight" alt="" coords="307,5,394,31">

@@ -1,0 +1,5 @@
+<map id="veins::MobileHostObstacle::getWidth" name="veins::MobileHostObstacle::getWidth">
+<area shape="rect" id="node2" href="$classveins_1_1_mobile_host_obstacle.html#a68f0e2e0e3d53d5f9a0f4dda6d169f3b" title="veins::MobileHostObstacle\l::getShape" alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mobile_host_obstacle.html#a917b34fd21a31e610dd2f03cecbe73d8" title="veins::MobileHostObstacle\l::maybeInBounds" alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps..." alt="" coords="459,5,637,47"/>
+</map>

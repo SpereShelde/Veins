@@ -1,0 +1,4 @@
+<map id="veins::BasePhyLayer::encapsMsg" name="veins::BasePhyLayer::encapsMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them. " alt="" coords="200,5,356,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="404,5,551,47"/>
+</map>

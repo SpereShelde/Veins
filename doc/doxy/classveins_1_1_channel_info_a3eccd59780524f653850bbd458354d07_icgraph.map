@@ -1,0 +1,11 @@
+<map id="veins::ChannelInfo::isChannelEmpty" name="veins::ChannelInfo::isChannelEmpty">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_info.html#a922ab80fac41c9d89871080940e07cd5" title="Tells the ChannelInfo that an AirFrame has started. " alt="" coords="393,5,524,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive. " alt="" coords="829,64,1027,105"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a4f8fde562c0004b498fc3294c3f54c2f" title="Handle incoming AirFrames with the state AirFrameState::end_receive. " alt="" coords="363,148,555,189"/>
+<area shape="rect" id="node10" href="$classveins_1_1_channel_info.html#af9ee0be843528ee913df218f73d4d713" title="Tells the ChannelInfo that an AirFrame is over. " alt="" coords="184,173,315,215"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="1075,123,1221,164"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="1476,120,1623,161"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="1269,123,1428,164"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="1275,57,1422,99"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_phy_layer.html#a9dbbcf0004b22c622ec4b06a19b4f564" title="Handle incoming AirFrames with the state AirFrameState::receiving. " alt="" coords="603,123,781,164"/>
+</map>

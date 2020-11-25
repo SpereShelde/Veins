@@ -1,0 +1,6 @@
+<map id="veins::BasePhyLayer::getAnalogueModelFromName" name="veins::BasePhyLayer::getAnalogueModelFromName">
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#ae9a4ddccf5652f8376aee93c2be56730" title="Creates and returns an instance of the AnalogueModel with the specified name. " alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a8ea7353793eed2f1a7b0cd1caacd72e9" title="Initialize the AnalogueModels with the data from the passed XML&#45;config data. " alt="" coords="271,71,444,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a63e95c45ba5f46514ed9027c53216491" title="Initialize members and associated objects according to parameterization. " alt="" coords="507,71,653,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_phy_layer80211p.html#abdd1c62986d1fd220eb5e51d4458811a" title="veins::PhyLayer80211p\l::initialize" alt="" coords="701,71,860,112"/>
+</map>

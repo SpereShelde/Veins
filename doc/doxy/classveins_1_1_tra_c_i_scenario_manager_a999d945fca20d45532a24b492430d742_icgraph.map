@@ -1,0 +1,10 @@
+<map id="veins::TraCIScenarioManager::subscribeToVehicleVariables" name="veins::TraCIScenarioManager::subscribeToVehicleVariables">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a4b6aa1aa798b245ff323c5759a3b848e" title="veins::TraCIScenarioManager\l::processVehicleSubscription" alt="" coords="252,27,447,68"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#a2f149bc15c3119ab19850b6960689eeb" title="veins::TraCIScenarioManager\l::processSubcriptionResult" alt="" coords="495,56,689,97"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager.html#a84ebe9fb50441189bd39f949f2593115" title="read and execute all commands for the next timestep " alt="" coords="1005,5,1200,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="veins::TraCIScenarioManager\l::init_traci" alt="" coords="1005,71,1200,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_scenario_manager.html#a9aff5d4c2403fdc11846bbb27f32fd04" title="veins::TraCIScenarioManager\l::subscribeToTrafficLightVariables" alt="" coords="737,115,957,156"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="1248,5,1443,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title="veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1491,5,1685,47"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title="veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="1248,71,1443,112"/>
+</map>

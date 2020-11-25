@@ -1,0 +1,4 @@
+<map id="veins::ChannelInfo::getAirFrames" name="veins::ChannelInfo::getAirFrames">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#aeb30108998ff4015ae0e63cee13d4586" title="Fill the given AirFrameVector with all AirFrames that intersect with the given time interval..." alt="" coords="184,5,331,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a122b35f2e9b3130534d9ef1a807a31a2" title="veins::BasePhyLayer\l::~BasePhyLayer" alt="" coords="184,71,331,112"/>
+</map>

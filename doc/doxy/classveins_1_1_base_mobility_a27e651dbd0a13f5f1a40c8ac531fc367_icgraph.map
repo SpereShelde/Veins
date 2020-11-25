@@ -1,0 +1,5 @@
+<map id="veins::BaseMobility::iconSizeTagToSize" name="veins::BaseMobility::iconSizeTagToSize">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="196,39,332,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="380,5,521,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="381,71,520,112"/>
+</map>

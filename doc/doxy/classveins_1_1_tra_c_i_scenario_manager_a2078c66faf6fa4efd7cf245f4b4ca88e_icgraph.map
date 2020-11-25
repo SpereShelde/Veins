@@ -1,0 +1,6 @@
+<map id="veins::TraCIScenarioManager::parseMappings" name="veins::TraCIScenarioManager::parseMappings">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a45673008abaef567b3c5c0241ff4392f" title="parses the vector of module types in ini file " alt="" coords="248,39,443,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#a6060adf2e942f6e7343ee26091193341" title="veins::TraCIScenarioManager\l::initialize" alt="" coords="491,39,685,80"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a952e624950eb8aa1d856c850c574a4e9" title="veins::TraCIScenarioManager\lForker::initialize" alt="" coords="733,5,928,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#afb429edf2aaebebc1895151be0fadbca" title="veins::TraCIScenarioManager\lLaunchd::initialize" alt="" coords="733,71,928,112"/>
+</map>

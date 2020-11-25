@@ -1,0 +1,8 @@
+<map id="veins::VehicleObstacleShadowing" name="veins::VehicleObstacleShadowing">
+<area shape="rect" id="node2" href="$classveins_1_1_analogue_model.html" title="Interface for the analogue models of the physical layer. " alt="" coords="553,5,704,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent. " alt="" coords="182,5,322,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="581,95,677,121"/>
+<area shape="rect" id="node6" href="$classveins_1_1_vehicle_obstacle_control.html" title="VehicleObstacleControl models moving obstacles that block radio transmissions. " alt="" coords="529,160,728,187"/>
+<area shape="rect" id="node8" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas. " alt="" coords="165,176,339,203"/>
+<area shape="rect" id="node9" href="$classveins_1_1_annotation_manager_1_1_group.html" title="veins::AnnotationManager\l::Group" alt="" coords="165,227,339,269"/>
+</map>

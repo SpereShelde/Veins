@@ -1,0 +1,17 @@
+<map id="veins::Mac1609_4::initialize" name="veins::Mac1609_4::initialize">
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#a1c6717faaa6b882f1d68153a4a22ae62" title="veins::Mac1609_4::channelIdle" alt="" coords="245,64,448,91"/>
+<area shape="rect" id="node5" href="$classveins_1_1_find_module.html#a56591278058cab17db4d776cfde387a5" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="540,122,676,163"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mac_layer.html#a689fa06067e9df73c7fa19512fe91117" title="Initialization of the module and some variables. " alt="" coords="273,231,421,273"/>
+<area shape="rect" id="node14" href="$classveins_1_1_mac1609__4.html#a2381e5f767525c8620bc1bcd94d05525" title="Set a state for the channel selecting operation. " alt="" coords="251,297,442,338"/>
+<area shape="rect" id="node15" href="$classveins_1_1_mac1609__4.html#a30fbd72a0e286f24dd07bbd14b5c043b" title="veins::Mac1609_4::setParameters\lForBitrate" alt="" coords="236,413,457,454"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#a820e9b04363f6b1a2eddb4082bd9ec14" title="veins::Mac1609_4::guardActive" alt="" coords="505,5,711,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4.html#ad225a563914ab5b6f5d19ef168c07122" title="veins::Mac1609_4::timeLeft\lTillGuardOver" alt="" coords="517,57,699,98"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="948,210,1089,251"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_layer.html#a5619505dba58f2669af33f9e23f6f1ad" title="Initialization of the module and some variables. " alt="" coords="519,239,697,265"/>
+<area shape="rect" id="node11" href="$classveins_1_1_l_address.html#aa4c72481eb930988da1272c5867ff401" title="NULL address for L2 addresses. " alt="" coords="522,289,694,316"/>
+<area shape="rect" id="node12" href="$classveins_1_1_addressing_interface.html#a5234c74da9e41e453740f46dfb6e3c1e" title="Returns the L2 address for the passed mac. " alt="" coords="519,341,697,382"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_mac_layer.html#adc87295362ca7859cb6fe2a5bbe3c90d" title="Registers this bridge&#39;s NIC with INET&#39;s InterfaceTable. " alt="" coords="534,406,682,447"/>
+<area shape="rect" id="node8" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="1137,210,1273,251"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_module.html#a66e943d61eb3d43e5a999ccbaf010fd9" title="Basic initialization for all modules. " alt="" coords="759,239,900,281"/>
+<area shape="rect" id="node16" href="$namespaceveins.html#a577339f223a802a547b44f9c27e0be8e" title="returns encoding given datarate " alt="" coords="553,472,663,499"/>
+</map>

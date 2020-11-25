@@ -1,0 +1,12 @@
+<map id="veins::ChannelAccess" name="veins::ChannelAccess">
+<area shape="rect" id="node2" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="726,27,873,53"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="165,27,299,53"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="385,27,518,53"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_connection_manager.html" title="Module to control the channel and handle all connection related stuff. " alt="" coords="696,156,903,183"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="720,349,879,376"/>
+<area shape="rect" id="node7" href="$classveins_1_1_access_module_wrap.html" title="Finds and returns the pointer to a module of type T. " alt="" coords="705,400,893,427"/>
+<area shape="rect" id="node8" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="403,263,499,289"/>
+<area shape="rect" id="node13" href="$classveins_1_1_antenna_position.html" title="Stores the position of the host&#39;s antenna along with its speed, so that it can be linearly extrapolat..." alt="" coords="721,299,877,325"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html" title="Represents a position inside a grid. " alt="" coords="348,78,555,119"/>
+<area shape="rect" id="node12" href="$classveins_1_1_heading.html" title="Stores a Heading in rad, with 0 degrees being east and 90 degrees being north. " alt="" coords="745,489,854,516"/>
+</map>

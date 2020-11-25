@@ -1,0 +1,20 @@
+<map id="veins::BaseMobility::playgroundSizeZ" name="veins::BaseMobility::playgroundSizeZ">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#ab69f42caa7932524bf470f0799b4aac7" title="Checks whether the host is outside the playground and returns where. " alt="" coords="373,64,509,105"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_mobility.html#a4fa20054882e4a7fb5b03a13576311c3" title="called after each read to check for (and handle) invalid positions " alt="" coords="747,239,900,280"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_mobility.html#a3bf65a049293dc4c7043554c04555bdc" title="calculate the step to reach the border " alt="" coords="189,123,325,164"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_mobility.html#a6c817348be2c3586777a85bb60e2b3f1" title="helperfunction for reflectIfOutside() to reflect a Coordinate at a given border " alt="" coords="189,188,325,229"/>
+<area shape="rect" id="node12" href="$classveins_1_1_base_mobility.html#a291eed23c07d4693a5fa4164aa80934e" title="Update the position information for this node. " alt="" coords="189,356,325,397"/>
+<area shape="rect" id="node19" href="$classveins_1_1_base_mobility.html#a78f392149c0f8185e07dc9a51286bf85" title="Utility function to wrap the node to the opposite edge (torus) if it goes outside the playground..." alt="" coords="189,5,325,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#aae36006995d117a723134cbe1fee5e90" title="Main border handling function. " alt="" coords="560,123,696,164"/>
+<area shape="rect" id="node4" href="$classveins_1_1_linear_mobility.html#a506fdc3882892c0fc4427df73736010e" title="Should be redefined in subclasses. " alt="" coords="747,123,900,164"/>
+<area shape="rect" id="node5" href="$classveins_1_1_linear_mobility.html#af310806b2b41572de1428e56474bba56" title="Move the host. " alt="" coords="948,123,1089,164"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="949,268,1088,309"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="1137,268,1276,309"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_mobility.html#ab9e4cd0caa3fc245ba934f5f5bd9fc49" title="Utility function to reflect the node if it goes outside the playground. " alt="" coords="373,184,509,225"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="373,487,509,528"/>
+<area shape="rect" id="node16" href="$classveins_1_1_base_mobility.html#a70b2b357a4cef14850cd4edd440a13a7" title="Called upon arrival of a self messages. " alt="" coords="373,421,509,463"/>
+<area shape="rect" id="node18" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages. " alt="" coords="373,356,509,397"/>
+<area shape="rect" id="node14" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="557,535,699,576"/>
+<area shape="rect" id="node15" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="559,469,697,511"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages. " alt="" coords="560,372,696,413"/>
+</map>

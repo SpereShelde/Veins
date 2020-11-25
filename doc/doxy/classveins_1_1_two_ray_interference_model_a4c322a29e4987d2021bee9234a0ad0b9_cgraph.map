@@ -1,0 +1,14 @@
+<map id="veins::TwoRayInterferenceModel::filterSignal" name="veins::TwoRayInterferenceModel::filterSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;. " alt="" coords="255,52,408,79"/>
+<area shape="rect" id="node6" href="$classveins_1_1_spectrum.html#a17aa50791a5cd216f435169bf68f98b9" title="veins::Spectrum::freqAt" alt="" coords="251,103,411,129"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#a87104706e2aecffa1146fe6b115e8450" title="Returns the number of power values stored in this signal. " alt="" coords="236,153,427,180"/>
+<area shape="rect" id="node8" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t. " alt="" coords="253,205,409,246"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#a42a8f0fb95c9ea08ff0a6a16df37ae14" title="Get this signal&#39;s receiver POA. " alt="" coords="232,271,431,297"/>
+<area shape="rect" id="node10" href="$classveins_1_1_signal.html#a3110835239b852cf44bd59356be3fcc3" title="Get this signal&#39;s sender POA. " alt="" coords="238,321,425,348"/>
+<area shape="rect" id="node11" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on. " alt="" coords="242,372,421,399"/>
+<area shape="rect" id="node12" href="$classveins_1_1_f_w_math.html#ab5d2d31650c0d51144611f7f57abcf99" title="Convert a mW value to dBm. " alt="" coords="243,423,420,449"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second. " alt="" coords="252,474,411,515"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="479,5,651,61"/>
+<area shape="rect" id="node5" href="$classveins_1_1_coord.html#aa003fb9d6788186697029ce7653eb9e7" title="Returns the length of this Coords position vector. " alt="" coords="495,85,634,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="699,20,860,47"/>
+</map>

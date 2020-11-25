@@ -1,0 +1,8 @@
+<map id="veins::BaseConnectionManager::fillUnionWithNeighbors" name="veins::BaseConnectionManager::fillUnionWithNeighbors">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#a063c137e5a6d73ff846321b511d48a32" title="Check connections of a nic in the grid. " alt="" coords="260,39,467,80"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_connection_manager.html#a3e3f6ea1da0e15af3c91493dcfdc22ba" title="Unregisters a NIC such that its connections aren&#39;t managed by the CM anymore. " alt="" coords="260,104,467,145"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_connection_manager.html#af87d8c9c33b54eb6bf8a5f43e6e36a96" title="Updates the connections of the nic with &quot;nicID&quot;. " alt="" coords="515,39,721,80"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager.html#a35d8c27aeacff47e0e62135ffe065078" title="Registers a nic to have its connections managed by ConnectionManager. " alt="" coords="769,5,976,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_connection_manager.html#af264b3c891bde0a49dd003c584c997ac" title="Updates the position information of a registered nic. " alt="" coords="769,71,976,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes. " alt="" coords="1024,39,1177,80"/>
+</map>

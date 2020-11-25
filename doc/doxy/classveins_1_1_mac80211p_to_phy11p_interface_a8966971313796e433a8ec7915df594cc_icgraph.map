@@ -1,0 +1,4 @@
+<map id="veins::Mac80211pToPhy11pInterface::requestChannelStatusIfIdle" name="veins::Mac80211pToPhy11pInterface::requestChannelStatusIfIdle">
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#a429c3c17f4a99e763cf9608a85e6b56c" title="veins::Mac1609_4::handle\lAckTimeOut" alt="" coords="264,13,439,54"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#a50663c27a2a1782c618309345687e142" title="Handle self messages such as timers. " alt="" coords="487,13,661,54"/>
+</map>

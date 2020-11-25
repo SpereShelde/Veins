@@ -1,0 +1,5 @@
+<map id="veins::BreakpointPathlossModel::filterSignal" name="veins::BreakpointPathlossModel::filterSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t. " alt="" coords="249,5,405,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a42a8f0fb95c9ea08ff0a6a16df37ae14" title="Get this signal&#39;s receiver POA. " alt="" coords="228,71,427,98"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#a3110835239b852cf44bd59356be3fcc3" title="Get this signal&#39;s sender POA. " alt="" coords="234,122,421,149"/>
+</map>

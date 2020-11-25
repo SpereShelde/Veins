@@ -1,0 +1,5 @@
+<map id="veins::TraCIMobility" name="veins::TraCIMobility">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html" title="Base module for all mobility modules. " alt="" coords="51,229,187,256"/>
+<area shape="rect" id="node3" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="46,155,193,181"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="53,80,186,107"/>
+</map>

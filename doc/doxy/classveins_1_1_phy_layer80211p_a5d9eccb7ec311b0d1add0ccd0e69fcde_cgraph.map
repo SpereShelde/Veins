@@ -1,0 +1,7 @@
+<map id="veins::PhyLayer80211p::setRadioState" name="veins::PhyLayer80211p::setRadioState">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#aefafbb15daa91c819c4d25e7a9c38b71" title="Tell the BasePhyLayer to switch to the specified radio state. " alt="" coords="212,39,359,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#ada6c556e50ead146f822dadf6ea2a472" title="Called when the switching process of the Radio is finished. " alt="" coords="407,5,559,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#aa59aef501cadd36c94d4f82efe9b64be" title="Schedule self message to passed point in time. " alt="" coords="409,71,556,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a7839a1e342516ba1cde3a001a72965f3" title="Send the given message to via the control gate to the mac. " alt="" coords="607,5,772,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#aaa439e85a8bc20a39477055aecf04993" title="Send the passed control message to the upper layer. " alt="" coords="820,5,991,47"/>
+</map>

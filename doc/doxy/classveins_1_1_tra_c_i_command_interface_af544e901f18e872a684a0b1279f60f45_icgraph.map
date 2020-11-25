@@ -1,0 +1,13 @@
+<map id="veins::TraCICommandInterface::genericGetStringList" name="veins::TraCICommandInterface::genericGetStringList">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_command_interface.html#ae4f3edcecb046a56f4c8ac73999f0569" title="veins::TraCICommandInterface\l::getGuiViewIds" alt="" coords="259,5,464,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_command_interface.html#a741694ecfe031e264b0d364c9306520c" title="veins::TraCICommandInterface\l::getJunctionIds" alt="" coords="259,71,464,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_command_interface.html#a342d0a4cd83cf5f2e3ffc70716ad054f" title="veins::TraCICommandInterface\l::getLaneAreaDetectorIds" alt="" coords="259,136,464,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_command_interface.html#a46c9ef680a7b910b7f8d74b0d1d2e392" title="veins::TraCICommandInterface\l::getLaneIds" alt="" coords="259,201,464,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_command_interface.html#afbe7efb75d1c9f7cf60cb7d25c5af4b5" title="veins::TraCICommandInterface\l::getPoiIds" alt="" coords="259,267,464,308"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_command_interface.html#a6089e8b0f413375119dfc40b6e465924" title="veins::TraCICommandInterface\l::getPolygonIds" alt="" coords="259,332,464,373"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_command_interface.html#a15d2f7196c24d7b0c8ad1833d5857885" title="veins::TraCICommandInterface\l::getRoadIds" alt="" coords="259,397,464,439"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_command_interface.html#a34c0d649240f6d6043532467cd1fb3f6" title="veins::TraCICommandInterface\l::getRouteIds" alt="" coords="259,463,464,504"/>
+<area shape="rect" id="node11" href="$classveins_1_1_tra_c_i_command_interface.html#a6902f1c5bc693fa46cf2bf9175173a8a" title="veins::TraCICommandInterface\l::getTrafficlightIds" alt="" coords="259,528,464,569"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_command_interface.html#a02760d51aeac1fc198f12fe0fd70d596" title="veins::TraCICommandInterface\l::getVehicleTypeIds" alt="" coords="259,593,464,635"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#a556643617ac2a26a96baebed9ece0595" title="veins::TraCIVehicleInserter\l::receiveSignal" alt="" coords="512,528,693,569"/>
+</map>

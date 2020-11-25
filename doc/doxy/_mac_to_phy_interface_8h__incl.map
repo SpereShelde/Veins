@@ -1,0 +1,9 @@
+<map id="MacToPhyInterface.h" name="MacToPhyInterface.h">
+<area shape="rect" id="node2" href="$veins_8h.html" title="veins/veins.h" alt="" coords="485,497,583,524"/>
+<area shape="rect" id="node6" href="$_phy_utils_8h.html" title="veins/base/phyLayer\l/PhyUtils.h" alt="" coords="351,80,493,121"/>
+<area shape="rect" id="node8" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="351,169,493,211"/>
+<area shape="rect" id="node10" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="170,259,335,300"/>
+<area shape="rect" id="node11" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="341,348,503,375"/>
+<area shape="rect" id="node16" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="493,259,634,300"/>
+<area shape="rect" id="node12" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="194,423,373,449"/>
+</map>

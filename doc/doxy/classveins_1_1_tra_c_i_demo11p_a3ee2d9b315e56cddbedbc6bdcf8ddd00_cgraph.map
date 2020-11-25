@@ -1,0 +1,9 @@
+<map id="veins::TraCIDemo11p::handleSelfMsg" name="veins::TraCIDemo11p::handleSelfMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#aec3c66232b9ca518c76021c8f2f1dc40" title="handle self messages " alt="" coords="204,12,388,53"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#ac473178d13013063c13943d343a672f4" title="overloaded for error handling and stats recording purposes " alt="" coords="436,71,620,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_demo_base_appl_layer.html#ae87d3a13dfd916a8abcc7b269ce0fbbe" title="stopping the service and advertising for it " alt="" coords="204,129,388,171"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer.html#aecfff5ce1d91dcdb319272042375e6b2" title="sets all the necessary fields in the WSM, BSM, or WSA. " alt="" coords="436,5,620,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_demo_base_appl_layer.html#a92eee52f9f934fa6118dbad5422f4269" title="helper function for error handling and stats recording purposes " alt="" coords="673,41,857,83"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_layer.html#a1873d6e3fc6d92cf8482b39f1c5ac6c8" title="Sends a message to the lower layer. " alt="" coords="668,107,861,134"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title="veins::BaseLayer::record\lPacket" alt="" coords="909,100,1076,141"/>
+</map>

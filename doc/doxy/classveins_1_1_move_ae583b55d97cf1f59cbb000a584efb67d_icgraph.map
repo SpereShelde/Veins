@@ -1,0 +1,10 @@
+<map id="veins::Move::setDirectionByVector" name="veins::Move::setDirectionByVector">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title="veins::TraCIMobility\l::changePosition" alt="" coords="224,5,363,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages. " alt="" coords="225,71,361,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="412,136,551,177"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="225,188,361,229"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_mobility.html#a678634249e120d1e2614a628d20006f6" title="veins::TraCIMobility\l::preInitialize" alt="" coords="224,253,363,295"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="412,5,551,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages. " alt="" coords="413,71,549,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="411,201,552,243"/>
+</map>

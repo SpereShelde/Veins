@@ -1,0 +1,4 @@
+<map id="veins::TimerManager::create" name="veins::TimerManager::create">
+<area shape="rect" id="node2" href="$structveins_1_1_timer_specification.html#a50bab2e5ee6dfa1c92f5e185d582dd8e" title="Finalizes this instance such that its values are independent of current simulation time..." alt="" coords="197,5,367,47"/>
+<area shape="rect" id="node3" href="$structveins_1_1_timer_specification.html#ab34fe79fb10681681beea5fd3bb99423" title="Checks validity of this specification, i.e., whether all necessary information is set..." alt="" coords="197,71,367,112"/>
+</map>

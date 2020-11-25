@@ -1,0 +1,16 @@
+<map id="veins::AnnotationManager::drawPolygon" name="veins::AnnotationManager::drawPolygon">
+<area shape="rect" id="node2" href="$classveins_1_1_obstacle_control.html#a206a6e9155d1b201841d0718e65ed30f" title="veins::ObstacleControl::add" alt="" coords="234,78,418,105"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="veins::TraCIScenarioManager\l::init_traci" alt="" coords="733,100,927,141"/>
+<area shape="rect" id="node10" href="$classveins_1_1_annotation_manager.html#a946e1967906528815fbe61cb8cfb2986" title="adds Annotations from an XML document; example below. " alt="" coords="239,188,413,229"/>
+<area shape="rect" id="node12" href="$classveins_1_1_annotation_manager.html#a51c3cecfcf9fd3f315177b07bb7ab040" title="veins::AnnotationManager\l::drawPolygon" alt="" coords="239,253,413,295"/>
+<area shape="rect" id="node13" href="$classveins_1_1_vehicle_obstacle_control.html#a35472d1c0051dbf451f1dd30ac2c708f" title="veins::VehicleObstacleControl\l::drawVehicleObstacles" alt="" coords="227,319,425,360"/>
+<area shape="rect" id="node3" href="$classveins_1_1_obstacle_control.html#a1e5fceb8e8d9616622cc12551231c9d3" title="veins::ObstacleControl\l::addFromXml" alt="" coords="495,5,650,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_obstacle_control.html#a5854911238d0af091d44f155bb768437" title="veins::ObstacleControl\l::addFromTypeAndShape" alt="" coords="487,71,658,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_obstacle_control.html#adffe1ace6d536aa9a27402006707962f" title="veins::ObstacleControl\l::initialize" alt="" coords="753,5,907,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="988,67,1183,108"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title="veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="988,132,1183,173"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title="veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1231,67,1425,108"/>
+<area shape="rect" id="node11" href="$classveins_1_1_annotation_manager.html#af1b9b5eacc0afa3a90fbf48a7f00a539" title="veins::AnnotationManager\l::initialize" alt="" coords="486,188,659,229"/>
+<area shape="rect" id="node14" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="473,319,672,360"/>
+<area shape="rect" id="node15" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="720,319,940,360"/>
+</map>

@@ -1,0 +1,98 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Packet <i>DemoSafetyMessage</i></h2>
+<b>File: <a href="src-veins-modules-messages-DemoSafetyMessage.msg.html">src/veins/modules/messages/DemoSafetyMessage.msg</a></b><br/><p>(no description)</p><h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-msg-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="src-veins-modules-messages-DemoSafetyMessage-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="src-veins-modules-messages-DemoSafetyMessage.html" title="Packet DemoSafetyMessage" alt="" coords="5,5,153,31">
+</map>
+<h3 class="subtitle">Extends:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="src-veins-modules-messages-BaseFrame1609_4.html">BaseFrame1609_4</a>
+   </td>
+   <td>
+<i>packet</i>
+   </td>
+   <td>
+<i>(no description)</i>
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Fields:</h3>
+<table class="fieldstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="local">
+   <td>senderPos</td>
+   <td>
+      <i>
+Coord</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="local">
+   <td>senderSpeed</td>
+   <td>
+      <i>
+Coord</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="inherited">
+   <td>channelNumber</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>Channel Number on which this packet was sent</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>userPriority</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>User priority with which this packet was sent (note the AC mapping rules in <a href="org.car2x.veins.modules.mac.ieee80211p.Mac1609_4.html">Mac1609_4</a>::mapUserPriority)</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>psid</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>Unique number to identify the service</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>recipientAddress</td>
+   <td>
+      <i>
+LAddress::L2Type</i>
+   </td>
+   <td>
+<p>Recipient of frame (-1 for any)</p>
+</td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

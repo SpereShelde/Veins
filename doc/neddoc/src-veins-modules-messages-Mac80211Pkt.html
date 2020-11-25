@@ -1,0 +1,157 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Packet <i>Mac80211Pkt</i></h2>
+<b>File: <a href="src-veins-modules-messages-Mac80211Pkt.msg.html">src/veins/modules/messages/Mac80211Pkt.msg</a></b><br/>
+<p>Defines all fields of an 802.11 MAC frame</p>
+<h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-msg-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="src-veins-modules-messages-Mac80211Pkt-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="src-veins-modules-messages-Mac80211Pkt.html" title="Packet Mac80211Pkt" alt="" coords="5,5,108,31">
+</map>
+<h3 class="subtitle">Extends:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="src-veins-base-messages-MacPkt.html">MacPkt</a>
+   </td>
+   <td>
+<i>packet</i>
+   </td>
+   <td>
+
+<p>A basic MAC (Media Access Control) packet format definition</p>
+
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Known subclasses:</h3>
+<table class="typestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>
+<a href="src-veins-modules-messages-Mac80211Ack.html">Mac80211Ack</a>
+   </td>
+   <td>
+<i>packet</i>
+   </td>
+   <td>
+<i>(no description)</i>
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Fields:</h3>
+<table class="fieldstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="local">
+   <td>address3</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="local">
+   <td>address4</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="local">
+   <td>fragmentation</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>part of the Frame Control field</p>
+</td>
+</tr>
+<tr class="local">
+   <td>informationDS</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>part of the Frame Control field</p>
+</td>
+</tr>
+<tr class="local">
+   <td>sequenceControl</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="local">
+   <td>retry</td>
+   <td>
+      <i>
+bool</i>
+   </td>
+   <td></td>
+</tr>
+<tr class="local">
+   <td>duration</td>
+   <td>
+      <i>
+simtime_t</i>
+   </td>
+   <td>
+<p>the expected remaining duration the current transaction</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>destAddr</td>
+   <td>
+      <i>
+LAddress::L2Type</i>
+   </td>
+   <td>
+<p>destination mac address</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>srcAddr</td>
+   <td>
+      <i>
+LAddress::L2Type</i>
+   </td>
+   <td>
+<p>source mac address</p>
+</td>
+</tr>
+<tr class="inherited">
+   <td>sequenceId</td>
+   <td>
+      <i>
+long</i>
+   </td>
+   <td>
+<p>Sequence Number to detect duplicate messages</p>
+</td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

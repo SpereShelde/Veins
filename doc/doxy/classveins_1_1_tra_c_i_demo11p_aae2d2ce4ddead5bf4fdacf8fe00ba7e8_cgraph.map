@@ -1,0 +1,17 @@
+<map id="veins::TraCIDemo11p::handlePositionUpdate" name="veins::TraCIDemo11p::handlePositionUpdate">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#a59d83e257a9f18f9af061d2e3bbe0440" title="compute a point in time that is guaranteed to be in the correct channel interval plus a random offset..." alt="" coords="443,183,681,224"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="232,5,373,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_mobility.html#ab52d2871b0ac179a2f34b8846ea1ea53" title="veins::TraCIMobility\l::getRoadId" alt="" coords="233,123,372,164"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_mobility.html#ae7c680f6f0bc1a3826f726a607c66bc1" title="veins::TraCIMobility\l::getSpeed" alt="" coords="233,188,372,229"/>
+<area shape="rect" id="node9" href="$classveins_1_1_demo_base_appl_layer.html#a384db2de57cd12b3b5bab48f255bcea7" title="this function is called every time the vehicle receives a position update signal " alt="" coords="211,253,395,295"/>
+<area shape="rect" id="node10" href="$classveins_1_1_demo_base_appl_layer.html#aecfff5ce1d91dcdb319272042375e6b2" title="sets all the necessary fields in the WSM, BSM, or WSA. " alt="" coords="211,319,395,360"/>
+<area shape="rect" id="node11" href="$classveins_1_1_demo_base_appl_layer.html#ac473178d13013063c13943d343a672f4" title="overloaded for error handling and stats recording purposes " alt="" coords="211,449,395,491"/>
+<area shape="rect" id="node15" href="$classveins_1_1_demo_base_appl_layer.html#a950278bac8ae9a57bbf8d052f3d72740" title="This will start the periodic advertising of the new service on the CCH. " alt="" coords="211,384,395,425"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#aac07f54c6e7d52a40b16b560638f2ce8" title="veins::DemoBaseApplLayer\lToMac1609_4Interface::\lgetSwitchingInterval" alt="" coords="729,215,913,271"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#a43aee47e5687617af50e5919c26542a9" title="veins::DemoBaseApplLayer\lToMac1609_4Interface::\lisCurrentChannelCCH" alt="" coords="729,135,913,191"/>
+<area shape="rect" id="node6" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="494,5,630,47"/>
+<area shape="rect" id="node12" href="$classveins_1_1_demo_base_appl_layer.html#a92eee52f9f934fa6118dbad5422f4269" title="helper function for error handling and stats recording purposes " alt="" coords="470,508,654,549"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_layer.html#a1873d6e3fc6d92cf8482b39f1c5ac6c8" title="Sends a message to the lower layer. " alt="" coords="465,457,659,483"/>
+<area shape="rect" id="node14" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title="veins::BaseLayer::record\lPacket" alt="" coords="738,449,905,491"/>
+<area shape="rect" id="node16" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#a73bf2fa8eced9dc5a97ec5566f29f6f6" title="veins::DemoBaseApplLayer\lToMac1609_4Interface::\lchangeServiceChannel" alt="" coords="470,377,654,433"/>
+</map>

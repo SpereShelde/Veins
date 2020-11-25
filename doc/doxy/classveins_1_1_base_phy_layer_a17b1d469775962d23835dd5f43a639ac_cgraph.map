@@ -1,0 +1,20 @@
+<map id="veins::BasePhyLayer::handleUpperMessage" name="veins::BasePhyLayer::handleUpperMessage">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#afcce43624a95c13ee83ac8d6f3086aaf" title="Encapsulate messages from the upper layer into an AirFrame and set all necessary attributes. " alt="" coords="217,169,364,211"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a1fe847ed3e50ccf3a3740234dfee42b1" title="Send the passed AirFrame to the channel. " alt="" coords="217,300,364,341"/>
+<area shape="rect" id="node18" href="$classveins_1_1_base_phy_layer.html#aa59aef501cadd36c94d4f82efe9b64be" title="Schedule self message to passed point in time. " alt="" coords="217,365,364,407"/>
+<area shape="rect" id="node19" href="$classveins_1_1_heading.html#ab8b7aeac07a2db68ce07b4074b6cf37d" title="Returns Coord of a unit vector (with x pointing east and y pointing south). " alt="" coords="209,431,372,458"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#ac5571de9711dc5adda0d4281a6a78f2e" title="Defines the scheduling priority of AirFrames. " alt="" coords="426,5,573,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a5e9c914412f6eae586f5a41d5308a7f5" title="Create a signal corresponding to the received control information. " alt="" coords="426,71,573,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#afa9969e29e4da7c827662e03522abd9f" title="Create a protocol&#45;specific AirFrame. " alt="" coords="426,136,573,177"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_world_utility.html#a4dd7a66a8ccbc52ff7ff43c66f832d5c" title="Returns an Id for an AirFrame, at the moment simply an incremented long&#45;value. " alt="" coords="420,201,579,243"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#ae32956b372dbacefb9c97ec6f16ffe91" title="Return the identifier of the protocol this phy uses to send messages. " alt="" coords="426,267,573,308"/>
+<area shape="rect" id="node9" href="$classveins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one. " alt="" coords="423,332,576,373"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_connection_manager.html#a32172876aa44e95bce3e7d4484c041ec" title="Returns the ingates of all nics in range. " alt="" coords="627,299,833,340"/>
+<area shape="rect" id="node11" href="$classveins_1_1_channel_access.html#a01c12c70034ec0583ee5f4e1ac0f683b" title="Calculates the propagation delay to the passed receiving nic. " alt="" coords="637,364,823,405"/>
+<area shape="rect" id="node12" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t. " alt="" coords="883,305,1039,347"/>
+<area shape="rect" id="node13" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;. " alt="" coords="884,371,1037,398"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second. " alt="" coords="881,423,1040,464"/>
+<area shape="rect" id="node14" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle. " alt="" coords="1088,323,1260,379"/>
+<area shape="rect" id="node16" href="$classveins_1_1_coord.html#aa003fb9d6788186697029ce7653eb9e7" title="Returns the length of this Coords position vector. " alt="" coords="1105,403,1243,430"/>
+<area shape="rect" id="node15" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division. " alt="" coords="1308,338,1469,365"/>
+</map>

@@ -1,0 +1,111 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Simple Module <i>TraCIScreenRecorder</i></h2>
+<b>Package:</b> org.car2x.veins.modules.mobility.traci<br/><b>File: <a href="src-veins-modules-mobility-traci-TraCIScreenRecorder.ned.html">src/veins/modules/mobility/traci/TraCIScreenRecorder.ned</a></b><br/><p><a href="../doxy/classveins_1_1_tra_c_i_screen_recorder.html" target="mainframe"><b>C++ definition</b></a></p>
+
+<p>Simple support module to take (a series of) screenshots of a simulation running in the TraCI server.</p>
+<p>Note that the TraCI server needs to be run in GUI mode and support taking screenshots for this to work.</p>
+<p>The screenshots can then be converted to a video using something along the lines of
+mencoder 'mf://results/screenshot-*.png' -mf w=800:h=600:fps=25:type=png -ovc lavc -lavcopts vcodec=mpeg4:mbd=2:trell -oac copy -o output.avi</p>
+<p>See the Veins website <a href="http://veins.car2x.org/"> for a tutorial, documentation, and publications </a>.</p>
+<p><b>Author:</b> Christoph Sommer</p>
+<p><b>See also:</b> <a href="org.car2x.veins.modules.mobility.traci.TraCIScenarioManager.html">TraCIScenarioManager</a></p>
+<h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-ned-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="org.car2x.veins.modules.mobility.traci.TraCIScreenRecorder-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="org.car2x.veins.modules.mobility.traci.TraCIScreenRecorder.html" title="Simple Module TraCIScreenRecorder" alt="" coords="5,5,155,31">
+</map>
+<h3 class="subtitle">Parameters:</h3>
+<table class="paramstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="defaultvalue">Default value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="local">
+   <td>dirname</td>
+   <td>
+      <i>string</i>
+   </td>
+   <td>""</td>
+   <td>
+<p>directory name for screenshots (leave blank to use ${resultdir})</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>filenameTemplate</td>
+   <td>
+      <i>string</i>
+   </td>
+   <td>""</td>
+   <td>
+<p>file name for screenshots in printf syntax; the %f parameter is set to the current simulation time (leave blank to use screenshot-${runid}-@%08.2f.png)</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>viewName</td>
+   <td>
+      <i>string</i>
+   </td>
+   <td>"View #0"</td>
+   <td>
+<p>which TraCI server view to choose</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>start</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>0s</td>
+   <td>
+<p>when to take the first screenshot</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>interval</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>.1s</td>
+   <td>
+<p>how often to take a screenshot</p>
+   </td>
+</tr>
+<tr class="local">
+   <td>stop</td>
+   <td>
+      <i>double</i>
+   </td>
+   <td>-1s</td>
+   <td>
+<p>when to take the last screenshot (-1: never)</p>
+   </td>
+</tr>
+</table>
+<h3 class="subtitle">Properties:</h3>
+<table class="propertiestable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="value">Value</th>
+      <th class="description">Description</th>
+   </tr>
+<tr>
+   <td>display</td>
+   <td><i>i=block/downarrow</i></td>
+   <td></td>
+</tr>
+<tr>
+   <td>class</td>
+   <td><i>veins::TraCIScreenRecorder</i></td>
+   <td></td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

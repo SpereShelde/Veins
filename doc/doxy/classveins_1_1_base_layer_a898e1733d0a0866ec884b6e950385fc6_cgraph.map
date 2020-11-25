@@ -1,0 +1,8 @@
+<map id="veins::BaseLayer::handleMessage" name="veins::BaseLayer::handleMessage">
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html#a61b647d5c030ba1b9a433e86c9faa48a" title="Handle control messages from lower layer. " alt="" coords="223,5,392,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_layer.html#a3ea3bc153bc1e987eb9fa3b9eaeb2bce" title="Handle messages from lower layer. " alt="" coords="223,71,392,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_layer.html#a215376a4259416145ddf74444937161b" title="Handle self messages such as timer... " alt="" coords="223,136,392,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_layer.html#a6dfe8aca6c874ee299bfd9ee9c8283d2" title="Handle control messages from upper layer. " alt="" coords="223,201,392,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_layer.html#a69c14c083e420c38a313894452c88fa7" title="Handle messages from upper layer. " alt="" coords="223,267,392,308"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title="veins::BaseLayer::record\lPacket" alt="" coords="224,332,391,373"/>
+</map>

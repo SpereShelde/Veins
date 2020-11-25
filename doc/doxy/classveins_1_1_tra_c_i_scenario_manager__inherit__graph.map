@@ -1,0 +1,4 @@
+<map id="veins::TraCIScenarioManager" name="veins::TraCIScenarioManager">
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html" title="Extends the TraCIScenarioManager to automatically fork an instance of SUMO when needed. " alt="" coords="5,155,200,196"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html" title="Extends the TraCIScenarioManager for use with sumo&#45;launchd.py and SUMO. " alt="" coords="224,155,419,196"/>
+</map>

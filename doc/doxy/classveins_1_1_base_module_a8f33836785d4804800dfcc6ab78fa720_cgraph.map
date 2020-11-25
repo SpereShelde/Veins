@@ -1,0 +1,4 @@
+<map id="veins::BaseModule::logName" name="veins::BaseModule::logName">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="384,5,520,47"/>
+</map>

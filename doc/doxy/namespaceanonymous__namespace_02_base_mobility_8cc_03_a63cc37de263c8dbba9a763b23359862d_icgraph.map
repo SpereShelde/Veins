@@ -1,0 +1,5 @@
+<map id="anonymous_namespace{BaseMobility::cc}::isInBoundary" name="anonymous_namespace{BaseMobility::cc}::isInBoundary">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters. " alt="" coords="216,39,352,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters. " alt="" coords="400,5,541,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title="veins::TraCIMobility\l::initialize" alt="" coords="401,71,540,112"/>
+</map>

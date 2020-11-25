@@ -1,0 +1,4 @@
+<map id="veins::Mac1609_4::mapUserPriority" name="veins::Mac1609_4::mapUserPriority">
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#a50663c27a2a1782c618309345687e142" title="Handle self messages such as timers. " alt="" coords="243,5,417,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#ad56ebe7dbf4be7aca4d00bfef4cdf412" title="Handle messages from upper layer. " alt="" coords="243,71,417,112"/>
+</map>

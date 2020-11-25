@@ -1,0 +1,4 @@
+<map id="veins::MacToNetwControlInfo::getAddressFromControlInfo" name="veins::MacToNetwControlInfo::getAddressFromControlInfo">
+<area shape="rect" id="node2" href="$classveins_1_1_mac_to_netw_control_info.html#a5b5086160b17b1532f71cc5b7331f62c" title="Returns the MAC address of the packets last hop. " alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_l_address.html#aa4c72481eb930988da1272c5867ff401" title="NULL address for L2 addresses. " alt="" coords="261,71,433,98"/>
+</map>

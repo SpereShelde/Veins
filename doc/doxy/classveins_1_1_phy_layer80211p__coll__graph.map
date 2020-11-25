@@ -1,0 +1,20 @@
+<map id="veins::PhyLayer80211p" name="veins::PhyLayer80211p">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html" title="The BasePhyLayer represents the physical layer of a nic. " alt="" coords="1515,387,1662,413"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_access.html" title="Basic class for all physical layers, please don&#39;t touch!! " alt="" coords="1106,285,1259,312"/>
+<area shape="rect" id="node4" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="730,208,877,235"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="165,97,299,124"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="385,97,518,124"/>
+<area shape="rect" id="node12" href="$classveins_1_1_base_connection_manager.html" title="Module to control the channel and handle all connection related stuff. " alt="" coords="700,423,907,449"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="724,479,883,505"/>
+<area shape="rect" id="node9" href="$classveins_1_1_access_module_wrap.html" title="Finds and returns the pointer to a module of type T. " alt="" coords="709,372,897,399"/>
+<area shape="rect" id="node10" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="403,335,499,361"/>
+<area shape="rect" id="node15" href="$classveins_1_1_antenna_position.html" title="Stores the position of the host&#39;s antenna along with its speed, so that it can be linearly extrapolat..." alt="" coords="725,259,881,285"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html" title="Represents a position inside a grid. " alt="" coords="348,199,555,241"/>
+<area shape="rect" id="node14" href="$classveins_1_1_heading.html" title="Stores a Heading in rad, with 0 degrees being east and 90 degrees being north. " alt="" coords="749,157,858,184"/>
+<area shape="rect" id="node21" href="$classveins_1_1_channel_info.html" title="This class is used by the BasePhyLayer to keep track of the AirFrames on the channel. " alt="" coords="931,100,1061,127"/>
+<area shape="rect" id="node18" href="$classveins_1_1_decider_to_phy_interface.html" title="This class is the interface for a Decider to the BasePhyLayer. " alt="" coords="1085,336,1280,363"/>
+<area shape="rect" id="node19" href="$classveins_1_1_mac_to_phy_interface.html" title="Defines the methods provided by the phy to the mac layer. " alt="" coords="1095,387,1270,413"/>
+<area shape="rect" id="node20" href="$classveins_1_1_spectrum.html" title="veins::Spectrum" alt="" coords="1124,437,1241,464"/>
+<area shape="rect" id="node23" href="$classveins_1_1_mac80211p_to_phy11p_interface.html" title="Interface of PhyLayer80211p exposed to Mac1609_4. " alt="" coords="1495,438,1682,479"/>
+<area shape="rect" id="node24" href="$classveins_1_1_decider80211p_to_phy80211p_interface.html" title="Interface of PhyLayer80211p exposed to Decider80211p. " alt="" coords="1475,503,1703,545"/>
+</map>

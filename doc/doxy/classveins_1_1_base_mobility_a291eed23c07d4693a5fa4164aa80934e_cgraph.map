@@ -1,0 +1,11 @@
+<map id="veins::BaseMobility::updatePosition" name="veins::BaseMobility::updatePosition">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="204,5,345,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_move.html#a72b382a849acc025fc1391c29e90b4e8" title="Returns the start position. " alt="" coords="189,71,360,98"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mobility.html#a4385f329f6d9df7294297c98028083e2" title="Maps the passed size in pixels to an appropriate icon size tag (is). " alt="" coords="207,123,343,164"/>
+<area shape="rect" id="node6" href="$classveins_1_1_move.html#a5ef4232ea4ce638ddd70227131c0050f" title="Returns information about the current state. " alt="" coords="213,189,336,215"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_mobility.html#a61602db99644b3a1fe849eb02c8286cb" title="Returns the height of the playground. " alt="" coords="207,240,343,281"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_world_utility.html#ad67073ffe5557077cd4b96fa2138c536" title="Returns true if the world is 2&#45;dimensional. " alt="" coords="195,305,354,347"/>
+<area shape="rect" id="node3" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="419,5,555,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_coord.html#a6e2a6d6d22318dcac1173b4de5962d30" title="Returns a string with the value of the coordinate. " alt="" coords="425,189,550,215"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize. " alt="" coords="408,240,567,281"/>
+</map>

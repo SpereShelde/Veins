@@ -1,0 +1,14 @@
+<map id="veins::Signal::getReceptionEnd" name="veins::Signal::getReceptionEnd">
+<area shape="rect" id="node2" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::getMaxInterference" alt="" coords="259,10,493,66"/>
+<area shape="rect" id="node6" href="$namespaceveins_1_1_signal_utils.html#a744df65831b369a6412cb305cf04f06f" title="check if the summed power of interfererFrames&#39;s signals at freqIndex is below a given threshold..." alt="" coords="267,112,485,153"/>
+<area shape="rect" id="node11" href="$namespaceveins.html#a7e340a38decf7a51e8d1e3c3f70a68e6" title="veins::operator\&lt;\&lt;" alt="" coords="314,178,438,205"/>
+<area shape="rect" id="node12" href="$classveins_1_1_base_decider.html#a6a480f87157d0509c0c1fccf94ea9fef" title="Processes a new Signal. " alt="" coords="307,229,445,271"/>
+<area shape="rect" id="node3" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal..." alt="" coords="568,12,692,53"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="787,5,935,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="1003,35,1151,76"/>
+<area shape="rect" id="node7" href="$classveins_1_1_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="veins::Decider80211p::cca" alt="" coords="541,130,719,157"/>
+<area shape="rect" id="node8" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="781,123,940,164"/>
+<area shape="rect" id="node9" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="787,188,935,229"/>
+<area shape="rect" id="node10" href="$classveins_1_1_phy_layer80211p.html#a6851aaac3c59b66568847e75691ba3e5" title="Explicit request to PHY for the channel status. " alt="" coords="767,253,955,295"/>
+<area shape="rect" id="node13" href="$classveins_1_1_base_decider.html#a8b488dcd86bfc2749763682ea3589800" title="Processes an AirFrame given by the PhyLayer. " alt="" coords="562,229,698,271"/>
+</map>

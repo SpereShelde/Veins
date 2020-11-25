@@ -1,0 +1,12 @@
+<map id="veins::AnnotationManager::hide" name="veins::AnnotationManager::hide">
+<area shape="rect" id="node2" href="$classveins_1_1_annotation_manager.html#a990948888917eff8840f899714d4e754" title="veins::AnnotationManager\l::erase" alt="" coords="227,104,400,145"/>
+<area shape="rect" id="node9" href="$classveins_1_1_annotation_manager.html#a25be0b4d24230db849859184c6144441" title="veins::AnnotationManager\l::hideAll" alt="" coords="227,201,400,243"/>
+<area shape="rect" id="node3" href="$classveins_1_1_obstacle_control.html#a3c5fb281ac00c947afe86d5e4bf99759" title="veins::ObstacleControl\l::erase" alt="" coords="457,5,612,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_annotation_manager.html#af071307b3e3fad6ec12a193418a9f576" title="veins::AnnotationManager\l::eraseAll" alt="" coords="448,71,621,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_annotation_manager.html#a15b1bc8dc418c545c8ff4e2b1f14833b" title="veins::AnnotationManager\l::handleSelfMsg" alt="" coords="448,136,621,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="669,71,868,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="916,71,1136,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_annotation_manager.html#a3e4a47c7b4bdeef090c4bb77c2813f3a" title="veins::AnnotationManager\l::handleMessage" alt="" coords="682,136,855,177"/>
+<area shape="rect" id="node10" href="$classveins_1_1_annotation_manager.html#a7cd6933413793d71e8494c4561f635e0" title="veins::AnnotationManager\l::finish" alt="" coords="448,201,621,243"/>
+<area shape="rect" id="node11" href="$classveins_1_1_annotation_manager.html#aa368e9f91a7b1ae9f0ed505ec2153044" title="veins::AnnotationManager\l::handleParameterChange" alt="" coords="448,267,621,308"/>
+</map>

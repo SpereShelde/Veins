@@ -1,0 +1,22 @@
+<map id="veins::TraCIColor::fromTkColor" name="veins::TraCIColor::fromTkColor">
+<area shape="rect" id="node2" href="$classveins_1_1_annotation_manager.html#a87ffa1c7edbccb8372a4551b73c73def" title="veins::AnnotationManager\l::show" alt="" coords="187,104,360,145"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html#a4de648d17c042138a6c8b8638e945f4b" title="veins::AnnotationManager\l::drawLine" alt="" coords="408,71,581,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_annotation_manager.html#a336eefa4f1f95638dcf5d5e5db0a93e9" title="veins::AnnotationManager\l::drawPoint" alt="" coords="408,5,581,47"/>
+<area shape="rect" id="node9" href="$classveins_1_1_annotation_manager.html#a7623e3423953cbe2f3db0133967829b7" title="veins::AnnotationManager\l::drawPolygon" alt="" coords="408,159,581,200"/>
+<area shape="rect" id="node20" href="$classveins_1_1_annotation_manager.html#a15a2bcf8ab7d62b65a85c55c3960085f" title="veins::AnnotationManager\l::showAll" alt="" coords="408,279,581,320"/>
+<area shape="rect" id="node4" href="$classveins_1_1_annotation_manager.html#a946e1967906528815fbe61cb8cfb2986" title="adds Annotations from an XML document; example below. " alt="" coords="642,5,815,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="876,120,1075,161"/>
+<area shape="rect" id="node5" href="$classveins_1_1_annotation_manager.html#af1b9b5eacc0afa3a90fbf48a7f00a539" title="veins::AnnotationManager\l::initialize" alt="" coords="889,5,1062,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="1123,120,1343,161"/>
+<area shape="rect" id="node10" href="$classveins_1_1_obstacle_control.html#a206a6e9155d1b201841d0718e65ed30f" title="veins::ObstacleControl::add" alt="" coords="637,239,821,266"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="veins::TraCIScenarioManager\l::init_traci" alt="" coords="1135,212,1330,253"/>
+<area shape="rect" id="node18" href="$classveins_1_1_annotation_manager.html#a51c3cecfcf9fd3f315177b07bb7ab040" title="veins::AnnotationManager\l::drawPolygon" alt="" coords="642,291,815,332"/>
+<area shape="rect" id="node19" href="$classveins_1_1_vehicle_obstacle_control.html#a35472d1c0051dbf451f1dd30ac2c708f" title="veins::VehicleObstacleControl\l::drawVehicleObstacles" alt="" coords="629,123,828,164"/>
+<area shape="rect" id="node11" href="$classveins_1_1_obstacle_control.html#a5854911238d0af091d44f155bb768437" title="veins::ObstacleControl\l::addFromTypeAndShape" alt="" coords="890,240,1061,281"/>
+<area shape="rect" id="node16" href="$classveins_1_1_obstacle_control.html#a1e5fceb8e8d9616622cc12551231c9d3" title="veins::ObstacleControl\l::addFromXml" alt="" coords="898,305,1053,347"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="1391,180,1585,221"/>
+<area shape="rect" id="node15" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title="veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="1391,245,1585,287"/>
+<area shape="rect" id="node14" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title="veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1633,180,1828,221"/>
+<area shape="rect" id="node17" href="$classveins_1_1_obstacle_control.html#adffe1ace6d536aa9a27402006707962f" title="veins::ObstacleControl\l::initialize" alt="" coords="1155,305,1310,347"/>
+<area shape="rect" id="node21" href="$classveins_1_1_annotation_manager.html#aa368e9f91a7b1ae9f0ed505ec2153044" title="veins::AnnotationManager\l::handleParameterChange" alt="" coords="642,356,815,397"/>
+</map>

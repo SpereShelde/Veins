@@ -1,0 +1,6 @@
+<map id="veins::ChannelAccess::calculatePropagationDelay" name="veins::ChannelAccess::calculatePropagationDelay">
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one. " alt="" coords="239,5,392,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a1fe847ed3e50ccf3a3740234dfee42b1" title="Send the passed AirFrame to the channel. " alt="" coords="440,5,587,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them. " alt="" coords="635,5,791,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="839,5,985,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="veins::BaseMobility::checkIfOutside" name="veins::BaseMobility::checkIfOutside">
+<area shape="rect" id="node2" href="$classveins_1_1_move.html#a4b6924bf3edee91cb30397b832a84436" title="Returns the direction vector (which is unit less, because of normalization). " alt="" coords="189,5,360,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_move.html#a72b382a849acc025fc1391c29e90b4e8" title="Returns the start position. " alt="" coords="189,56,360,83"/>
+<area shape="rect" id="node4" href="$classveins_1_1_coord.html#a6e2a6d6d22318dcac1173b4de5962d30" title="Returns a string with the value of the coordinate. " alt="" coords="212,107,337,133"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mobility.html#a86c357c59de6f58dc9916706ef1b4f6c" title="Returns the width of the playground. " alt="" coords="207,158,343,199"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mobility.html#acb8f54f076e73b8760cf3f2421a68ad6" title="Returns the height of the playground. " alt="" coords="207,223,343,265"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_mobility.html#a61602db99644b3a1fe849eb02c8286cb" title="Returns the height of the playground. " alt="" coords="207,289,343,330"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_world_utility.html#ad67073ffe5557077cd4b96fa2138c536" title="Returns true if the world is 2&#45;dimensional. " alt="" coords="195,354,354,395"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize. " alt="" coords="408,223,567,265"/>
+</map>

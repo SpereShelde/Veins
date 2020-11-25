@@ -1,0 +1,4 @@
+<map id="veins::BasePhyLayer::initializeAnalogueModels" name="veins::BasePhyLayer::initializeAnalogueModels">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a2dceabc7af52fa78ce2b973675e19e38" title="Create and return an instance of the AnalogueModel with the specified name. " alt="" coords="227,5,429,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#aa89a9272b99ab3005347301c2effc254" title="Read the parameters of a XML element and stores them in the passed ParameterMap reference. " alt="" coords="242,71,414,112"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="veins::TraCIDemo11p" name="veins::TraCIDemo11p">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html" title="Demo application layer base class. " alt="" coords="1877,335,2061,361"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_appl_layer.html" title="Base class for the application layer. " alt="" coords="1613,249,1763,276"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_layer.html" title="A very simple layer template. " alt="" coords="1227,237,1349,264"/>
+<area shape="rect" id="node5" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="796,219,943,245"/>
+<area shape="rect" id="node19" href="$classveins_1_1_base_mobility.html" title="Base module for all mobility modules. " alt="" coords="1220,556,1356,583"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="169,268,302,295"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="391,217,524,244"/>
+<area shape="rect" id="node23" href="$classveins_1_1_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="790,907,949,933"/>
+<area shape="rect" id="node28" href="$classveins_1_1_tra_c_i_scenario_manager.html" title="Creates and moves nodes controlled by a TraCI server. " alt="" coords="1191,967,1385,993"/>
+<area shape="rect" id="node29" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas. " alt="" coords="371,1131,544,1157"/>
+<area shape="rect" id="node30" href="$classveins_1_1_vehicle_obstacle_control.html" title="VehicleObstacleControl models moving obstacles that block radio transmissions. " alt="" coords="770,1059,969,1085"/>
+<area shape="rect" id="node10" href="$classveins_1_1_passed_message.html" title="veins::PassedMessage" alt="" coords="584,300,743,327"/>
+<area shape="rect" id="node17" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates. " alt="" coords="409,865,505,892"/>
+<area shape="rect" id="node20" href="$classveins_1_1_move.html" title="Class to store object position and movement. " alt="" coords="823,499,916,525"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html" title="veins::TraCICommandInterface\l::Vehicle" alt="" coords="1185,94,1391,135"/>
+<area shape="rect" id="node18" href="$classveins_1_1_tra_c_i_mobility.html" title="Used in modules created by the TraCIScenarioManager. " alt="" coords="1619,556,1757,583"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_connection.html" title="veins::TraCIConnection" alt="" coords="377,100,537,127"/>
+<area shape="rect" id="node15" href="$classveins_1_1_tra_c_i_command_interface.html" title="veins::TraCICommandInterface" alt="" coords="767,101,972,128"/>
+<area shape="rect" id="node14" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent. " alt="" coords="165,75,305,101"/>
+<area shape="rect" id="node16" href="$structveins_1_1_tra_c_i_command_interface_1_1_version_config.html" title="veins::TraCICommandInterface\l::VersionConfig" alt="" coords="355,151,560,193"/>
+<area shape="rect" id="node26" href="$classveins_1_1_tra_c_i_mobility_1_1_statistics.html" title="veins::TraCIMobility\l::Statistics" alt="" coords="1009,338,1148,379"/>
+<area shape="rect" id="node24" href="$classveins_1_1_enum_bitset.html" title="veins::EnumBitset\&lt;\l VehicleSignal \&gt;" alt="" coords="1219,747,1357,789"/>
+<area shape="rect" id="node25" href="$classveins_1_1_enum_bitset.html" title="veins::EnumBitset\&lt; T \&gt;" alt="" coords="789,663,950,689"/>
+<area shape="rect" id="node27" href="$classveins_1_1_heading.html" title="Stores a Heading in rad, with 0 degrees being east and 90 degrees being north. " alt="" coords="1233,696,1343,723"/>
+<area shape="rect" id="node31" href="$classveins_1_1_annotation_manager_1_1_group.html" title="veins::AnnotationManager\l::Group" alt="" coords="371,995,544,1037"/>
+<area shape="rect" id="node32" href="$classveins_1_1_tra_c_i_region_of_interest.html" title="Can return whether a given position lies within the simulation&#39;s region of interest. " alt="" coords="773,957,966,984"/>
+<area shape="rect" id="node33" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html" title="Interface between DemoBaseApplLayer Layer and Mac1609_4. " alt="" coords="1596,34,1780,75"/>
+</map>

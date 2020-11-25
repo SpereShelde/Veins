@@ -1,0 +1,15 @@
+<map id="veins::PhyLayer80211p::getAnalogueModelFromName" name="veins::PhyLayer80211p::getAnalogueModelFromName">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a2dceabc7af52fa78ce2b973675e19e38" title="Create and return an instance of the AnalogueModel with the specified name. " alt="" coords="271,5,474,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html#a382ee7b30a3ab1670cc2cca0b433446d" title="Creates and initializes a BreakpointPathlossModel with the passed parameter values. " alt="" coords="277,137,468,193"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a1ffc33ad38689037c99848f90c29ec6b" title="Creates and initializes a NakagamiFading with the passed parameter values. " alt="" coords="285,364,460,405"/>
+<area shape="rect" id="node7" href="$classveins_1_1_phy_layer80211p.html#aa180d8748bbcc7b915065a51e4c924ac" title="Creates a simple Packet Error Rate model that attenuates a percentage of the packets to zero..." alt="" coords="293,429,452,471"/>
+<area shape="rect" id="node8" href="$classveins_1_1_phy_layer80211p.html#a59691cd6e2658d2a6ec8eb41423591f9" title="Creates and initializes a SimpleObstacleShadowing with the passed parameter values. " alt="" coords="256,217,489,259"/>
+<area shape="rect" id="node10" href="$classveins_1_1_phy_layer80211p.html#a39de6f5df5de6de9c720edc8744d7fc9" title="Creates and initializes a SimplePathlossModel with the passed parameter values. " alt="" coords="271,71,474,112"/>
+<area shape="rect" id="node11" href="$classveins_1_1_phy_layer80211p.html#a25aee87153fffc8a415d3d38e55c8c00" title="Creates and initializes a TwoRayInterferenceModel with the passed parameter values. " alt="" coords="275,495,470,551"/>
+<area shape="rect" id="node12" href="$classveins_1_1_phy_layer80211p.html#aa801ec3c38ba886d90b1889480f9aac0" title="Creates and initializes a VehicleObstacleShadowing with the passed parameter values. " alt="" coords="287,283,459,339"/>
+<area shape="rect" id="node14" href="$classveins_1_1_base_world_utility.html#ad67073ffe5557077cd4b96fa2138c536" title="Returns true if the world is 2&#45;dimensional. " alt="" coords="293,576,452,617"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_world_utility.html#ac0e47ec8501896bb97172a70c31d7e06" title="Returns true if our playground represents a torus (borders are connected) " alt="" coords="557,120,716,161"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize. " alt="" coords="557,185,716,227"/>
+<area shape="rect" id="node9" href="$classveins_1_1_obstacle_control_access.html#a835e99d76a4f98090ea3be8f57fd2003" title="veins::ObstacleControlAccess\l::getIfExists" alt="" coords="537,251,736,292"/>
+<area shape="rect" id="node13" href="$classveins_1_1_vehicle_obstacle_control_access.html#a2a1d5694c1098854d78e763bfc6e5cdc" title="veins::VehicleObstacleControl\lAccess::getIfExists" alt="" coords="537,316,736,357"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="veins::LAddress::L2BROADCAST" name="veins::LAddress::L2BROADCAST">
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#aa33e88d786741d77a486617749ddf6d0" title="Handle messages from lower layer. " alt="" coords="276,5,451,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#a50663c27a2a1782c618309345687e142" title="Handle self messages such as timers. " alt="" coords="276,71,451,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4_1_1_e_d_c_a.html#a10a3c354dd97eb3b7b1d6a374494b2be" title="veins::Mac1609_4::EDCA\l::postTransmit" alt="" coords="276,136,451,177"/>
+</map>

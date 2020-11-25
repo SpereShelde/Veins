@@ -1,0 +1,14 @@
+<map id="veins::Signal::operator=" name="veins::Signal::operator=">
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#a1955a75de66cc15338fa79d06b011675" title="Get the AnalogueModels associated with this Signal. " alt="" coords="227,5,405,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a4a75ce4e3f10923d9fbabc8e3fbe6723" title="Get the center frequency&#39;s index. " alt="" coords="235,71,397,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#a1ec3ce50715006bcf440be743b1a1da4" title="Get the offset of the data frequency range in the absolute frequency range. " alt="" coords="223,137,409,163"/>
+<area shape="rect" id="node5" href="$classveins_1_1_signal.html#afabbef1186e68d78d823798b028703e5" title="Get the duration. " alt="" coords="230,187,402,214"/>
+<area shape="rect" id="node6" href="$classveins_1_1_signal.html#ae321b29b18c416a62f4a657ddfb9f49b" title="Get the number of AnalogueModels that have already been applied to the Signal. " alt="" coords="213,239,419,280"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#ac4093c5015ae08e668ed521659706a90" title="The number of values in the data frequency subrange. " alt="" coords="227,304,405,345"/>
+<area shape="rect" id="node8" href="$classveins_1_1_signal.html#a6c3d4d90a0a37737d678455401bdb48a" title="Get the propagation delay. " alt="" coords="220,369,412,411"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#a42a8f0fb95c9ea08ff0a6a16df37ae14" title="Get this signal&#39;s receiver POA. " alt="" coords="217,435,415,462"/>
+<area shape="rect" id="node10" href="$classveins_1_1_signal.html#a3110835239b852cf44bd59356be3fcc3" title="Get this signal&#39;s sender POA. " alt="" coords="223,486,409,513"/>
+<area shape="rect" id="node11" href="$classveins_1_1_signal.html#aa3bcd9ab71e4e5875148183d92ba272d" title="Timing. " alt="" coords="231,537,401,579"/>
+<area shape="rect" id="node12" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on. " alt="" coords="227,603,405,630"/>
+<area shape="rect" id="node13" href="$classveins_1_1_signal.html#af304e6fb649a7dab4768e5b784d656a3" title="Predicate which indicates presence of timing information. " alt="" coords="233,654,399,681"/>
+</map>

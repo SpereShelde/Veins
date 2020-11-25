@@ -1,0 +1,14 @@
+<map id="BaseConnectionManager.cc" name="BaseConnectionManager.cc">
+<area shape="rect" id="node2" href="$_base_connection_manager_8h.html" title="veins/base/connectionManager\l/BaseConnectionManager.h" alt="" coords="269,80,472,121"/>
+<area shape="rect" id="node18" href="$_nic_entry_debug_8h.html" title="veins/base/connectionManager\l/NicEntryDebug.h" alt="" coords="723,80,925,121"/>
+<area shape="rect" id="node20" href="$_nic_entry_direct_8h.html" title="veins/base/connectionManager\l/NicEntryDirect.h" alt="" coords="496,80,699,121"/>
+<area shape="rect" id="node21" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="5,259,144,300"/>
+<area shape="rect" id="node22" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="852,423,1047,449"/>
+<area shape="rect" id="node3" href="$veins_8h.html" title="veins/veins.h" alt="" coords="440,497,539,524"/>
+<area shape="rect" id="node7" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="168,259,333,300"/>
+<area shape="rect" id="node13" href="$_nic_entry_8h.html" title="veins/base/connectionManager\l/NicEntry.h" alt="" coords="541,169,744,211"/>
+<area shape="rect" id="node15" href="$_heading_8h.html" title="veins/base/utils/Heading.h" alt="" coords="408,266,584,293"/>
+<area shape="rect" id="node8" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="408,348,571,375"/>
+<area shape="rect" id="node9" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="53,423,232,449"/>
+<area shape="rect" id="node16" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="709,259,851,300"/>
+</map>

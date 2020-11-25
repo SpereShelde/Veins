@@ -1,0 +1,8 @@
+<map id="veins::TraCIScenarioManagerForker::finish" name="veins::TraCIScenarioManagerForker::finish">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#ad7a61cb680779283e019b961eb567fad" title="veins::TraCIScenarioManager\l::finish" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a1283a00830ff63144a1c9551495b086e" title="veins::TraCIScenarioManager\lForker::killServer" alt="" coords="248,136,443,177"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#aaeb2994f7103a8710de44e1475345855" title="veins::TraCIScenarioManager\l::deleteManagedModule" alt="" coords="491,71,685,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_vehicle_obstacle_control.html#a10824f43b0e015c6e68a9292113ea3ff" title="veins::VehicleObstacleControl\l::erase" alt="" coords="733,5,932,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_channel_access.html#a0dc69d65185a429fcd739d4eadedb504" title="Returns a pointer to the ConnectionManager responsible for the passed NIC module. ..." alt="" coords="751,71,915,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_scenario_manager.html#a600d697200c9ed997ed6551cbc8e81d3" title="returns a pointer to the managed module named moduleName, or 0 if no module can be found ..." alt="" coords="735,136,930,177"/>
+</map>

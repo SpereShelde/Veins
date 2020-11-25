@@ -1,0 +1,4 @@
+<map id="veins::TraCIMobility::getParkingState" name="veins::TraCIMobility::getParkingState">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#ab5cc9db685df1f2f180359af47a3140c" title="this function is called every time the vehicle parks or starts moving again " alt="" coords="192,5,376,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer.html#acf0b4977efacc25c723cc44a938ee0f9" title="veins::DemoBaseApplLayer\l::receiveSignal" alt="" coords="424,5,608,47"/>
+</map>

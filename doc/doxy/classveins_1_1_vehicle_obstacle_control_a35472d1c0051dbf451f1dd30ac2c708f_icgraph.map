@@ -1,0 +1,4 @@
+<map id="veins::VehicleObstacleControl::drawVehicleObstacles" name="veins::VehicleObstacleControl::drawVehicleObstacles">
+<area shape="rect" id="node2" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="499,5,719,47"/>
+</map>

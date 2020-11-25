@@ -1,0 +1,6 @@
+<map id="veins::Decider80211p::setChannelIdleStatus" name="veins::Decider80211p::setChannelIdleStatus">
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="223,5,381,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="228,71,376,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="228,136,376,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_phy_layer80211p.html#a6851aaac3c59b66568847e75691ba3e5" title="Explicit request to PHY for the channel status. " alt="" coords="208,201,396,243"/>
+</map>

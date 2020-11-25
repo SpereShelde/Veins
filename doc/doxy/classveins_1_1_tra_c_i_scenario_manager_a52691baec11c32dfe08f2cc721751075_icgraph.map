@@ -1,0 +1,11 @@
+<map id="veins::TraCIScenarioManager::isModuleUnequipped" name="veins::TraCIScenarioManager::isModuleUnequipped">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a4b6aa1aa798b245ff323c5759a3b848e" title="veins::TraCIScenarioManager\l::processVehicleSubscription" alt="" coords="248,121,443,163"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#a2f149bc15c3119ab19850b6960689eeb" title="veins::TraCIScenarioManager\l::processSubcriptionResult" alt="" coords="491,92,685,133"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="veins::TraCIScenarioManager\l::init_traci" alt="" coords="1001,27,1196,68"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_scenario_manager.html#a84ebe9fb50441189bd39f949f2593115" title="read and execute all commands for the next timestep " alt="" coords="1001,92,1196,133"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_scenario_manager.html#a999d945fca20d45532a24b492430d742" title="veins::TraCIScenarioManager\l::subscribeToVehicleVariables" alt="" coords="744,151,943,192"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_scenario_manager.html#a9aff5d4c2403fdc11846bbb27f32fd04" title="veins::TraCIScenarioManager\l::subscribeToTrafficLightVariables" alt="" coords="733,33,953,75"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="1244,92,1439,133"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title="veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="1244,27,1439,68"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title="veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1487,92,1681,133"/>
+</map>

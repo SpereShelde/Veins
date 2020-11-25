@@ -1,0 +1,4 @@
+<map id="veins::BaseMacLayer::getUpperDestinationFromControlInfo" name="veins::BaseMacLayer::getUpperDestinationFromControlInfo">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html#a32d47cbd6940c09071e0f0e777cf6716" title="Encapsulate the NetwPkt into an MacPkt. " alt="" coords="296,5,444,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mac_layer.html#a00e3c0935a4e53b889a1c32848f1fed0" title="Handle messages comming from the network layer. " alt="" coords="492,5,640,47"/>
+</map>

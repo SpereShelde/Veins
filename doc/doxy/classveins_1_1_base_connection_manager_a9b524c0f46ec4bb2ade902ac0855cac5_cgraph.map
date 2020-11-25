@@ -1,0 +1,4 @@
+<map id="veins::BaseConnectionManager::fillUnionWithNeighbors" name="veins::BaseConnectionManager::fillUnionWithNeighbors">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager_1_1_coord_set.html#a94f30f431f9664e2fdb17aac5a845992" title="Adds a GridCoord to the set. " alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_connection_manager.html#a77e53c22a7c607482398632b85396a6c" title="If the value is outside of its bounds (zero and max) this function returns &#45;1 if useTorus is false an..." alt="" coords="260,71,467,112"/>
+</map>

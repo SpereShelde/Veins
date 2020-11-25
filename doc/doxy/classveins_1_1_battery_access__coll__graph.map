@@ -1,0 +1,4 @@
+<map id="veins::BatteryAccess" name="veins::BatteryAccess">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="53,81,186,108"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="141,157,274,184"/>
+</map>

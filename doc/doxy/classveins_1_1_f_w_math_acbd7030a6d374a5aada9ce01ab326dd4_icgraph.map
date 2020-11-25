@@ -1,0 +1,5 @@
+<map id="veins::FWMath::dBm2mW" name="veins::FWMath::dBm2mW">
+<area shape="rect" id="node2" href="$classveins_1_1_sampled_antenna1_d.html#a3bc51368d1d6c6402c46a3cf6e7fc554" title="Calculates this antenna&#39;s gain based on the direction the signal is coming from/sent in..." alt="" coords="231,5,408,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a63e95c45ba5f46514ed9027c53216491" title="Initialize members and associated objects according to parameterization. " alt="" coords="246,71,393,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html#abdd1c62986d1fd220eb5e51d4458811a" title="veins::PhyLayer80211p\l::initialize" alt="" coords="456,71,615,112"/>
+</map>

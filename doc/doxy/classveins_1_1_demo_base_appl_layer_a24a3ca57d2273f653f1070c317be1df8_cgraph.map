@@ -1,0 +1,4 @@
+<map id="veins::DemoBaseApplLayer::~DemoBaseApplLayer" name="veins::DemoBaseApplLayer::~DemoBaseApplLayer">
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="237,5,379,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="427,5,563,47"/>
+</map>

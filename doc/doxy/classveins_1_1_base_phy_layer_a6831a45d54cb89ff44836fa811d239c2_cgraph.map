@@ -1,0 +1,5 @@
+<map id="veins::BasePhyLayer::initializeAntenna" name="veins::BasePhyLayer::initializeAntenna">
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a2f4ac3bf2db3af3055d8c9397d2ffe3e" title="Create and return an instance of the Antenna with the specified name as a shared pointer. " alt="" coords="205,5,367,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#aa89a9272b99ab3005347301c2effc254" title="Read the parameters of a XML element and stores them in the passed ParameterMap reference. " alt="" coords="200,71,372,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#afe8f862b497716d20c4f380662a25471" title="Creates and returns an instance of the SampledAntenna1D class as a shared pointer. " alt="" coords="420,5,613,47"/>
+</map>

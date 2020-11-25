@@ -1,0 +1,11 @@
+<map id="veins::Mac1609_4" name="veins::Mac1609_4">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html" title="A very simple MAC module template which provides de&#45; and encapsulation of messages using the standard..." alt="" coords="1121,108,1269,135"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_layer.html" title="A very simple layer template. " alt="" coords="879,79,1002,105"/>
+<area shape="rect" id="node4" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="581,56,727,83"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="165,31,299,57"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="348,56,481,83"/>
+<area shape="rect" id="node9" href="$classveins_1_1_passed_message.html" title="veins::PassedMessage" alt="" coords="575,107,733,133"/>
+<area shape="rect" id="node11" href="$classveins_1_1_mac_to_phy_interface.html" title="Defines the methods provided by the phy to the mac layer. " alt="" coords="853,129,1028,156"/>
+<area shape="rect" id="node12" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html" title="Interface between DemoBaseApplLayer Layer and Mac1609_4. " alt="" coords="1103,159,1287,201"/>
+<area shape="rect" id="node13" href="$classveins_1_1_mac80211p_to_phy11p_interface.html" title="Interface of PhyLayer80211p exposed to Mac1609_4. " alt="" coords="1101,225,1288,266"/>
+</map>

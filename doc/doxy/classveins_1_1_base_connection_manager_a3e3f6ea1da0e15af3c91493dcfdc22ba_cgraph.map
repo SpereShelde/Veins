@@ -1,0 +1,9 @@
+<map id="veins::BaseConnectionManager::unregisterNic" name="veins::BaseConnectionManager::unregisterNic">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager_1_1_coord_set.html#a94f30f431f9664e2fdb17aac5a845992" title="Adds a GridCoord to the set. " alt="" coords="515,5,721,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_connection_manager.html#a9b524c0f46ec4bb2ade902ac0855cac5" title="Adds every direct Neighbor of a GridCoord to a union of coords. " alt="" coords="260,64,467,105"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_connection_manager.html#ae776ac81a8f88a9afba710afaf8573b8" title="Returns the NicEntries of the cell with specified coordinate. " alt="" coords="260,129,467,171"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_connection_manager.html#a7f0e7ff7533bb1f5e3c9bb2c2c0db261" title="Calculates the corresponding cell of a coordinate. " alt="" coords="260,195,467,236"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html#adae1596e34bb3aa3f56fecb132ec35ff" title="Output string for this coordinate. " alt="" coords="260,260,467,301"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_connection_manager_1_1_coord_set.html#a703f38eb2b72f1381d2a3b69f26fdbd6" title="Returns the next GridCoord in the set. " alt="" coords="260,325,467,367"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager.html#a77e53c22a7c607482398632b85396a6c" title="If the value is outside of its bounds (zero and max) this function returns &#45;1 if useTorus is false an..." alt="" coords="515,71,721,112"/>
+</map>

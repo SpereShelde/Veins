@@ -1,0 +1,7 @@
+<map id="veins::MyVeinsApp" name="veins::MyVeinsApp">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html" title="Demo application layer base class. " alt="" coords="27,379,211,405"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_appl_layer.html" title="Base class for the application layer. " alt="" coords="45,304,194,331"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_layer.html" title="A very simple layer template. " alt="" coords="58,229,181,256"/>
+<area shape="rect" id="node5" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="46,155,193,181"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="53,80,186,107"/>
+</map>

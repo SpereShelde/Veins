@@ -1,0 +1,17 @@
+<map id="veins::Signal::getReceptionStart" name="veins::Signal::getReceptionStart">
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="779,22,927,63"/>
+<area shape="rect" id="node4" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title="veins::SignalUtils\l::anonymous_namespace\l\{SignalUtils::cc\}::getMaxInterference" alt="" coords="236,72,471,128"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a9dbbcf0004b22c622ec4b06a19b4f564" title="Handle incoming AirFrames with the state AirFrameState::receiving. " alt="" coords="264,218,443,259"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive. " alt="" coords="519,277,716,318"/>
+<area shape="rect" id="node12" href="$namespaceveins_1_1_signal_utils.html#a744df65831b369a6412cb305cf04f06f" title="check if the summed power of interfererFrames&#39;s signals at freqIndex is below a given threshold..." alt="" coords="244,153,463,194"/>
+<area shape="rect" id="node16" href="$namespaceveins.html#a7e340a38decf7a51e8d1e3c3f70a68e6" title="veins::operator\&lt;\&lt;" alt="" coords="291,335,415,361"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="1009,22,1157,63"/>
+<area shape="rect" id="node5" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal..." alt="" coords="555,75,679,117"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel. " alt="" coords="779,277,926,318"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers. " alt="" coords="1225,306,1372,347"/>
+<area shape="rect" id="node9" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="1004,218,1163,259"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages. " alt="" coords="1010,335,1157,377"/>
+<area shape="rect" id="node13" href="$classveins_1_1_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="veins::Decider80211p::cca" alt="" coords="764,160,941,187"/>
+<area shape="rect" id="node14" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="1009,87,1157,129"/>
+<area shape="rect" id="node15" href="$classveins_1_1_phy_layer80211p.html#a6851aaac3c59b66568847e75691ba3e5" title="Explicit request to PHY for the channel status. " alt="" coords="989,153,1177,194"/>
+</map>

@@ -1,0 +1,46 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="style.css" />
+   </head>
+   <body onload="if (top.frames['componentsframe'] == undefined) { s = window.location.toString(); window.location = 'index.html?p=' + s.substring(s.lastIndexOf('/')+1); }">
+<h2 class="comptitle">Message <i>PhyControlMessage</i></h2>
+<b>File: <a href="src-veins-modules-messages-PhyControlMessage.msg.html">src/veins/modules/messages/PhyControlMessage.msg</a></b><br/>
+<p>Defines a control message that can be associated with a MAC frame to set
+transmission power and datarate on a per packet basis</p>
+<h3 class="subtitle">Usage diagram:</h3>
+<p>The following diagram shows usage relationships between types.
+Unresolved types are missing from the diagram. Click <a href="full-msg-usage-diagram.html">here</a> to see the full picture.</p>
+<img src="src-veins-modules-messages-PhyControlMessage-usage.png" ismap="yes" usemap="#usage-diagram"/><map name="usage-diagram"><area shape="rect" id="node1" href="src-veins-modules-messages-PhyControlMessage.html" title="Message PhyControlMessage" alt="" coords="5,5,145,31">
+</map>
+<h3 class="subtitle">Fields:</h3>
+<table class="fieldstable">
+   <tr>
+      <th class="name">Name</th>
+      <th class="type">Type</th>
+      <th class="description">Description</th>
+   </tr>
+<tr class="local">
+   <td>mcs</td>
+   <td>
+      <i>
+int</i>
+   </td>
+   <td>
+<p>modulation and coding scheme to be used (see enum TxMCS in ConstsPhy.h)</p>
+</td>
+</tr>
+<tr class="local">
+   <td>txPower_mW</td>
+   <td>
+      <i>
+double</i>
+   </td>
+   <td>
+<p>transmission power to be used in mW</p>
+</td>
+</tr>
+</table>
+   <hr><p class="footer"><a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top"><img src="by-sa.png"></a> This documentation is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0" target="_top">Creative Commons license</a></p>
+   </body>
+</html>

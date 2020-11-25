@@ -1,0 +1,6 @@
+<map id="veins::Move::getOrientation" name="veins::Move::getOrientation">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#a9e647c3474d6195812dbe1680b687df3" title="veins::BaseMobility\l::getCurrentOrientation" alt="" coords="236,39,391,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mobile_host_obstacle.html#a68f0e2e0e3d53d5f9a0f4dda6d169f3b" title="veins::MobileHostObstacle\l::getShape" alt="" coords="439,5,617,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title="veins::TraCIMobility\l::nextPosition" alt="" coords="459,71,597,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps..." alt="" coords="665,5,844,47"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="veins::TraCIVehicleInserter::receiveSignal" name="veins::TraCIVehicleInserter::receiveSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a9a82c8a0f6af08586d17d122431e98e4" title="veins::TraCIScenarioManager\l::getCommandInterface" alt="" coords="493,129,688,171"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5a41943277b447e3bd5f0ef0827803be" title="veins::TraCIScenarioManager\l::getManagedHosts" alt="" coords="240,253,435,295"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_command_interface.html#a34c0d649240f6d6043532467cd1fb3f6" title="veins::TraCICommandInterface\l::getRouteIds" alt="" coords="235,71,440,112"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_command_interface.html#a02760d51aeac1fc198f12fe0fd70d596" title="veins::TraCICommandInterface\l::getVehicleTypeIds" alt="" coords="235,5,440,47"/>
+<area shape="rect" id="node14" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#a5a650650045c4b633ab797df1c4ea5d9" title="adds a new vehicle to the queue which are tried to be inserted at the next SUMO time step; ..." alt="" coords="247,319,428,360"/>
+<area shape="rect" id="node15" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#ade9a60eea81690b0dc5ac6803b0c478f" title="tries to add all vehicles in the vehicle queue to SUMO; " alt="" coords="247,188,428,229"/>
+<area shape="rect" id="node17" href="$classveins_1_1_tra_c_i_scenario_manager.html#aaef11461dfdc93229532a56fdca3e5df" title="veins::TraCIScenarioManager\l::isConnected" alt="" coords="240,384,435,425"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_command_interface.html#af544e901f18e872a684a0b1279f60f45" title="veins::TraCICommandInterface\l::genericGetStringList" alt="" coords="488,64,693,105"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_buffer.html#a636065a78d254fb480905d0bd0fb7b07" title="veins::TraCIBuffer::eof" alt="" coords="744,90,899,117"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses. " alt="" coords="741,159,901,200"/>
+<area shape="rect" id="node8" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters " alt="" coords="949,107,1136,134"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header) " alt="" coords="963,224,1123,265"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header) " alt="" coords="963,159,1123,200"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title="veins::TraCIBuffer::str" alt="" coords="1184,138,1336,165"/>
+<area shape="rect" id="node11" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title="veins::socket" alt="" coords="1210,195,1310,222"/>
+<area shape="rect" id="node16" href="$classveins_1_1_tra_c_i_command_interface.html#a1f7ae67bfc7c7aee1e221e26724ce026" title="Adds a vehicle to the simulation. " alt="" coords="488,195,693,236"/>
+</map>

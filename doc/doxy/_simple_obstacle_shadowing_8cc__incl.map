@@ -1,0 +1,16 @@
+<map id="SimpleObstacleShadowing.cc" name="SimpleObstacleShadowing.cc">
+<area shape="rect" id="node2" href="$_simple_obstacle_shadowing_8h.html" title="veins/modules/analogueModel\l/SimpleObstacleShadowing.h" alt="" coords="655,80,852,121"/>
+<area shape="rect" id="node4" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="1083,259,1226,300"/>
+<area shape="rect" id="node18" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="135,348,273,389"/>
+<area shape="rect" id="node19" href="$_obstacle_control_8h.html" title="veins/modules/obstacle\l/ObstacleControl.h" alt="" coords="519,169,678,211"/>
+<area shape="rect" id="node27" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="1537,355,1697,382"/>
+<area shape="rect" id="node7" href="$veins_8h.html" title="veins/veins.h" alt="" coords="635,587,733,613"/>
+<area shape="rect" id="node10" href="$_antenna_position_8h.html" title="veins/base/utils/Antenna\lPosition.h" alt="" coords="1132,348,1297,389"/>
+<area shape="rect" id="node11" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="513,437,676,464"/>
+<area shape="rect" id="node16" href="$_has_log_proxy_8h.html" title="veins/modules/utility\l/HasLogProxy.h" alt="" coords="1372,348,1513,389"/>
+<area shape="rect" id="node12" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="44,512,223,539"/>
+<area shape="rect" id="node20" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="637,259,795,300"/>
+<area shape="rect" id="node21" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="349,348,569,389"/>
+<area shape="rect" id="node24" href="$_b_box_lookup_8h.html" title="veins/modules/utility\l/BBoxLookup.h" alt="" coords="820,259,961,300"/>
+<area shape="rect" id="node23" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="415,512,609,539"/>
+</map>

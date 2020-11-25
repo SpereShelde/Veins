@@ -1,0 +1,8 @@
+<map id="veins::AnnotationManager::erase" name="veins::AnnotationManager::erase">
+<area shape="rect" id="node2" href="$classveins_1_1_obstacle_control.html#a3c5fb281ac00c947afe86d5e4bf99759" title="veins::ObstacleControl\l::erase" alt="" coords="236,5,391,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html#af071307b3e3fad6ec12a193418a9f576" title="veins::AnnotationManager\l::eraseAll" alt="" coords="227,71,400,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_annotation_manager.html#a15b1bc8dc418c545c8ff4e2b1f14833b" title="veins::AnnotationManager\l::handleSelfMsg" alt="" coords="227,136,400,177"/>
+<area shape="rect" id="node4" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles " alt="" coords="448,71,647,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="695,71,915,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_annotation_manager.html#a3e4a47c7b4bdeef090c4bb77c2813f3a" title="veins::AnnotationManager\l::handleMessage" alt="" coords="461,136,634,177"/>
+</map>

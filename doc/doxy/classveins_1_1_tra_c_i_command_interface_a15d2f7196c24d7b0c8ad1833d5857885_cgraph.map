@@ -1,0 +1,10 @@
+<map id="veins::TraCICommandInterface::getRoadIds" name="veins::TraCICommandInterface::getRoadIds">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_command_interface.html#af544e901f18e872a684a0b1279f60f45" title="veins::TraCICommandInterface\l::genericGetStringList" alt="" coords="259,41,464,83"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_buffer.html#a636065a78d254fb480905d0bd0fb7b07" title="veins::TraCIBuffer::eof" alt="" coords="515,19,669,46"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses. " alt="" coords="512,71,672,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header) " alt="" coords="733,71,893,112"/>
+<area shape="rect" id="node8" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters " alt="" coords="720,137,907,163"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header) " alt="" coords="733,5,893,47"/>
+<area shape="rect" id="node6" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title="veins::socket" alt="" coords="981,51,1081,78"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title="veins::TraCIBuffer::str" alt="" coords="955,106,1107,133"/>
+</map>

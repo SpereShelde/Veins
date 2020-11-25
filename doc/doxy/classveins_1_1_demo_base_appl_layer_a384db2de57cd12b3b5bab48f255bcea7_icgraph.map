@@ -1,0 +1,5 @@
+<map id="veins::DemoBaseApplLayer::handlePositionUpdate" name="veins::DemoBaseApplLayer::handlePositionUpdate">
+<area shape="rect" id="node2" href="$classveins_1_1_my_veins_app.html#aa22adfb8dcb4f499757e59c7412b4c9f" title="this function is called every time the vehicle receives a position update signal " alt="" coords="255,5,404,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_demo11p.html#aae2d2ce4ddead5bf4fdacf8fe00ba7e8" title="this function is called every time the vehicle receives a position update signal " alt="" coords="251,71,408,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#acf0b4977efacc25c723cc44a938ee0f9" title="veins::DemoBaseApplLayer\l::receiveSignal" alt="" coords="237,136,421,177"/>
+</map>

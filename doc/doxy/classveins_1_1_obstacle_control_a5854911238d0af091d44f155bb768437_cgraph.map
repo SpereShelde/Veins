@@ -1,0 +1,25 @@
+<map id="veins::ObstacleControl::addFromTypeAndShape" name="veins::ObstacleControl::addFromTypeAndShape">
+<area shape="rect" id="node2" href="$classveins_1_1_obstacle_control.html#a206a6e9155d1b201841d0718e65ed30f" title="veins::ObstacleControl::add" alt="" coords="224,261,408,287"/>
+<area shape="rect" id="node22" href="$classveins_1_1_obstacle_control.html#a0f7d19e7e419e086c046586b5741adc8" title="veins::ObstacleControl\l::getAttenuationPerCut" alt="" coords="239,312,393,353"/>
+<area shape="rect" id="node23" href="$classveins_1_1_obstacle_control.html#ab596fc592faec7888953baf1772995cc" title="veins::ObstacleControl\l::getAttenuationPerMeter" alt="" coords="233,377,399,419"/>
+<area shape="rect" id="node24" href="$classveins_1_1_obstacle_control.html#ac366713391101982a192cd13d983997e" title="veins::ObstacleControl\l::isTypeSupported" alt="" coords="239,443,393,484"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html#a7623e3423953cbe2f3db0133967829b7" title="veins::AnnotationManager\l::drawPolygon" alt="" coords="457,224,631,265"/>
+<area shape="rect" id="node21" href="$classveins_1_1_obstacle.html#a6e4559fb9e1dcf379cf347b8378fc6b5" title="veins::Obstacle::getShape" alt="" coords="456,290,632,317"/>
+<area shape="rect" id="node4" href="$classveins_1_1_annotation_manager.html#a87ffa1c7edbccb8372a4551b73c73def" title="veins::AnnotationManager\l::show" alt="" coords="680,224,853,265"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_command_interface.html#ac993f428c814e092e6d7326e2af150eb" title="veins::TraCICommandInterface\l::addPoi" alt="" coords="901,60,1107,101"/>
+<area shape="rect" id="node14" href="$classveins_1_1_tra_c_i_command_interface.html#a1d528260cf5344fffba0a59127881d1d" title="veins::TraCICommandInterface\l::addPolygon" alt="" coords="901,125,1107,167"/>
+<area shape="rect" id="node15" href="$classveins_1_1_tra_c_i_color.html#a298f34374f0c11021d65018040152c98" title="veins::TraCIColor::\lfromTkColor" alt="" coords="937,191,1071,232"/>
+<area shape="rect" id="node17" href="$classveins_1_1_tra_c_i_scenario_manager_access.html#a327aea423a1acd13027a591fbae8b4c5" title="veins::TraCIScenarioManager\lAccess::get" alt="" coords="907,256,1101,297"/>
+<area shape="rect" id="node19" href="$classveins_1_1_tra_c_i_scenario_manager.html#a9a82c8a0f6af08586d17d122431e98e4" title="veins::TraCIScenarioManager\l::getCommandInterface" alt="" coords="907,321,1101,363"/>
+<area shape="rect" id="node20" href="$classveins_1_1_tra_c_i_scenario_manager.html#aaef11461dfdc93229532a56fdca3e5df" title="veins::TraCIScenarioManager\l::isConnected" alt="" coords="907,387,1101,428"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_connection.html#a43b793beb2e8c60243db24af72951e59" title="convert OMNeT++ coordinates to TraCI coordinates " alt="" coords="1155,5,1315,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses. " alt="" coords="1155,71,1315,112"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_buffer.html#a636065a78d254fb480905d0bd0fb7b07" title="veins::TraCIBuffer::eof" alt="" coords="1157,137,1312,163"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header) " alt="" coords="1376,71,1536,112"/>
+<area shape="rect" id="node11" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters " alt="" coords="1363,137,1549,163"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header) " alt="" coords="1376,5,1536,47"/>
+<area shape="rect" id="node9" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title="veins::socket" alt="" coords="1623,51,1723,78"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title="veins::TraCIBuffer::str" alt="" coords="1597,106,1749,133"/>
+<area shape="rect" id="node16" href="$classveins_1_1_tra_c_i_color.html#aed4c0a7c62bb97cd300b23f3f932e6e7" title="veins::TraCIColor::\lTraCIColor" alt="" coords="1168,191,1301,232"/>
+<area shape="rect" id="node18" href="$classveins_1_1_find_module.html#a5235f90b10b3a297c25baeaa8a4194cf" title="Returns a pointer to the module with the type of this template. " alt="" coords="1167,256,1303,297"/>
+</map>

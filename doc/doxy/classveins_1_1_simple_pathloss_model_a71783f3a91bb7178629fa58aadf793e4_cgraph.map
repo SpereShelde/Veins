@@ -1,0 +1,9 @@
+<map id="veins::SimplePathlossModel::filterSignal" name="veins::SimplePathlossModel::filterSignal">
+<area shape="rect" id="node2" href="$classveins_1_1_spectrum.html#a17aa50791a5cd216f435169bf68f98b9" title="veins::Spectrum::freqAt" alt="" coords="259,5,419,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a87104706e2aecffa1146fe6b115e8450" title="Returns the number of power values stored in this signal. " alt="" coords="244,56,435,83"/>
+<area shape="rect" id="node4" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t. " alt="" coords="261,107,417,149"/>
+<area shape="rect" id="node5" href="$classveins_1_1_signal.html#a42a8f0fb95c9ea08ff0a6a16df37ae14" title="Get this signal&#39;s receiver POA. " alt="" coords="240,173,439,200"/>
+<area shape="rect" id="node6" href="$classveins_1_1_signal.html#a3110835239b852cf44bd59356be3fcc3" title="Get this signal&#39;s sender POA. " alt="" coords="246,224,433,251"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on. " alt="" coords="250,275,429,301"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second. " alt="" coords="260,326,419,367"/>
+</map>

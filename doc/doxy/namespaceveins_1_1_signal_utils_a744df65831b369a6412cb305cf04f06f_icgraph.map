@@ -1,0 +1,7 @@
+<map id="veins::SignalUtils::isChannelPowerBelowThreshold" name="veins::SignalUtils::isChannelPowerBelowThreshold">
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="veins::Decider80211p::cca" alt="" coords="272,111,449,138"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages. " alt="" coords="512,5,671,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal. " alt="" coords="517,71,665,112"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame. " alt="" coords="517,136,665,177"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a6851aaac3c59b66568847e75691ba3e5" title="Explicit request to PHY for the channel status. " alt="" coords="497,201,685,243"/>
+</map>

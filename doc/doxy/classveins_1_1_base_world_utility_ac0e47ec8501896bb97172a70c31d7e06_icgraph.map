@@ -1,0 +1,8 @@
+<map id="veins::BaseWorldUtility::useTorus" name="veins::BaseWorldUtility::useTorus">
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#a084bb7d054e50e3d276da4ce0b7bb5b0" title="Reads init parameters and calculates a maximal interference distance. " alt="" coords="225,5,432,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html#a382ee7b30a3ab1670cc2cca0b433446d" title="Creates and initializes a BreakpointPathlossModel with the passed parameter values. " alt="" coords="233,71,424,127"/>
+<area shape="rect" id="node5" href="$classveins_1_1_phy_layer80211p.html#a59691cd6e2658d2a6ec8eb41423591f9" title="Creates and initializes a SimpleObstacleShadowing with the passed parameter values. " alt="" coords="212,152,445,193"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a39de6f5df5de6de9c720edc8744d7fc9" title="Creates and initializes a SimplePathlossModel with the passed parameter values. " alt="" coords="227,217,430,259"/>
+<area shape="rect" id="node7" href="$classveins_1_1_phy_layer80211p.html#aa801ec3c38ba886d90b1889480f9aac0" title="Creates and initializes a VehicleObstacleShadowing with the passed parameter values. " alt="" coords="243,283,415,339"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html#ae9a4ddccf5652f8376aee93c2be56730" title="Creates and returns an instance of the AnalogueModel with the specified name. " alt="" coords="493,185,696,227"/>
+</map>

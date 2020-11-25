@@ -1,0 +1,8 @@
+<map id="Obstacle.cc" name="Obstacle.cc">
+<area shape="rect" id="node3" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="279,80,438,121"/>
+<area shape="rect" id="node5" href="$veins_8h.html" title="veins/veins.h" alt="" coords="327,408,425,435"/>
+<area shape="rect" id="node9" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="180,259,343,285"/>
+<area shape="rect" id="node14" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="323,169,543,211"/>
+<area shape="rect" id="node10" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="25,333,204,360"/>
+<area shape="rect" id="node16" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="279,333,473,360"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="veins::DemoBaseApplLayer::handleLowerMsg" name="veins::DemoBaseApplLayer::handleLowerMsg">
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#a0c777a569144188afa113afd62daa043" title="this function is called upon receiving a DemoSafetyMessage, also referred to as a beacon ..." alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer.html#a4288b81a3cdf4c5dad6b1abd99b6e2c6" title="this function is called upon receiving a DemoServiceAdvertisement " alt="" coords="237,71,421,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#a1b499d1dc3483e09a9e989a9488c0b59" title="this function is called upon receiving a BaseFrame1609_4 " alt="" coords="237,136,421,177"/>
+</map>

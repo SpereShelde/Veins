@@ -1,0 +1,25 @@
+<map id="TraCIScenarioManager.h" name="TraCIScenarioManager.h">
+<area shape="rect" id="node2" href="$_tra_c_i_mobility_8h.html" title="TraCIMobility.h" alt="" coords="621,80,732,107"/>
+<area shape="rect" id="node12" href="$_tra_c_i_scenario_manager_8cc.html" title="TraCIScenarioManager.cc" alt="" coords="589,155,764,181"/>
+<area shape="rect" id="node13" href="$_tra_c_i_vehicle_inserter_8cc.html" title="TraCIVehicleInserter.cc" alt="" coords="1229,155,1389,181"/>
+<area shape="rect" id="node14" href="$_tra_c_i_scenario_manager_forker_8h.html" title="TraCIScenarioManagerForker.h" alt="" coords="1347,80,1551,107"/>
+<area shape="rect" id="node16" href="$_tra_c_i_scenario_manager_launchd_8h.html" title="TraCIScenarioManagerLaunchd.h" alt="" coords="1575,80,1791,107"/>
+<area shape="rect" id="node18" href="$_tra_c_i_screen_recorder_8cc.html" title="TraCIScreenRecorder.cc" alt="" coords="1816,80,1983,107"/>
+<area shape="rect" id="node19" href="$_tra_c_i_vehicle_inserter_8h.html" title="TraCIVehicleInserter.h" alt="" coords="1117,80,1271,107"/>
+<area shape="rect" id="node20" href="$_annotation_manager_8cc.html" title="AnnotationManager.cc" alt="" coords="2007,80,2159,107"/>
+<area shape="rect" id="node21" href="$_tra_c_i_traffic_light_interface_8h.html" title="TraCITrafficLightInterface.h" alt="" coords="885,80,1068,107"/>
+<area shape="rect" id="node3" href="$_demo_base_appl_layer_8h.html" title="DemoBaseApplLayer.h" alt="" coords="267,155,423,181"/>
+<area shape="rect" id="node11" href="$_tra_c_i_mobility_8cc.html" title="TraCIMobility.cc" alt="" coords="447,155,565,181"/>
+<area shape="rect" id="node4" href="$_demo_base_appl_layer_8cc.html" title="DemoBaseApplLayer.cc" alt="" coords="185,229,347,256"/>
+<area shape="rect" id="node5" href="$_my_veins_app_8h.html" title="MyVeinsApp.h" alt="" coords="371,229,478,256"/>
+<area shape="rect" id="node7" href="$_tra_c_i_demo11p_8h.html" title="TraCIDemo11p.h" alt="" coords="506,229,629,256"/>
+<area shape="rect" id="node9" href="$_tra_c_i_demo_r_s_u11p_8h.html" title="TraCIDemoRSU11p.h" alt="" coords="9,229,160,256"/>
+<area shape="rect" id="node6" href="$_my_veins_app_8cc.html" title="MyVeinsApp.cc" alt="" coords="365,304,479,331"/>
+<area shape="rect" id="node8" href="$_tra_c_i_demo11p_8cc.html" title="TraCIDemo11p.cc" alt="" coords="504,304,633,331"/>
+<area shape="rect" id="node10" href="$_tra_c_i_demo_r_s_u11p_8cc.html" title="TraCIDemoRSU11p.cc" alt="" coords="5,304,164,331"/>
+<area shape="rect" id="node15" href="$_tra_c_i_scenario_manager_forker_8cc.html" title="TraCIScenarioManagerForker.cc" alt="" coords="1413,155,1623,181"/>
+<area shape="rect" id="node17" href="$_tra_c_i_scenario_manager_launchd_8cc.html" title="TraCIScenarioManagerLaunchd.cc" alt="" coords="1647,155,1869,181"/>
+<area shape="rect" id="node22" href="$_tra_c_i_traffic_light_simple_logic_8h.html" title="TraCITrafficLightSimpleLogic.h" alt="" coords="789,155,991,181"/>
+<area shape="rect" id="node24" href="$_tra_c_i_traffic_light_interface_8cc.html" title="TraCITrafficLightInterface.cc" alt="" coords="1015,155,1205,181"/>
+<area shape="rect" id="node23" href="$_tra_c_i_traffic_light_simple_logic_8cc.html" title="TraCITrafficLightSimpleLogic.cc" alt="" coords="785,229,995,256"/>
+</map>

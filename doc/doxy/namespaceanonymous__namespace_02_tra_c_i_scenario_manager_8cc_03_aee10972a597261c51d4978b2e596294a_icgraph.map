@@ -1,0 +1,7 @@
+<map id="anonymous_namespace{TraCIScenarioManager::cc}::getMapping" name="anonymous_namespace{TraCIScenarioManager::cc}::getMapping">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html#a2078c66faf6fa4efd7cf245f4b4ca88e" title="transforms a list of mappings of an omnetpp.ini parameter in a list " alt="" coords="216,39,411,80"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#a45673008abaef567b3c5c0241ff4392f" title="parses the vector of module types in ini file " alt="" coords="459,39,653,80"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager.html#a6060adf2e942f6e7343ee26091193341" title="veins::TraCIScenarioManager\l::initialize" alt="" coords="701,39,896,80"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a952e624950eb8aa1d856c850c574a4e9" title="veins::TraCIScenarioManager\lForker::initialize" alt="" coords="944,5,1139,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#afb429edf2aaebebc1895151be0fadbca" title="veins::TraCIScenarioManager\lLaunchd::initialize" alt="" coords="944,71,1139,112"/>
+</map>

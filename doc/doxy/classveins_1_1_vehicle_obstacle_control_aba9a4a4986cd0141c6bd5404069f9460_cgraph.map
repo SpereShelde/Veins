@@ -1,0 +1,7 @@
+<map id="veins::VehicleObstacleControl::getVehicleAttenuationSingle" name="veins::VehicleObstacleControl::getVehicleAttenuationSingle">
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ae0890d174875e1a543f334165b0748c7" title="Get the power in milliwatt for the given frequency index. " alt="" coords="289,5,405,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_spectrum.html#a17aa50791a5cd216f435169bf68f98b9" title="veins::Spectrum::freqAt" alt="" coords="267,56,427,83"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#a87104706e2aecffa1146fe6b115e8450" title="Returns the number of power values stored in this signal. " alt="" coords="252,107,443,133"/>
+<area shape="rect" id="node5" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on. " alt="" coords="258,157,437,184"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second. " alt="" coords="268,209,427,250"/>
+</map>
