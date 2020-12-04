@@ -24,6 +24,8 @@
 
 #include "veins/modules/application/traci/TraCIDemo11pMessage_m.h"
 
+#include "veins/modules/messages/ReportMessage_m.h"
+
 using namespace veins;
 
 Define_Module(veins::TraCIDemo11p);
@@ -35,6 +37,13 @@ void TraCIDemo11p::initialize(int stage)
         sentMessage = false;
         lastDroveAt = simTime();
         currentSubscribedServiceId = -1;
+
+    }
+    if (stage == 1) {
+        ReportMessage* rm = new ReportMessage();
+        populateWSM(rm);
+        rm->setSenderAddress(myId);
+        scheduleAt(simTime() + uniform(0.01, 0.2), rm);
     }
 }
 
@@ -66,11 +75,17 @@ void TraCIDemo11p::onWSM(BaseFrame1609_4* frame)
     }
 }
 
+void TraCIDemo11p::onRM(ReportMessage* rm)
+{
+//    Do nothing
+}
+
 void TraCIDemo11p::handleSelfMsg(cMessage* msg)
 {
     if (TraCIDemo11pMessage* wsm = dynamic_cast<TraCIDemo11pMessage*>(msg)) {
         // send this message on the service channel until the counter is 3 or higher.
         // this code only runs when channel switching is enabled
+
         sendDown(wsm->dup());
         wsm->setSerial(wsm->getSerial() + 1);
         if (wsm->getSerial() >= 3) {
@@ -82,6 +97,11 @@ void TraCIDemo11p::handleSelfMsg(cMessage* msg)
             scheduleAt(simTime() + 1, wsm);
         }
     }
+    else if (ReportMessage* rm = dynamic_cast<ReportMessage*>(msg)) {
+        rm->setSenderPos(curPosition);
+        sendDown(rm->dup());
+        scheduleAt(simTime() + 1, rm);
+    }
     else {
         DemoBaseApplLayer::handleSelfMsg(msg);
     }
@@ -90,7 +110,6 @@ void TraCIDemo11p::handleSelfMsg(cMessage* msg)
 void TraCIDemo11p::handlePositionUpdate(cObject* obj)
 {
     DemoBaseApplLayer::handlePositionUpdate(obj);
-
     // stopped for for at least 10s?
     if (mobility->getSpeed() < 1) {
         if (simTime() - lastDroveAt >= 10 && sentMessage == false) {
@@ -99,6 +118,7 @@ void TraCIDemo11p::handlePositionUpdate(cObject* obj)
 
             TraCIDemo11pMessage* wsm = new TraCIDemo11pMessage();
             populateWSM(wsm);
+
             wsm->setDemoData(mobility->getRoadId().c_str());
 
             // host is standing still due to crash

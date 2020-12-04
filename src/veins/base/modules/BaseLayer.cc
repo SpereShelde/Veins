@@ -100,6 +100,7 @@ void BaseLayer::handleMessage(cMessage* msg)
          * it would be wrong to forward the message to one of these gates,
          * as they actually don't exist, so raise an error instead.
          */
+        std::cout << "Error1" << std::endl;
         throw cRuntimeError("No self message and no gateID?? Check configuration.");
     }
     else {
@@ -108,6 +109,7 @@ void BaseLayer::handleMessage(cMessage* msg)
          * with extra gates, but handleMessage() isn't overridden to
          * check for the new gate(s).
          */
+        std::cout << "Error2" << std::endl;
         throw cRuntimeError("Unknown gateID?? Check configuration or override handleMessage().");
     }
 }

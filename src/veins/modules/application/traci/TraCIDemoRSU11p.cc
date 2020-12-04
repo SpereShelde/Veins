@@ -24,9 +24,21 @@
 
 #include "veins/modules/application/traci/TraCIDemo11pMessage_m.h"
 
+#include "veins/modules/messages/ReportMessage_m.h"
+
+
 using namespace veins;
 
 Define_Module(veins::TraCIDemoRSU11p);
+
+
+void TraCIDemoRSU11p::initialize(int stage)
+{
+    DemoBaseApplLayer::initialize(stage);
+    if (stage == 0) {
+        scheduleAt(simTime() + uniform(0.01, 0.2), new cMessage("Connected nodes"));
+    }
+}
 
 void TraCIDemoRSU11p::onWSA(DemoServiceAdvertisment* wsa)
 {
@@ -42,4 +54,17 @@ void TraCIDemoRSU11p::onWSM(BaseFrame1609_4* frame)
 
     // this rsu repeats the received traffic update in 2 seconds plus some random delay
     sendDelayedDown(wsm->dup(), 2 + uniform(0.01, 0.2));
+}
+
+void TraCIDemoRSU11p::onRM(ReportMessage* frame)
+{
+    ReportMessage* rm = check_and_cast<ReportMessage*>(frame);
+    std::cout << "Node " << rm->getSenderAddress() << " reported from position " << rm->getSenderPos() << std::endl;
+    connectedNodes.insert(rm->getSenderAddress());
+}
+
+void TraCIDemoRSU11p::handleSelfMsg(cMessage* msg)
+{
+    std::cout << "There are " << connectedNodes.size() << " connected nodes in the range of RSU " << myId << std::endl;
+    scheduleAt(simTime() + 2, new cMessage("Connected nodes"));
 }

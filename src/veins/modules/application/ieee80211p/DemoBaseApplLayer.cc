@@ -217,6 +217,10 @@ void DemoBaseApplLayer::handleLowerMsg(cMessage* msg)
         receivedWSAs++;
         onWSA(wsa);
     }
+    else if (ReportMessage* rm = dynamic_cast<ReportMessage*>(wsm)) {\
+        receivedRMs++;
+        onRM(rm);
+    }
     else {
         receivedWSMs++;
         onWSM(wsm);
@@ -314,5 +318,9 @@ void DemoBaseApplLayer::checkAndTrackPacket(cMessage* msg)
     else if (dynamic_cast<BaseFrame1609_4*>(msg)) {
         EV_TRACE << "sending down a wsm" << std::endl;
         generatedWSMs++;
+    }
+    else if (dynamic_cast<ReportMessage*>(msg)) {
+        EV_TRACE << "sending down a rm" << std::endl;
+        generatedRMs++;
     }
 }
