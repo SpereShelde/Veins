@@ -66,5 +66,6 @@ void TraCIDemoRSU11p::onRM(ReportMessage* frame)
 void TraCIDemoRSU11p::handleSelfMsg(cMessage* msg)
 {
     std::cout << "There are " << connectedNodes.size() << " connected nodes in the range of RSU " << myId << std::endl;
+    connectedNodes.size();
     scheduleAt(simTime() + 2, new cMessage("Connected nodes"));
 }

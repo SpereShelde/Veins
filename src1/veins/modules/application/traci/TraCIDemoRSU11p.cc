@@ -72,5 +72,6 @@ void TraCIDemoRSU11p::handleSelfMsg(cMessage* msg)
     ReportMessage* rm = dynamic_cast<ReportMessage*>(msg);
     scheduleAt(simTime() + 2, rm);
     std::cout << "There are " << connectedNodes.size() << " connected nodes in the range of RSU " << myId << std::endl;
+    connectedNodes.size();
     sendDown(rm->dup());
 }
