@@ -339,7 +339,6 @@ void Mac1609_4::handleUpperMsg(cMessage* msg)
 
 void Mac1609_4::handleLowerControl(cMessage* msg)
 {
-//    std::cout << "Mac1609: handleLowerControl" << msg << " kind: " << msg->getKind() << std::endl;
     if (msg->getKind() == MacToPhyInterface::PHY_RX_START) {
         rxStartIndication = true;
     }

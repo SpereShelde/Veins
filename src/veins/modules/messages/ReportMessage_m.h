@@ -43,6 +43,7 @@ namespace veins {
  * {
  *     Coord senderPos;
  *     LAddress::L2Type senderAddress = -1;
+ *     int senderType;
  * }
  * </pre>
  */
@@ -51,6 +52,7 @@ class VEINS_API ReportMessage : public ::veins::BaseFrame1609_4
   protected:
     Coord senderPos;
     LAddress::L2Type senderAddress;
+    int senderType;
 
   private:
     void copy(const ReportMessage& other);
@@ -75,6 +77,8 @@ class VEINS_API ReportMessage : public ::veins::BaseFrame1609_4
     virtual LAddress::L2Type& getSenderAddress();
     virtual const LAddress::L2Type& getSenderAddress() const {return const_cast<ReportMessage*>(this)->getSenderAddress();}
     virtual void setSenderAddress(const LAddress::L2Type& senderAddress);
+    virtual int getSenderType() const;
+    virtual void setSenderType(int senderType);
 };
 
 inline void doParsimPacking(omnetpp::cCommBuffer *b, const ReportMessage& obj) {obj.parsimPack(b);}

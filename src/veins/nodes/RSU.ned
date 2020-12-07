@@ -30,6 +30,7 @@ module RSU
     parameters:
         string applType; //type of the application layer
         string nicType = default("Nic80211p"); // type of network interface card
+        @display("p=150,140;i=veins/sign/yellowdiamond;is=vs");
     gates:
         input veinsradioIn; // gate for sendDirect
     submodules:

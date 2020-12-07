@@ -35,8 +35,12 @@ Define_Module(veins::TraCIDemoRSU11p);
 void TraCIDemoRSU11p::initialize(int stage)
 {
     DemoBaseApplLayer::initialize(stage);
-    if (stage == 0) {
-        scheduleAt(simTime() + uniform(0.01, 0.2), new cMessage("Connected nodes"));
+    if (stage == 1) {
+        ReportMessage* rm = new ReportMessage();
+        populateWSM(rm);
+        rm->setSenderAddress(myId);
+        rm->setSenderType(0);
+        scheduleAt(simTime() + 2 + uniform(0.01, 0.2), rm);
     }
 }
 
@@ -59,13 +63,38 @@ void TraCIDemoRSU11p::onWSM(BaseFrame1609_4* frame)
 void TraCIDemoRSU11p::onRM(ReportMessage* frame)
 {
     ReportMessage* rm = check_and_cast<ReportMessage*>(frame);
-    std::cout << "Node " << rm->getSenderAddress() << " reported from position " << rm->getSenderPos() << std::endl;
-    connectedNodes.insert(rm->getSenderAddress());
+//    std::cout << "Node " << rm->getSenderAddress() << " reported from position to" << myId << rm->getSenderPos() << std::endl;
+//    connectedNodes.insert(rm->getSenderAddress());
+    //    std::cout << simTime() << ": RSU " << myId << " can connect to " << connectedNodes.size() << " nodes" << std::endl;
+    //    std::string id = std::to_string(myId);
+//    std::string size = std::to_string(connectedNodes.size());
+    //    std::string display = id + ": " + size;
+    //    findHost()->getDisplayString().setTagArg("t", 0, display.c_str());
+
+
+    LAddress::L2Type sender = rm->getSenderAddress();
+    simtime_t time = simTime();
+    std::map<LAddress::L2Type, simtime_t>::iterator it;
+    it = connectedNodes.find(sender);
+    if(it == connectedNodes.end()) {
+        connectedNodes.insert(std::make_pair(sender, time));
+    }
+    else {
+        it->second = time;
+    }
+    findHost()->getDisplayString().setTagArg("t", 0, connectedNodes.size());
 }
 
 void TraCIDemoRSU11p::handleSelfMsg(cMessage* msg)
 {
-    std::cout << "There are " << connectedNodes.size() << " connected nodes in the range of RSU " << myId << std::endl;
-    connectedNodes.size();
-    scheduleAt(simTime() + 2, new cMessage("Connected nodes"));
+    ReportMessage* rm = dynamic_cast<ReportMessage*>(msg);
+    scheduleAt(simTime() + 2, rm);
+    sendDown(rm->dup());
+
+    std::map<LAddress::L2Type, simtime_t>::iterator it;
+    for(it = connectedNodes.begin(); it != connectedNodes.end(); it++) {
+        if (simTime() - it->second >= 3) {
+            connectedNodes.erase(it++);
+        }
+    }
 }

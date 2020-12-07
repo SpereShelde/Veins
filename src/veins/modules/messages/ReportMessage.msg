@@ -35,4 +35,5 @@ class LAddress::L2Type extends void;
 packet ReportMessage extends BaseFrame1609_4 {
     Coord senderPos;
     LAddress::L2Type senderAddress = -1;
+    int senderType;
 }

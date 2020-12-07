@@ -48,6 +48,7 @@ protected:
     simtime_t lastDroveAt;
     bool sentMessage;
     int currentSubscribedServiceId;
+    simtime_t lastReceiveAt;
 
 
 protected:

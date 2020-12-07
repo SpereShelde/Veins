@@ -39,12 +39,6 @@ void TraCIDemo11p::initialize(int stage)
         currentSubscribedServiceId = -1;
 
     }
-    if (stage == 1) {
-        ReportMessage* rm = new ReportMessage();
-        populateWSM(rm);
-        rm->setSenderAddress(myId);
-        scheduleAt(simTime() + uniform(0.01, 0.2), rm);
-    }
 }
 
 void TraCIDemo11p::onWSA(DemoServiceAdvertisment* wsa)
@@ -77,7 +71,18 @@ void TraCIDemo11p::onWSM(BaseFrame1609_4* frame)
 
 void TraCIDemo11p::onRM(ReportMessage* rm)
 {
-//    Do nothing
+    if (rm->getSenderType() == 0) {
+
+        lastReceiveAt = simTime();
+        findHost()->getDisplayString().setTagArg("i", 1, "green");
+
+        ReportMessage* newRM = new ReportMessage();
+        populateWSM(newRM);
+        newRM->setSenderAddress(myId);
+        newRM->setSenderType(1);
+        scheduleAt(simTime() + uniform(0.01, 0.2), newRM->dup());
+        delete newRM;
+    }
 }
 
 void TraCIDemo11p::handleSelfMsg(cMessage* msg)
@@ -100,7 +105,7 @@ void TraCIDemo11p::handleSelfMsg(cMessage* msg)
     else if (ReportMessage* rm = dynamic_cast<ReportMessage*>(msg)) {
         rm->setSenderPos(curPosition);
         sendDown(rm->dup());
-        scheduleAt(simTime() + 1, rm);
+        delete rm;
     }
     else {
         DemoBaseApplLayer::handleSelfMsg(msg);
@@ -110,30 +115,8 @@ void TraCIDemo11p::handleSelfMsg(cMessage* msg)
 void TraCIDemo11p::handlePositionUpdate(cObject* obj)
 {
     DemoBaseApplLayer::handlePositionUpdate(obj);
-    // stopped for for at least 10s?
-    if (mobility->getSpeed() < 1) {
-        if (simTime() - lastDroveAt >= 10 && sentMessage == false) {
-            findHost()->getDisplayString().setTagArg("i", 1, "red");
-            sentMessage = true;
 
-            TraCIDemo11pMessage* wsm = new TraCIDemo11pMessage();
-            populateWSM(wsm);
-
-            wsm->setDemoData(mobility->getRoadId().c_str());
-
-            // host is standing still due to crash
-            if (dataOnSch) {
-                startService(Channel::sch2, 42, "Traffic Information Service");
-                // started service and server advertising, schedule message to self to send later
-                scheduleAt(computeAsynchronousSendingTime(1, ChannelType::service), wsm);
-            }
-            else {
-                // send right away on CCH, because channel switching is disabled
-                sendDown(wsm);
-            }
-        }
-    }
-    else {
-        lastDroveAt = simTime();
+    if (simTime() - lastReceiveAt >= 3) {
+        findHost()->getDisplayString().setTagArg("i", 1, "white");
     }
 }

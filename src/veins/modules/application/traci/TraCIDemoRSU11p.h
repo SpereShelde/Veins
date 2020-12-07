@@ -36,7 +36,8 @@ class VEINS_API TraCIDemoRSU11p : public DemoBaseApplLayer {
 public:
     void initialize(int stage) override;
 protected:
-    std::set<LAddress::L2Type> connectedNodes;
+//    std::set<LAddress::L2Type> connectedNodes;
+    std::map<LAddress::L2Type, simtime_t> connectedNodes;
 protected:
     void onWSM(BaseFrame1609_4* wsm) override;
     void onWSA(DemoServiceAdvertisment* wsa) override;

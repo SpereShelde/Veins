@@ -183,6 +183,7 @@ Register_Class(ReportMessage)
 ReportMessage::ReportMessage(const char *name, short kind) : ::veins::BaseFrame1609_4(name,kind)
 {
     this->senderAddress = -1;
+    this->senderType = 0;
 }
 
 ReportMessage::ReportMessage(const ReportMessage& other) : ::veins::BaseFrame1609_4(other)
@@ -206,6 +207,7 @@ void ReportMessage::copy(const ReportMessage& other)
 {
     this->senderPos = other.senderPos;
     this->senderAddress = other.senderAddress;
+    this->senderType = other.senderType;
 }
 
 void ReportMessage::parsimPack(omnetpp::cCommBuffer *b) const
@@ -213,6 +215,7 @@ void ReportMessage::parsimPack(omnetpp::cCommBuffer *b) const
     ::veins::BaseFrame1609_4::parsimPack(b);
     doParsimPacking(b,this->senderPos);
     doParsimPacking(b,this->senderAddress);
+    doParsimPacking(b,this->senderType);
 }
 
 void ReportMessage::parsimUnpack(omnetpp::cCommBuffer *b)
@@ -220,6 +223,7 @@ void ReportMessage::parsimUnpack(omnetpp::cCommBuffer *b)
     ::veins::BaseFrame1609_4::parsimUnpack(b);
     doParsimUnpacking(b,this->senderPos);
     doParsimUnpacking(b,this->senderAddress);
+    doParsimUnpacking(b,this->senderType);
 }
 
 Coord& ReportMessage::getSenderPos()
@@ -240,6 +244,16 @@ LAddress::L2Type& ReportMessage::getSenderAddress()
 void ReportMessage::setSenderAddress(const LAddress::L2Type& senderAddress)
 {
     this->senderAddress = senderAddress;
+}
+
+int ReportMessage::getSenderType() const
+{
+    return this->senderType;
+}
+
+void ReportMessage::setSenderType(int senderType)
+{
+    this->senderType = senderType;
 }
 
 class ReportMessageDescriptor : public omnetpp::cClassDescriptor
@@ -307,7 +321,7 @@ const char *ReportMessageDescriptor::getProperty(const char *propertyname) const
 int ReportMessageDescriptor::getFieldCount() const
 {
     omnetpp::cClassDescriptor *basedesc = getBaseClassDescriptor();
-    return basedesc ? 2+basedesc->getFieldCount() : 2;
+    return basedesc ? 3+basedesc->getFieldCount() : 3;
 }
 
 unsigned int ReportMessageDescriptor::getFieldTypeFlags(int field) const
@@ -321,8 +335,9 @@ unsigned int ReportMessageDescriptor::getFieldTypeFlags(int field) const
     static unsigned int fieldTypeFlags[] = {
         FD_ISCOMPOUND,
         FD_ISCOMPOUND,
+        FD_ISEDITABLE,
     };
-    return (field>=0 && field<2) ? fieldTypeFlags[field] : 0;
+    return (field>=0 && field<3) ? fieldTypeFlags[field] : 0;
 }
 
 const char *ReportMessageDescriptor::getFieldName(int field) const
@@ -336,8 +351,9 @@ const char *ReportMessageDescriptor::getFieldName(int field) const
     static const char *fieldNames[] = {
         "senderPos",
         "senderAddress",
+        "senderType",
     };
-    return (field>=0 && field<2) ? fieldNames[field] : nullptr;
+    return (field>=0 && field<3) ? fieldNames[field] : nullptr;
 }
 
 int ReportMessageDescriptor::findField(const char *fieldName) const
@@ -346,6 +362,7 @@ int ReportMessageDescriptor::findField(const char *fieldName) const
     int base = basedesc ? basedesc->getFieldCount() : 0;
     if (fieldName[0]=='s' && strcmp(fieldName, "senderPos")==0) return base+0;
     if (fieldName[0]=='s' && strcmp(fieldName, "senderAddress")==0) return base+1;
+    if (fieldName[0]=='s' && strcmp(fieldName, "senderType")==0) return base+2;
     return basedesc ? basedesc->findField(fieldName) : -1;
 }
 
@@ -360,8 +377,9 @@ const char *ReportMessageDescriptor::getFieldTypeString(int field) const
     static const char *fieldTypeStrings[] = {
         "Coord",
         "LAddress::L2Type",
+        "int",
     };
-    return (field>=0 && field<2) ? fieldTypeStrings[field] : nullptr;
+    return (field>=0 && field<3) ? fieldTypeStrings[field] : nullptr;
 }
 
 const char **ReportMessageDescriptor::getFieldPropertyNames(int field) const
@@ -430,6 +448,7 @@ std::string ReportMessageDescriptor::getFieldValueAsString(void *object, int fie
     switch (field) {
         case 0: {std::stringstream out; out << pp->getSenderPos(); return out.str();}
         case 1: {std::stringstream out; out << pp->getSenderAddress(); return out.str();}
+        case 2: return long2string(pp->getSenderType());
         default: return "";
     }
 }
@@ -444,6 +463,7 @@ bool ReportMessageDescriptor::setFieldValueAsString(void *object, int field, int
     }
     ReportMessage *pp = (ReportMessage *)object; (void)pp;
     switch (field) {
+        case 2: pp->setSenderType(string2long(value)); return true;
         default: return false;
     }
 }

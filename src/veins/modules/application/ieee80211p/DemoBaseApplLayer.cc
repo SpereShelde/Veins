@@ -217,7 +217,7 @@ void DemoBaseApplLayer::handleLowerMsg(cMessage* msg)
         receivedWSAs++;
         onWSA(wsa);
     }
-    else if (ReportMessage* rm = dynamic_cast<ReportMessage*>(wsm)) {\
+    else if (ReportMessage* rm = dynamic_cast<ReportMessage*>(wsm)) {
         receivedRMs++;
         onRM(rm);
     }

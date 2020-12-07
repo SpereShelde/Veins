@@ -345,7 +345,7 @@ bool BaseConnectionManager::registerNic(cModule* nic, ChannelAccess* chAccess, C
 
     updateConnections(nicID, nicPos, nicPos);
 
-    if (drawMIR) {
+    if (drawMIR && strcmp(nic->getParentModule()->getName(), "rsu") == 0) {
         nic->getParentModule()->getDisplayString().setTagArg("r", 0, maxInterferenceDistance);
     }
 
