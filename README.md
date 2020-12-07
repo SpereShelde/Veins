@@ -11,4 +11,4 @@
 # Branches
 
 - feature/report-message: RSU与小车通信使之知晓范围内有多少小车可连接
-- feature/report-message: RSU与小车通信使之知晓范围内有多少小车可连接；改进版
+- feature/report-message-2: RSU与小车通信使之知晓范围内有多少小车可连接；改进版
