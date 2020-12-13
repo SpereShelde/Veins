@@ -10,12 +10,12 @@
  veins/modules/obstacle/ObstacleControl.h \
  veins/modules/obstacle/Obstacle.h \
  veins/modules/world/annotations/AnnotationManager.h \
+ veins/modules/mobility/traci/TraCIColor.h \
  veins/modules/utility/BBoxLookup.h \
  veins/modules/obstacle/VehicleObstacleControl.h veins/base/utils/Move.h \
  veins/modules/obstacle/MobileHostObstacle.h \
  veins/modules/mobility/traci/TraCIBuffer.h \
  veins/modules/mobility/traci/TraCIConstants.h \
- veins/modules/mobility/traci/TraCIColor.h \
  veins/modules/mobility/traci/TraCIConnection.h \
  veins/modules/mobility/traci/TraCICoord.h \
  veins/modules/mobility/traci/TraCICoordinateTransformation.h \
@@ -61,6 +61,8 @@ veins/modules/obstacle/Obstacle.h:
 
 veins/modules/world/annotations/AnnotationManager.h:
 
+veins/modules/mobility/traci/TraCIColor.h:
+
 veins/modules/utility/BBoxLookup.h:
 
 veins/modules/obstacle/VehicleObstacleControl.h:
@@ -72,8 +74,6 @@ veins/modules/obstacle/MobileHostObstacle.h:
 veins/modules/mobility/traci/TraCIBuffer.h:
 
 veins/modules/mobility/traci/TraCIConstants.h:
-
-veins/modules/mobility/traci/TraCIColor.h:
 
 veins/modules/mobility/traci/TraCIConnection.h:
 

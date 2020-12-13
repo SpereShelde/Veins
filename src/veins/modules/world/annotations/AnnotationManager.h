@@ -30,6 +30,7 @@
 
 #include "veins/base/utils/FindModule.h"
 #include "veins/base/utils/Coord.h"
+#include "veins/modules/mobility/traci/TraCIColor.h"
 
 namespace veins {
 
@@ -105,9 +106,10 @@ public:
 
     class VEINS_API Polygon : public Annotation {
     public:
-        Polygon(std::list<Coord> coords, std::string color)
+        Polygon(std::list<Coord> coords, TraCIColor color, bool filled)
             : coords(coords)
             , color(color)
+            , filled(filled)
         {
         }
         ~Polygon() override
@@ -118,7 +120,8 @@ public:
         friend class AnnotationManager;
 
         std::list<Coord> coords;
-        std::string color;
+        TraCIColor color;
+        bool filled;
     };
 
     class VEINS_API Group {
@@ -148,8 +151,8 @@ public:
     Group* createGroup(std::string title = "untitled");
     Point* drawPoint(Coord p, std::string color, std::string text, Group* group = nullptr);
     Line* drawLine(Coord p1, Coord p2, std::string color, Group* group = nullptr);
-    Polygon* drawPolygon(std::list<Coord> coords, std::string color, Group* group = nullptr);
-    Polygon* drawPolygon(std::vector<Coord> coords, std::string color, Group* group = nullptr);
+    Polygon* drawPolygon(std::list<Coord> coords, TraCIColor color, bool filled, Group* group = nullptr);
+    Polygon* drawPolygon(std::vector<Coord> coords, TraCIColor color, bool filledl, Group* group = nullptr);
     void drawBubble(Coord p1, std::string text);
     void erase(const Annotation* annotation);
     void eraseAll(Group* group = nullptr);

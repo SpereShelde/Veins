@@ -366,6 +366,6 @@ std::vector<std::pair<double, double>> VehicleObstacleControl::getPotentialObsta
 void VehicleObstacleControl::drawVehicleObstacles(const simtime_t& t) const
 {
     for (auto o : vehicleObstacles) {
-        annotations->drawPolygon(o->getShape(t), "black", vehicleAnnotationGroup);
+        annotations->drawPolygon(o->getShape(t), TraCIColor::fromTkColor("black"), 1, vehicleAnnotationGroup);
     }
 }

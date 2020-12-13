@@ -63,14 +63,6 @@ void TraCIDemoRSU11p::onWSM(BaseFrame1609_4* frame)
 void TraCIDemoRSU11p::onRM(ReportMessage* frame)
 {
     ReportMessage* rm = check_and_cast<ReportMessage*>(frame);
-//    std::cout << "Node " << rm->getSenderAddress() << " reported from position to" << myId << rm->getSenderPos() << std::endl;
-//    connectedNodes.insert(rm->getSenderAddress());
-    //    std::cout << simTime() << ": RSU " << myId << " can connect to " << connectedNodes.size() << " nodes" << std::endl;
-    //    std::string id = std::to_string(myId);
-//    std::string size = std::to_string(connectedNodes.size());
-    //    std::string display = id + ": " + size;
-    //    findHost()->getDisplayString().setTagArg("t", 0, display.c_str());
-
 
     LAddress::L2Type sender = rm->getSenderAddress();
     simtime_t time = simTime();

@@ -29,6 +29,7 @@
  veins/modules/obstacle/ObstacleControl.h \
  veins/modules/obstacle/Obstacle.h \
  veins/modules/world/annotations/AnnotationManager.h \
+ veins/modules/mobility/traci/TraCIColor.h \
  veins/modules/utility/BBoxLookup.h \
  veins/modules/analogueModel/VehicleObstacleShadowing.h \
  veins/modules/obstacle/VehicleObstacleControl.h \
@@ -125,6 +126,8 @@ veins/modules/obstacle/ObstacleControl.h:
 veins/modules/obstacle/Obstacle.h:
 
 veins/modules/world/annotations/AnnotationManager.h:
+
+veins/modules/mobility/traci/TraCIColor.h:
 
 veins/modules/utility/BBoxLookup.h:
 

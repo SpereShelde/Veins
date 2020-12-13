@@ -12,6 +12,7 @@
  veins/modules/messages/DemoServiceAdvertisement_m.h \
  veins/base/utils/Coord.h veins/base/utils/FWMath.h \
  veins/modules/messages/DemoSafetyMessage_m.h \
+ veins/modules/messages/ReportMessage_m.h \
  veins/base/connectionManager/ChannelAccess.h \
  veins/base/utils/AntennaPosition.h veins/base/utils/FindModule.h \
  veins/base/modules/BaseMobility.h veins/base/utils/Move.h \
@@ -26,12 +27,12 @@
  veins/modules/obstacle/ObstacleControl.h \
  veins/modules/obstacle/Obstacle.h \
  veins/modules/world/annotations/AnnotationManager.h \
+ veins/modules/mobility/traci/TraCIColor.h \
  veins/modules/utility/BBoxLookup.h \
  veins/modules/obstacle/VehicleObstacleControl.h \
  veins/modules/obstacle/MobileHostObstacle.h \
  veins/modules/mobility/traci/TraCIBuffer.h \
  veins/modules/mobility/traci/TraCIConstants.h \
- veins/modules/mobility/traci/TraCIColor.h \
  veins/modules/mobility/traci/TraCIConnection.h \
  veins/modules/mobility/traci/TraCICoord.h \
  veins/modules/mobility/traci/TraCICoordinateTransformation.h \
@@ -79,6 +80,8 @@ veins/base/utils/FWMath.h:
 
 veins/modules/messages/DemoSafetyMessage_m.h:
 
+veins/modules/messages/ReportMessage_m.h:
+
 veins/base/connectionManager/ChannelAccess.h:
 
 veins/base/utils/AntennaPosition.h:
@@ -113,6 +116,8 @@ veins/modules/obstacle/Obstacle.h:
 
 veins/modules/world/annotations/AnnotationManager.h:
 
+veins/modules/mobility/traci/TraCIColor.h:
+
 veins/modules/utility/BBoxLookup.h:
 
 veins/modules/obstacle/VehicleObstacleControl.h:
@@ -122,8 +127,6 @@ veins/modules/obstacle/MobileHostObstacle.h:
 veins/modules/mobility/traci/TraCIBuffer.h:
 
 veins/modules/mobility/traci/TraCIConstants.h:
-
-veins/modules/mobility/traci/TraCIColor.h:
 
 veins/modules/mobility/traci/TraCIConnection.h:
 

@@ -9,8 +9,8 @@
  veins/modules/obstacle/VehicleObstacleControl.h \
  veins/modules/obstacle/Obstacle.h \
  veins/modules/world/annotations/AnnotationManager.h \
- veins/base/utils/FindModule.h veins/base/utils/Move.h \
- veins/modules/obstacle/MobileHostObstacle.h \
+ veins/base/utils/FindModule.h veins/modules/mobility/traci/TraCIColor.h \
+ veins/base/utils/Move.h veins/modules/obstacle/MobileHostObstacle.h \
  veins/base/messages/AirFrame_m.h veins/base/toolbox/Signal.h \
  veins/base/utils/POA.h veins/base/phyLayer/Antenna.h \
  veins/base/toolbox/Spectrum.h
@@ -40,6 +40,8 @@ veins/modules/obstacle/Obstacle.h:
 veins/modules/world/annotations/AnnotationManager.h:
 
 veins/base/utils/FindModule.h:
+
+veins/modules/mobility/traci/TraCIColor.h:
 
 veins/base/utils/Move.h:
 

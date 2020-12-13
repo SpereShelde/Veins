@@ -390,7 +390,9 @@ void TraCIScenarioManager::init_traci()
                 std::list<Coord> coords = commandInterface->polygon(id).getShape();
                 std::vector<Coord> shape;
                 std::copy(coords.begin(), coords.end(), std::back_inserter(shape));
-                obstacles->addFromTypeAndShape(id, typeId, shape);
+                TraCIColor color = commandInterface->polygon(id).getColor();
+                bool filled = commandInterface->polygon(id).getFilled();
+                obstacles->addFromTypeAndShape(id, typeId, color, filled, shape);
             }
         }
     }
@@ -417,7 +419,7 @@ void TraCIScenarioManager::init_traci()
 
         // draw polygon for region of interest
         if (annotations) {
-            annotations->drawPolygon(pol, "black");
+            annotations->drawPolygon(pol, TraCIColor::fromTkColor("black"), 1);
         }
 
         // calculate region area

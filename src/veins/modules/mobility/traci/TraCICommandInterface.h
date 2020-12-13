@@ -377,7 +377,8 @@ public:
         {
             connection = &traci->connection;
         }
-
+        TraCIColor getColor();
+        bool getFilled();
         std::string getTypeId();
         std::list<Coord> getShape();
         void setShape(const std::list<Coord>& points);

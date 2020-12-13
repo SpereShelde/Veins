@@ -11,6 +11,7 @@
  veins/modules/messages/DemoServiceAdvertisement_m.h \
  veins/base/utils/Coord.h veins/base/utils/FWMath.h \
  veins/modules/messages/DemoSafetyMessage_m.h \
+ veins/modules/messages/ReportMessage_m.h \
  veins/base/connectionManager/ChannelAccess.h \
  veins/base/utils/AntennaPosition.h veins/base/utils/FindModule.h \
  veins/base/modules/BaseMobility.h veins/base/utils/Move.h \
@@ -75,6 +76,8 @@ veins/base/utils/Coord.h:
 veins/base/utils/FWMath.h:
 
 veins/modules/messages/DemoSafetyMessage_m.h:
+
+veins/modules/messages/ReportMessage_m.h:
 
 veins/base/connectionManager/ChannelAccess.h:
 

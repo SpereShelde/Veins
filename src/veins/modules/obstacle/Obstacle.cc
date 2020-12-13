@@ -28,13 +28,16 @@ using namespace veins;
 
 using veins::Obstacle;
 
-Obstacle::Obstacle(std::string id, std::string type, double attenuationPerCut, double attenuationPerMeter)
+Obstacle::Obstacle(std::string id, std::string type, TraCIColor color, bool filled, double attenuationPerCut, double attenuationPerMeter)
     : visualRepresentation(nullptr)
     , id(id)
     , type(type)
+    , color(color)
+    , filled(filled)
     , attenuationPerCut(attenuationPerCut)
     , attenuationPerMeter(attenuationPerMeter)
 {
+
 }
 
 void Obstacle::setShape(Coords shape)
@@ -127,6 +130,16 @@ std::vector<double> Obstacle::getIntersections(const Coord& senderPos, const Coo
 std::string Obstacle::getType() const
 {
     return type;
+}
+
+TraCIColor Obstacle::getColor() const
+{
+    return color;
+}
+
+bool Obstacle::getFilled() const
+{
+    return filled;
 }
 
 std::string Obstacle::getId() const

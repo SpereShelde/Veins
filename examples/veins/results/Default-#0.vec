@@ -1,21 +1,21 @@
 version 2
-run Default-0-20201204-12:09:46-24973
+run Default-0-20201213-17:37:28-11476
 attr configname Default
-attr datetime 20201204-12:09:46
+attr datetime 20201213-17:37:28
 attr experiment Default
 attr inifile omnetpp.ini
 attr iterationvars ""
 attr iterationvarsf ""
 attr measurement ""
 attr network RSUExampleScenario
-attr processid 24973
+attr processid 11476
 attr repetition 0
 attr replication #0
 attr resultdir results
 attr runnumber 0
 attr seedset 0
-param *.playgroundSizeX 1000m
-param *.playgroundSizeY 1000m
+param *.playgroundSizeX 2600m
+param *.playgroundSizeY 2000m
 param *.playgroundSizeZ 50m
 param *.annotations.draw true
 param *.obstacles.obstacles "xmldoc(\"config.xml\", \"//AnalogueModel[@type='SimpleObstacleShadowing']/obstacles\")"
@@ -23,10 +23,16 @@ param *.manager.updateInterval 1s
 param *.manager.host "\"localhost\""
 param *.manager.port 9999
 param *.manager.autoShutdown true
-param *.manager.launchConfig "xmldoc(\"sn.launchd.xml\")"
-param *.rsu[0].mobility.x 300
-param *.rsu[0].mobility.y 300
+param *.manager.launchConfig "xmldoc(\"osm.launchd.xml\")"
+param *.rsu[0].mobility.x 1050
+param *.rsu[0].mobility.y 590
 param *.rsu[0].mobility.z 0
+param *.rsu[1].mobility.x 1240
+param *.rsu[1].mobility.y 820
+param *.rsu[1].mobility.z 0
+param *.rsu[2].mobility.x 900
+param *.rsu[2].mobility.y 900
+param *.rsu[2].mobility.z 0
 param *.rsu[*].applType "\"TraCIDemoRSU11p\""
 param *.rsu[*].appl.headerLength "80 bit"
 param *.rsu[*].appl.sendBeacons false
@@ -36,8 +42,8 @@ param *.rsu[*].appl.beaconUserPriority 7
 param *.rsu[*].appl.dataUserPriority 5
 param *.rsu[*].nic.phy80211p.antennaOffsetZ "0 m"
 param *.connectionManager.sendDirect true
-param *.connectionManager.maxInterfDist 2600m
-param *.connectionManager.drawMaxIntfDist false
+param *.connectionManager.maxInterfDist 200m
+param *.connectionManager.drawMaxIntfDist true
 param *.**.nic.mac1609_4.useServiceChannel false
 param *.**.nic.mac1609_4.txPower 20mW
 param *.**.nic.mac1609_4.bitrate 6Mbps
@@ -73,44 +79,74 @@ vector 6 RSUExampleScenario.node[0].veinsmobility acceleration ETV
 vector 7 RSUExampleScenario.node[0].veinsmobility co2emission ETV
 vector 8 RSUExampleScenario.node[1].veinsmobility acceleration ETV
 vector 9 RSUExampleScenario.node[1].veinsmobility co2emission ETV
-0	3	1	30.1
-0	46	2	30.1
-0	90	3	31.935429966287
-0	133	4	35.217224716395
-0	177	5	39.931991624925
-1	3	1	276.6
-1	46	2	276.6
-1	90	3	276.6
-1	133	4	276.6
-1	177	5	276.6
-2	3	1	323.4
-2	46	2	323.4
-2	90	3	323.4
-2	133	4	323.4
-2	177	5	323.4
-3	3	1	30.1
-3	46	2	30.1
-3	90	3	32.573206313117
-3	133	4	37.086803930812
-3	177	5	43.21077691447
-4	46	2	1.8354299662868
-4	90	3	3.2817947501084
-4	133	4	4.7147669085301
-4	177	5	6.0740309525514
-5	46	2	2.4732063131174
-5	90	3	4.5135976176942
-5	133	4	6.1239729836583
-5	177	5	8.1874071673956
-6	90	3	1.4463647838216
-6	133	4	1.4329721584218
-6	177	5	1.3592640440213
-7	90	3	2.4155269947203
-7	133	4	2.975349355632
-7	177	5	3.4134599048868
-8	90	3	2.0403913045768
-8	133	4	1.6103753659641
-8	177	5	2.0634341837373
-9	90	3	3.5557213002884
-9	133	4	3.8033536471935
-9	177	5	5.6271573509193
+0	2	1	728.8084081431
+0	3	2	728.8084081431
+0	52	3	731.03584270621
+0	53	4	735.82478841793
+0	102	5	741.96777412462
+0	103	6	750.29304135696
+0	152	7	759.27090790829
+0	153	8	768.45530279148
+1	2	1	602.17595672184
+1	3	2	602.17595672184
+1	52	3	602.24846126205
+1	53	4	602.40434476707
+1	102	5	602.60430321323
+1	103	6	602.80398192779
+1	152	7	603.01458456526
+1	153	8	603.23003194074
+2	2	1	918.28691223473
+2	3	2	918.28691223473
+2	52	3	918.54438605318
+2	53	4	919.14823308806
+2	102	5	920.17087778443
+2	103	6	921.62845621787
+2	152	7	923.36344102017
+2	153	8	925.40164016411
+3	2	1	953.9146323231
+3	3	2	953.9146323231
+3	52	3	952.42209299436
+3	53	4	948.92167709369
+3	102	5	942.99355035118
+3	103	6	934.54417421769
+3	152	7	924.48671257838
+3	153	8	912.67156026333
+4	3	2	2.2281300266739
+4	52	3	4.7904409463285
+4	53	4	6.1449037081329
+4	102	5	8.325870720786
+4	103	6	8.9783850108009
+4	152	7	9.184925269379
+4	153	8	8.6968608117398
+5	3	2	1.5147052048706
+5	52	3	3.5524009865941
+5	53	4	6.0161660460755
+5	102	5	8.5748588066315
+5	103	6	10.206826178357
+5	152	7	11.990620523901
+5	153	8	14.093353615037
+6	52	3	2.5623109196546
+6	53	4	1.3544627618045
+6	102	5	2.1809670126531
+6	103	6	0.6525142900149
+6	152	7	0.20654025857802
+6	153	8	-0.48806445763912
+7	52	3	4.3094247154448
+7	53	4	3.4337183036189
+7	102	5	5.9411428135615
+7	103	6	3.0218818556013
+7	152	7	2.0818527922462
+7	153	8	0.973
+8	52	3	2.0376957817236
+8	53	4	2.4637650594814
+8	102	5	2.558692760556
+8	103	6	1.6319673717255
+8	152	7	1.7837943455437
+8	153	8	2.1027330911361
+9	52	3	3.0300388559467
+9	53	4	4.9925385572515
+9	102	5	6.8695389405201
+9	103	6	5.7149944116614
+9	152	7	7.0023852808265
+9	153	8	9.1903849716733
 

@@ -28,6 +28,7 @@
 
 #include "veins/base/utils/Coord.h"
 #include "veins/modules/world/annotations/AnnotationManager.h"
+#include "veins/modules/mobility/traci/TraCIColor.h"
 
 namespace veins {
 
@@ -38,7 +39,7 @@ class VEINS_API Obstacle {
 public:
     using Coords = std::vector<Coord>;
 
-    Obstacle(std::string id, std::string type, double attenuationPerCut, double attenuationPerMeter);
+    Obstacle(std::string id, std::string type, TraCIColor color, bool filled, double attenuationPerCut, double attenuationPerMeter);
 
     void setShape(Coords shape);
     const Coords& getShape() const;
@@ -47,6 +48,8 @@ public:
     bool containsPoint(Coord Point) const;
 
     std::string getType() const;
+    TraCIColor getColor() const;
+    bool getFilled() const;
     std::string getId() const;
     double getAttenuationPerCut() const;
     double getAttenuationPerMeter() const;
@@ -61,6 +64,8 @@ public:
 protected:
     std::string id;
     std::string type;
+    TraCIColor color;
+    bool filled;
     double attenuationPerCut; /**< in dB. attenuation per exterior border of obstacle */
     double attenuationPerMeter; /**< in dB / m. to account for attenuation caused by interior of obstacle */
     Coords coords;

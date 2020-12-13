@@ -812,6 +812,88 @@ std::list<std::string> TraCICommandInterface::getPolygonIds()
     return genericGetStringList(CMD_GET_POLYGON_VARIABLE, "", ID_LIST, RESPONSE_GET_POLYGON_VARIABLE);
 }
 
+TraCIColor TraCICommandInterface::Polygon::getColor()
+{
+    TraCIColor res(0, 0, 0, 0);
+
+    TraCIBuffer p;
+    p << static_cast<uint8_t>(VAR_COLOR);
+    p << polyId;
+    TraCIBuffer buf = connection->query(CMD_GET_POLYGON_VARIABLE, p);
+
+    uint8_t cmdLength;
+    buf >> cmdLength;
+    if (cmdLength == 0) {
+        uint32_t cmdLengthX;
+        buf >> cmdLengthX;
+    }
+    uint8_t commandId_r;
+    buf >> commandId_r;
+    uint8_t responseId = RESPONSE_GET_POLYGON_VARIABLE;
+    ASSERT(commandId_r == responseId);
+    uint8_t varId;
+    buf >> varId;
+    uint8_t variableId = VAR_COLOR;
+    ASSERT(varId == variableId);
+    std::string objectId_r;
+    buf >> objectId_r;
+    std::string objectId = polyId;
+    ASSERT(objectId_r == objectId);
+    uint8_t resType_r;
+    buf >> resType_r;
+    uint8_t resultTypeId = TYPE_COLOR;
+    ASSERT(resType_r == resultTypeId);
+    buf >> res.red;
+    buf >> res.green;
+    buf >> res.blue;
+    buf >> res.alpha;
+
+    ASSERT(buf.eof());
+
+    return res;
+}
+
+bool TraCICommandInterface::Polygon::getFilled()
+{
+    int filled;
+    TraCIBuffer p;
+    p << static_cast<uint8_t>(VAR_FILL);
+    p << polyId;
+    TraCIBuffer buf = connection->query(CMD_GET_POLYGON_VARIABLE, p);
+
+    uint8_t cmdLength;
+    buf >> cmdLength;
+    if (cmdLength == 0) {
+        uint32_t cmdLengthX;
+        buf >> cmdLengthX;
+    }
+    uint8_t commandId_r;
+    buf >> commandId_r;
+    uint8_t responseId = RESPONSE_GET_POLYGON_VARIABLE;
+    ASSERT(commandId_r == responseId);
+    uint8_t varId;
+    buf >> varId;
+    uint8_t variableId = VAR_FILL;
+    ASSERT(varId == variableId);
+    std::string objectId_r;
+    buf >> objectId_r;
+    std::string objectId = polyId;
+    ASSERT(objectId_r == objectId);
+    uint8_t resType_r;
+    buf >> resType_r;
+    uint8_t resultTypeId = TYPE_INTEGER;
+    ASSERT(resType_r == resultTypeId);
+    buf >> filled;
+
+    ASSERT(buf.eof());
+
+    if (filled == 1) {
+        return true;
+    } else {
+        return false;
+    }
+}
+
 std::string TraCICommandInterface::Polygon::getTypeId()
 {
     return traci->genericGetString(CMD_GET_POLYGON_VARIABLE, polyId, VAR_TYPE, RESPONSE_GET_POLYGON_VARIABLE);

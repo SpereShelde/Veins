@@ -26,6 +26,7 @@
 
 #include "veins/modules/obstacle/ObstacleControl.h"
 #include "veins/base/modules/BaseWorldUtility.h"
+#include "veins/modules/mobility/traci/TraCIColor.h"
 
 using veins::ObstacleControl;
 
@@ -124,11 +125,13 @@ void ObstacleControl::addFromXml(cXMLElement* xml)
             ASSERT(e->getAttribute("type"));
             std::string type = e->getAttribute("type");
             ASSERT(e->getAttribute("color"));
-            std::string color = e->getAttribute("color");
+            TraCIColor color = TraCIColor::fromTkColor(e->getAttribute("color"));
+            ASSERT(e->getAttribute("fill"));
+            bool filled = std::stoi(e->getAttribute("fill")) == 1;
             ASSERT(e->getAttribute("shape"));
             std::string shape = e->getAttribute("shape");
 
-            Obstacle obs(id, type, getAttenuationPerCut(type), getAttenuationPerMeter(type));
+            Obstacle obs(id, type, color, filled, getAttenuationPerCut(type), getAttenuationPerMeter(type));
             std::vector<Coord> sh;
             cStringTokenizer st(shape.c_str());
             while (st.hasMoreTokens()) {
@@ -146,12 +149,12 @@ void ObstacleControl::addFromXml(cXMLElement* xml)
     }
 }
 
-void ObstacleControl::addFromTypeAndShape(std::string id, std::string typeId, std::vector<Coord> shape)
+void ObstacleControl::addFromTypeAndShape(std::string id, std::string typeId, TraCIColor color, bool filled, std::vector<Coord> shape)
 {
     if (!isTypeSupported(typeId)) {
         throw cRuntimeError("Unsupported obstacle type: \"%s\"", typeId.c_str());
     }
-    Obstacle obs(id, typeId, getAttenuationPerCut(typeId), getAttenuationPerMeter(typeId));
+    Obstacle obs(id, typeId, color, filled, getAttenuationPerCut(typeId), getAttenuationPerMeter(typeId));
     obs.setShape(shape);
     add(obs);
 }
@@ -162,7 +165,7 @@ void ObstacleControl::add(Obstacle obstacle)
     obstacleOwner.emplace_back(o);
 
     // visualize using AnnotationManager
-    if (annotations) o->visualRepresentation = annotations->drawPolygon(o->getShape(), "red", annotationGroup);
+    if (annotations) o->visualRepresentation = annotations->drawPolygon(o->getShape(), o->getColor(), o->getFilled(), annotationGroup);
 
     cacheEntries.clear();
     isBboxLookupDirty = true;

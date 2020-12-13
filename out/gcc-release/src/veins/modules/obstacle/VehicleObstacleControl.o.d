@@ -5,8 +5,8 @@
  veins/base/utils/AntennaPosition.h veins/base/utils/Coord.h \
  veins/base/utils/FWMath.h veins/modules/obstacle/Obstacle.h \
  veins/modules/world/annotations/AnnotationManager.h \
- veins/base/utils/FindModule.h veins/base/utils/Move.h \
- veins/modules/obstacle/MobileHostObstacle.h \
+ veins/base/utils/FindModule.h veins/modules/mobility/traci/TraCIColor.h \
+ veins/base/utils/Move.h veins/modules/obstacle/MobileHostObstacle.h \
  veins/base/modules/BaseMobility.h veins/base/modules/BatteryAccess.h \
  veins/base/modules/BaseModule.h veins/base/utils/HostState.h \
  veins/base/modules/BaseBattery.h veins/base/modules/BaseWorldUtility.h \
@@ -32,6 +32,8 @@ veins/modules/obstacle/Obstacle.h:
 veins/modules/world/annotations/AnnotationManager.h:
 
 veins/base/utils/FindModule.h:
+
+veins/modules/mobility/traci/TraCIColor.h:
 
 veins/base/utils/Move.h:
 

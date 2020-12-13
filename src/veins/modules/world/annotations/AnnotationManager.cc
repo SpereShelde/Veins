@@ -157,6 +157,7 @@ void AnnotationManager::addFromXml(cXMLElement* xml)
         else if (tag == "line") {
             ASSERT(e->getAttribute("color"));
             std::string color = e->getAttribute("color");
+//            TraCIColor color = TraCIColor::fromTkColor(e->getAttribute("color"));
             ASSERT(e->getAttribute("shape"));
             std::string shape = e->getAttribute("shape");
             std::vector<std::string> points = cStringTokenizer(shape.c_str(), " ").asVector();
@@ -171,9 +172,12 @@ void AnnotationManager::addFromXml(cXMLElement* xml)
         }
         else if (tag == "poly") {
             ASSERT(e->getAttribute("color"));
-            std::string color = e->getAttribute("color");
+//            std::string color = e->getAttribute("color");
+            TraCIColor color = TraCIColor::fromTkColor(e->getAttribute("color"));
             ASSERT(e->getAttribute("shape"));
             std::string shape = e->getAttribute("shape");
+            ASSERT(e->getAttribute("fill"));
+            int fill = std::stoi(e->getAttribute("fill"));
             std::vector<std::string> points = cStringTokenizer(shape.c_str(), " ").asVector();
             ASSERT(points.size() >= 2);
 
@@ -184,7 +188,7 @@ void AnnotationManager::addFromXml(cXMLElement* xml)
                 coords.push_back(Coord(pa[0], pa[1]));
             }
 
-            drawPolygon(coords, color);
+            drawPolygon(coords, color, fill);
         }
         else {
             throw cRuntimeError("while reading annotations xml: expected 'line' or 'poly', but got '%s'", tag.c_str());
@@ -224,9 +228,9 @@ AnnotationManager::Line* AnnotationManager::drawLine(Coord p1, Coord p2, std::st
     return l;
 }
 
-AnnotationManager::Polygon* AnnotationManager::drawPolygon(std::list<Coord> coords, std::string color, Group* group)
+AnnotationManager::Polygon* AnnotationManager::drawPolygon(std::list<Coord> coords, TraCIColor color, bool filled, Group* group)
 {
-    Polygon* p = new Polygon(coords, color);
+    Polygon* p = new Polygon(coords, color, filled);
     p->group = group;
 
     annotations.push_back(p);
@@ -236,9 +240,9 @@ AnnotationManager::Polygon* AnnotationManager::drawPolygon(std::list<Coord> coor
     return p;
 }
 
-AnnotationManager::Polygon* AnnotationManager::drawPolygon(std::vector<Coord> coords, std::string color, Group* group)
+AnnotationManager::Polygon* AnnotationManager::drawPolygon(std::vector<Coord> coords, TraCIColor color, bool filled, Group* group)
 {
-    return drawPolygon(std::list<Coord>(coords.begin(), coords.end()), color, group);
+    return drawPolygon(std::list<Coord>(coords.begin(), coords.end()), color, filled, group);
 }
 
 void AnnotationManager::drawBubble(Coord p1, std::string text)
@@ -320,9 +324,10 @@ void AnnotationManager::show(const Annotation* annotation)
     else if (const Line* l = dynamic_cast<const Line*>(annotation)) {
 
         if (hasGUI()) {
+
             cLineFigure* figure = new cLineFigure();
             figure->setStart(cFigure::Point(l->p1.x, l->p1.y));
-            figure->setEnd(cFigure::Point(l->p2.x, l->p2.y));
+            figure->setEnd(cFigure::Point(l->p2.x, l->p2.y));\
             figure->setLineColor(cFigure::Color(l->color.c_str()));
             annotation->figure = figure;
             annotationLayer->addFigure(annotation->figure);
@@ -349,18 +354,23 @@ void AnnotationManager::show(const Annotation* annotation)
             for (std::list<Coord>::const_iterator i = p->coords.begin(); i != p->coords.end(); ++i) {
                 points.push_back(cFigure::Point(i->x, i->y));
             }
+
+            TraCIColor color = p->color;
+            figure->setLineColor(cFigure::Color(color.red, color.green, color.blue));
             figure->setPoints(points);
-            figure->setLineColor(cFigure::Color(p->color.c_str()));
-            figure->setFilled(false);
+
+            figure->setFillColor(cFigure::Color(color.red, color.green, color.blue));
+            figure->setFilled(p->filled);
             annotation->figure = figure;
             annotationLayer->addFigure(annotation->figure);
         }
 
         TraCIScenarioManager* traci = TraCIScenarioManagerAccess().get();
-        if (traci && traci->isConnected()) {
+        if (traci && traci->isConnected()) {\
             std::stringstream nameBuilder;
             nameBuilder << "Annotation" << getEnvir()->getUniqueNumber();
-            traci->getCommandInterface()->addPolygon(nameBuilder.str(), "Annotation", TraCIColor::fromTkColor(p->color), false, 4, p->coords);
+
+            traci->getCommandInterface()->addPolygon(nameBuilder.str(), "Annotation", p->color, false, 4, p->coords);
             annotation->traciPolygonsIds.push_back(nameBuilder.str());
         }
     }

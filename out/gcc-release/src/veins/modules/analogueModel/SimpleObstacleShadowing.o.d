@@ -9,10 +9,11 @@
  veins/modules/obstacle/ObstacleControl.h \
  veins/modules/obstacle/Obstacle.h \
  veins/modules/world/annotations/AnnotationManager.h \
- veins/base/utils/FindModule.h veins/modules/utility/BBoxLookup.h \
- veins/base/utils/Move.h veins/base/messages/AirFrame_m.h \
- veins/base/toolbox/Signal.h veins/base/utils/POA.h \
- veins/base/phyLayer/Antenna.h veins/base/toolbox/Spectrum.h
+ veins/base/utils/FindModule.h veins/modules/mobility/traci/TraCIColor.h \
+ veins/modules/utility/BBoxLookup.h veins/base/utils/Move.h \
+ veins/base/messages/AirFrame_m.h veins/base/toolbox/Signal.h \
+ veins/base/utils/POA.h veins/base/phyLayer/Antenna.h \
+ veins/base/toolbox/Spectrum.h
 
 veins/modules/analogueModel/SimpleObstacleShadowing.h:
 
@@ -39,6 +40,8 @@ veins/modules/obstacle/Obstacle.h:
 veins/modules/world/annotations/AnnotationManager.h:
 
 veins/base/utils/FindModule.h:
+
+veins/modules/mobility/traci/TraCIColor.h:
 
 veins/modules/utility/BBoxLookup.h:
 
