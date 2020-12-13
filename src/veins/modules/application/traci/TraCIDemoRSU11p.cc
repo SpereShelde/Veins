@@ -91,13 +91,12 @@ void TraCIDemoRSU11p::handleSelfMsg(cMessage* msg)
     scheduleAt(simTime() + 2, rm);
     sendDown(rm->dup());
 
-    if (connectedNodes.size() == 1) {
-        connectedNodes.clear();
-    } else {
-        std::map<LAddress::L2Type, simtime_t>::iterator it;
-        for(it = connectedNodes.begin(); it != connectedNodes.end(); it++) {
-            if (simTime() - it->second >= 3) {
-                connectedNodes.erase(it++);
+    std::map<LAddress::L2Type, simtime_t>::iterator it;
+    for(it = connectedNodes.begin(); it != connectedNodes.end(); it++) {
+        if (simTime() - it->second >= 3) {
+            connectedNodes.erase(it++);
+            if (it == connectedNodes.end()) {
+                break;
             }
         }
     }
